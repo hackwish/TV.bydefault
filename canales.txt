@@ -1,97 +1,100 @@
-#EXTM3U
-#EXTINF:0,[COLOR yellow]==CHILE TV==[/COLOR] 
+##CHILE
+#Este es el listado RAW de señales online de canales. Para procesar en m3u Converter.
+
+
+[COLOR yellow]==CHILE TV==[/COLOR] 
 http://www.chile.com
-#EXTINF:0,TVN
+TVN
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
-#EXTINF:0,CHV
+CHV
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:0,CHV (ALT)
+CHV (ALT)
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvLow.m3u8
-#EXTINF:0,CHV (ALT2)
+CHV (ALT2)
 http://chv.movil.hls.ztreaming.com:80/chvmovil2/chilevision@140569/playlist.m3u8
-#EXTINF:0,CHV (SD)
+CHV (SD)
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:0,13
+13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:0,Canal 13 (SD)
+Canal 13 (SD)
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
-#EXTINF:0,CNN Chile (SD)
+CNN Chile (SD)
 http://unlimited6-cl.dps.live/cnn/cnn.smil/cnnhls6/livestream1/chunks.m3u8?
-#EXTINF:0,CNN Chile (SD)(Alt USA)
+CNN Chile (SD)(Alt USA)
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:0,MEGA
+MEGA
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F
-#EXTINF:0,MEGA (ALT)
+MEGA (ALT)
 http://edge-21-gtd.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:0,UCV (HD)
+UCV (HD)
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:0,UCV Gran Valparaíso (HD)
+UCV Gran Valparaíso (HD)
 rtmp://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/ucvtv2/
-#EXTINF:0,Telecanal
+Telecanal
 http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
-#EXTINF:0,TELECANAL (ALT)
+TELECANAL (ALT)
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
-#EXTINF:0,CDO Premium
+CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:0,Teletrak
+Teletrak
 http://edge1.cl.grupoz.cl/teletrak/live/playlist.m3u8
-#EXTINF:0,ELPINGUINO TV
+ELPINGUINO TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
-#EXTINF:0,TV Red (Punta Arenas)
+TV Red (Punta Arenas)
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
-#EXTINF:0,UMAG TV
+UMAG TV
 http://cluster.ztreaming.com:80/tser5/tser5.sdp/sat.m3u8
-#EXTINF:0,ITV HD
+ITV HD
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
-#EXTINF:0,Holvoet HD
+Holvoet HD
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:0,Contivision HD
+Contivision HD
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:0,CampusTV HD
+CampusTV HD
 http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
-#EXTINF:0,LIV TV (HD)
+LIV TV (HD)
 http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
-#EXTINF:0,NIU TV (HD)
+NIU TV (HD)
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:0,Cinema TVPlay (SD)
+Cinema TVPlay (SD)
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
-#EXTINF:0,Camara de Diputados (SD)
+Camara de Diputados (SD)
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
-#EXTINF:0,Canal Carnaval (HD)
+Canal Carnaval (HD)
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
-#EXTINF:0,Arica TV
+Arica TV
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:0,MasTV Arica
+MasTV Arica
 rtmp://201.218.145.21:1935/Mastv/myStream
-#EXTINF:0,Canal Antofagasta
+Canal Antofagasta
 http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
-#EXTINF:0,Canal 9 (Concepcion)
+Canal 9 (Concepcion)
 rtsp://wow2.cl.digitalproserver.com:1935/c9/_definst_/mp4:livestream2
-#EXTINF:0,TV4 (Lota)
+TV4 (Lota)
 rtmp://evo.eltelon.com:1935/live/tv4-television
-#EXTINF:0,Contivision Musica
+Contivision Musica
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-#EXTINF:0,Canal 2 (U.A. Temuco)
+Canal 2 (U.A. Temuco)
 http://movilstream.digitalproserver.com/uautonoma/uautonomavivo/uautonoma.smil/playlist.m3u8
-#EXTINF:0,Independencia TV
+Independencia TV
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:0,San Bernardo TV
+San Bernardo TV
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
-#EXTINF:0,[COLOR yellow]==CHILE RADIO WEBCAM==[/COLOR] 
+[COLOR yellow]==CHILE RADIO WEBCAM==[/COLOR] 
 http://www.chile.com
-#EXTINF:0,Tele13 Radio
+Tele13 Radio
 http://live.t13.cdnz.cl/t13radio/tablet.m3u8
-#EXTINF:0,Tele13 Radio (ALT)
+Tele13 Radio (ALT)
 http://live.t13.cdnz.cl/t13radio/t13radio-900.m3u8
-#EXTINF:0,Duna (89.7 FM)
+Duna (89.7 FM)
 http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8
-#EXTINF:0,La Clave (92.9)
+La Clave (92.9)
 rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/laclavetv
-#EXTINF:0,FM Tiempo (95.9 FM)
+FM Tiempo (95.9 FM)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:0,[COLOR yellow]==ARGENTINA TV==[/COLOR] 
+[COLOR yellow]==ARGENTINA TV==[/COLOR] 
 http://www.argentina.com
-#EXTINF:0,Canal Rural
+Canal Rural
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
-#EXTINF:0,TEC TV (HD)
+TEC TV (HD)
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
