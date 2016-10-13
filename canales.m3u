@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:0 group-title="CHILE",[B][COLOR blue]LISTA DE CANALES[/COLOR][/B]
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="CHILE",TVN
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="CHILE",CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="CHILE",13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",Mega (Chile)
+http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",Telecanal
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",Teletrak
+http://edge1.cl.grupoz.cl/teletrak/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",Canal del Senado Chile
+http://janus-tv-ply.senado.cl/playlist/stream_jhs.m3u8|referer=http://janus-tv.senado.cl/player/JHSPlayerV.swf
+
+
+
+
+
+
+
+
+
+
