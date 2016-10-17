@@ -2,7 +2,7 @@
 #Este es el listado RAW de señales online de canales. Para procesar en m3u Converter.
 
 
-[COLOR yellow]==CHILE TV==[/COLOR] 
+[COLOR yellow]===CHILE TV===[/COLOR] 
 http://www.chile.com
 TVN
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
@@ -34,18 +34,18 @@ Telecanal
 http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
 TELECANAL (ALT)
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+Camara de Diputados Valparaiso
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
 CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 Teletrak
 http://edge1.cl.grupoz.cl/teletrak/live/playlist.m3u8
-ELPINGUINO TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
-TV Red (Punta Arenas)
-http://69.164.193.177:1935/live/myStream/playlist.m3u8
-UMAG TV
-http://cluster.ztreaming.com:80/tser5/tser5.sdp/sat.m3u8
-ITV HD
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+Sporting Tv Valparaiso
+http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
+VTV Valparaiso y VIña del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+Fail Army Santiago
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
 Holvoet HD
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
 Contivision HD
@@ -56,8 +56,14 @@ LIV TV (HD)
 http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
 NIU TV (HD)
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+RADIO CAROLINA TV CHANNEL
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
 Cinema TVPlay (SD)
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
+Uestv Santiago
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+Señal Uc Santiago
+http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
 Camara de Diputados (SD)
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
 Canal Carnaval (HD)
@@ -68,6 +74,8 @@ MasTV Arica
 rtmp://201.218.145.21:1935/Mastv/myStream
 Canal Antofagasta
 http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+CNC Colchagua Santa Cruz
+http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
 Canal 9 (Concepcion)
 rtsp://wow2.cl.digitalproserver.com:1935/c9/_definst_/mp4:livestream2
 TV4 (Lota)
@@ -76,10 +84,34 @@ Contivision Musica
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 Canal 2 (U.A. Temuco)
 http://movilstream.digitalproserver.com/uautonoma/uautonomavivo/uautonoma.smil/playlist.m3u8
+Graneros Television Santiago
+http://movilstream.digitalproserver.com:1935/graneros/granerosvivo/graneros.smil/playlist.m3u8?
 Independencia TV
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
 San Bernardo TV
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
+TV5 Linares
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8?
+VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+Dinamica Tv Coronel
+http://evo.eltelon.com:1935/live/dinamica-television/playlist.m3u8
+ATV VALDIVIA
+http://evo.eltelon.com:1935/live/atv-valdivia/playlist.m3u8
+Inet 2 Tv Valdivia-Osorno
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?
+Santa Maria Tv Coyhaique
+http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
+ELPINGUINO TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+TV Red (Punta Arenas)
+http://69.164.193.177:1935/live/myStream/playlist.m3u8
+UMAG TV
+http://cluster.ztreaming.com:80/tser5/tser5.sdp/sat.m3u8
+ITV HD
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+Soberania TV Magallanes y Antartica Chilena
+http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 [COLOR yellow]==CHILE RADIO WEBCAM==[/COLOR] 
 http://www.chile.com
 Tele13 Radio

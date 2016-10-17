@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1,TELECANAL SANTIAGO CHILE
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+#EXTINF:-1,TELECANAL SANTIAGO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://stream110.digitalproserver.com:443/tcsc/tcscvivo playpath=livestream1 swfUrl=http://media.digitalproserver.com/dps_player.swf live=1 pageUrl=http://app.juicedev.me/ext/flash.html#CDN_CuricÃ³
+#EXTINF:-1,LA RED HD SANTIAGO CHILE
+http://stream210.digitalproserver.com:1935/redtv/redtvvivo/livestream3/sat.m3u8
+#EXTINF:-1,UCV HD VALPARAISO CHILE
+http://stream210.digitalproserver.com:1935/ucvtv/_definst_/livestream1/sat.m3u8
+#EXTINF:-1,TVN HD SANTIAGO CHILE
+http://wow.tvn.cl:1935/liveedge/smil:tvnelemental.smil/playlist.m3u8
+#EXTINF:-1,TVN SD RED COQUIMBO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://edge4.video.vaughnsoft.net:443/live? playpath=live_camtvchile swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,TVN SD RED COQUIMBO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://edge4.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_camtvchile swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,TVN TESTING SIGNAL CHILE
+rtmp://$OPT:rtmp-raw=%%rtmp://wow2.tvn.cl:1935/envivo_edge/ playpath=imagen3 swfUrl=%%http://estaticos.24horas.cl//skins/2…al-3.2.7-3.swf live=1 pageUrl=%%http://www.24horas.cl/envivo/
+#EXTINF:-1,TV CHILE
+http://wow3.tvn.cl:1935/envivo_edge/tvchile_s/playlist.m3u8
+#EXTINF:-1,TV CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://wow4.tvn.cl/envivo_edge/tvchile_s swfUrl=http://www.tvn.cl/include/flowplayer/flowplayer.cluster-3.2.3.swf pageUrl=http://www.tvn.cl/servicios/senal/envivo/index.html
+#EXTINF:-1,TV CHILE OPTION 3
+rtsp://wow.tvn.cl:1935/envivo_edge/tvchile_m
+#EXTINF:-1,MEGA HD SANTIAGO CHILE
+http://megatandas.ztreaming.com:80:1935/megatandas/stream01megatandas04032013.sdp/playlist.m3u8
+#EXTINF:-1,MEGA HD SANTIAGO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://megatandas.ztreaming.com:80/megatandas playpath=stream01megatandas04032013.sdp swfUrl=http://www.mega.cl/website/js/flowplayer/3.2.2/swf/rtmp.swf live=1 pageUrl=http://www.mega.cl/senal-en-vivo/
+#EXTINF:-1,MEGA HD SANTIAGO CHILE OPTION 3
+rtsp://megatandas.ztreaming.com:80/megatandas/stream01megatandas04032013.sdp
+#EXTINF:-1,MEGA SD SANTIAGO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://edge2.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_chilenito_teve swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/chilenito_teve token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,CHILEVISION SANTIAGO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://chv.live.ztreaming.com:80/chvapp2/ playpath=streamchv swfUrl=http://online.chilevision.cl/swf/flowplayer-3.2.7.swf live=1 pageUrl=http://www.chilevision.cl/home/senal-online.html
+#EXTINF:-1,CANAL 13 SANTIAGO CHILE
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:-1,CANAL 13 CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://13.cluster8.live.ztreaming.com:80/13hd/ playpath=streamgrpz13hd swfUrl=http://envivo.13.cl/forever/swf/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://envivo.13.cl/13.php
+#EXTINF:-1,CANAL 13 CHILE OPTION 3
+rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
+#EXTINF:-1,CANAL 13C SANTIAGO CHILE
+http://190.96.94.214:80:1935/13c/grpz13c/playlist.m3u8
+#EXTINF:-1,CANAL 13C SANTIAGO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://13c.ztreaming.com:80/13c playpath=grpz13c swfUrl=http://envivo.13.cl/forever/swf/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://envivo.13.cl/13c.php
+#EXTINF:-1,REC TV SANTIAGO CHILE
+http://13rec.live.ztreaming.com/13rec/13rec/sat.m3u8
+#EXTINF:-1,NUEVO TIEMPO CANAL 25 SANTIAGO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://wow2.cl.digitalproserver.com/ntiempo/ntiempovivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/ntiempo
+#EXTINF:-1,UNIACC TV CANAL 34 SANTIAGO CHILE
+http://upmv10.comcast.upmv.ustream.tv/0/1/40/40611/40611222/1_11176799_40611222.flv?tracking=ad6f16_61_1_0_0&src=ro&hash=7ae0
+#EXTINF:-1,PINTANA TV CANAL 39 SANTIAGO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://stream1.eltelon.com:80/live/pintana-tv/ playpath=pintana-tv961 swfUrl=http://www.pintanatv.cl/resources/player/ondemandplayer/jwplayer.flash.swf live=1 pageUrl=http://www.pintanatv.cl/vivo
+#EXTINF:-1,ISB CANAL 44 SAN BERNARDO SANTIAGO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://video.crearchile.com:1935/live playpath=mp4:canalisb.mp4 swfUrl=http://crearchile.com/planes-streaming/player/player.swf live=1 pageUrl=http://crearchile.com/player/reproductor/canalisb.php
+#EXTINF:-1,CNN CHILE
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+#EXTINF:-1,CNN CHILE OPTION 2
+rtmp://200.83.3.28/CNN-CHILE/CNN-CHILE
+#EXTINF:-1,CAMARA DE DIPUTADOS CHILE
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
+#EXTINF:-1,CAMARA DE DIPUTADOS CHILE OPTION 2
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+#EXTINF:-1,TV SENADO CHILE
+http://senadortmp.janus.cl/senadotv/senado600/playlist.m3u8
+#EXTINF:-1,TV SENADO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://senadortmpr.janus.cl:80/senadotv playpath=senado600 swfUrl=http://www.senado.cl/prontus_senado/js-local/jwplayer/player.swf live=1 pageUrl=http://www.senado.cl/prontus_senado/site/edic/base/port/tv_senado.html?filler=0.0507315120404606
+#EXTINF:-1,ETC TV CHILE
+http://wow2.cl.digitalproserver.com/etctv/etctvvivo/etctv.smil/chunklist-b948000.m3u8?wowzasessionid=1657166192
+#EXTINF:-1,FREAKY CHANNEL SANTIAGO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://wow2.cl.digitalproserver.com/freakytv/freakytvvivo playpath=mp4:livestream2 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/freakytv/
+#EXTINF:-1,MARRAQUETA TV SANTIAGO CHILE
+http://stream1.eltelon.com/live/marraqueta-tv/marraqueta-tv673/playlist.m3u8
+#EXTINF:-1,TELETRAK SANTIAGO CHILE
+http://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1/playlist.m3u8
+#EXTINF:-1,VIVE DEPORTES SANTIAGO CHILE
+http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734
+#EXTINF:-1,SUB TV SANTIAGO CHILE
+http://190.196.9.186:8080/subtv
+#EXTINF:-1,ARICA TV CHILE
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1,ARICA TV CHILE OPTION 2
+http://stream210.digitalproserver.com:443:1935/aricatv/aricatvvivo/livestream1/playlist.m3u8
+#EXTINF:-1,IQUIQUE TV CHILE
+http://livestream-f.akamaihd.net/410066_1876666_c180c181_1_446@19501?v=3.0.3&fp=WIN%2011,9,900,170&r=WPNQF&g=MRDQSJIXZGUD
+#EXTINF:-1,ANTOFAGASTA TV CANAL 30 CHILE
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+#EXTINF:-1,DIGITAL CHANNEL ANTOFAGASTA
+rtmp://cluster.ztreaming.com:80/tser6/tser6.sdp
+#EXTINF:-1,VALLE TELEVISION CANAL 2 SAN FELIPE CHILE
+rtmp://$OPT:rtmp-raw=rtmp://flashmedia.aconcaguared.com/live/ playpath=live_605537_nhAdU2RY swfUrl=http://www.vtv2.cl/mp/player.swf live=1 pageUrl=http://www.vtv2.cl/vivo.html
+#EXTINF:-1,VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1,CDLC QUINTERO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://190.151.14.133/live playpath=livestream1 swfUrl=http://source.netandino.com/html5/player-2012-free.swf live=1 pageUrl=http://www.cabledelacosta.cl/web/
+#EXTINF:-1,QUINTAVISION VINA DEL MAR CHILE
+http://iphone-streaming.ustream.tv/ustreamVideo/2950729/streams/live/playlist.m3u8
+#EXTINF:-1,SPORTING TV VINA DEL MAR CHILE
+rtmp://$OPT:rtmp-raw=rtmp://wow2.cl.digitalproserver.com/sportinghd/sportinghdvivo playpath=mp4:livestream2 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/sportinghd/
+#EXTINF:-1,GIROVISUAL CANAL 7 EL QUISCO
+http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
+#EXTINF:-1,GIROVISUAL CANAL 7 EL QUISCO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://stream110.digitalproserver.com:443/girovisual/girovisualvivo playpath=livestream1 swfUrl=http://media.digitalproserver.com/dps_player.swf live=1 pageUrl=http://www.girovisual.cl/en_vivo.html
+#EXTINF:-1,CANAL 2 SAN ANTONIO CHILE
+rtmp://$OPT:rtmp-raw=rtmp://video.crearchile.com/live playpath=mp4:canal2.mp4 swfUrl=http://crearchile.tv/reproductores/player.swf live=1 pageUrl=http://crearchile.tv/canal2/
+#EXTINF:-1,TVO SAN VICENTE TAGUA TAGUA CHILE
+http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
+#EXTINF:-1,MOLIVISION CHILE
+http://wow2.cl.digitalproserver.com/molivision/molivisionvivo/molivision.smil/chunklist_w1313645725_b248000.m3u8
+#EXTINF:-1,CANAL 11 CURICO CHILE
+http://stream110.digitalproserver.com:443:1935/canal11/canal11vivo/livestream/playlist.m3u8
+#EXTINF:-1,CANAL 11 CURICO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://stream110.digitalproserver.com:443/canal11/canal11vivo playpath=livestream swfUrl=http://media.digitalproserver.com/dps_player.swf live=1 pageUrl=http://app.juicedev.me/ext/flash.html#Canal_11_CuricÃ³
+#EXTINF:-1,CANAL 11 CURICO OPTION 3
+http://movilstream.digitalproserver.com/canal11/canal11vivo/livestream/playlist.m3u8
+#EXTINF:-1,CANAL 25 SAN CLEMENTE CHILE
+http://iphone-streaming.ustream.tv/watch/playlist.m3u8?cid=15664391
+#EXTINF:-1,CAMPUS TV TALCA CHILE
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:-1,TV5 LINARES CHILE
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
+#EXTINF:-1,TV5 LINARES CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://v1.streaminglatinoamerica.com/canal5/ playpath=canal5 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.tv5linares.cl/?page_id=4071
+#EXTINF:-1,CONTIVISION SD CONSTITUCION CHILE
+rtsp://v1.tustreaming.cl:1935/contivision/contivision
+#EXTINF:-1,CONTIVISION HD CONSTITUCION CHILE
+rtmp://stream1.eltelon.com:1935/live/contivision/contivision671
+#EXTINF:-1,CANAL 21 NUBLE CHILLAN CHILE
+http://video17.sfo01.hls.twitch.tv/hls40/canal21chillan_9101548960_81378531/chunked/index-live.m3u8?token=id=6616544286802199794,bid=9101548960,exp=1396836702,node=video17-1.sfo01.hls.justin.tv,nname=video17.sfo01,fmt=chunked&sig=0eb19212ab1bf3b36c81d17b8fb0c3173feb1926
+#EXTINF:-1,ETCHEGOYEN TV TALCAHUANO CHILE
+http://stream110.digitalproserver.com:443:1935/etgtv/etgtvvivo/livestream1/playlist.m3u8
+#EXTINF:-1,TV8 CONCEPCION CHILE
+http://stream210.digitalproserver.com:80:1935/tv8/tv8vivo/livestream1/playlist.m3u8
+#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8
+#EXTINF:-1,C9 BIO BIO TV CONCEPCION CHILE OPTION 2
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+#EXTINF:-1,TVU CONCEPCION CHILE
+http://stream110.digitalproserver.com:443:1935/tvu/tvuvivo/livestream1/playlist.m3u8
+#EXTINF:-1,TVU CONCEPCION CHILE
+rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
+#EXTINF:-1,TV LOTA CANAL 4 CHILE
+http://stream210.digitalproserver.com:443:1935/tvlota/tvlotavivo/livestream/playlist.m3u8
+#EXTINF:-1,UNIVERSIDAD AUTONOMA TV TEMUCO CHILE
+http://stream1.eltelon.com:1935/live/universidad-autonoma/universidad-autonoma569/playlist.m3u8
+#EXTINF:-1,UNIVERSIDAD AUTONOMA TV TEMUCO CHILE OPTION 2
+rtmp://$OPT:rtmp-raw=rtmp://stream1.eltelon.com:1935/live/universidad-autonoma/ playpath=universidad-autonoma569 swfUrl=http://new.eltelon.com/resources/player/liveplayer/jwplayer.flash.swf live=1 pageUrl=http://new.eltelon.com/uautonoma/canal/universidad-autonoma/video
+#EXTINF:-1,CANAL 33 TEMUCO CHILE
+http://wow2.cl.digitalproserver.com:1935/canal33/canal33vivo/mp4:livestream1/playlist.m3u8
+#EXTINF:-1,PUCON TV CHILE
+rtmp://stream1.eltelon.com:80/live/pucon-tv/pucon-tv836
+#EXTINF:-1,ATV VALDIVIA CHILE
+rtmp://$OPT:rtmp-raw=rtmp://atvvaldivia.dyndns.tv/live playpath=live swfUrl=http://atvvaldivia.cl/player/player.swf live=1 pageUrl=http://www.atvvaldivia.cl/online/
+#EXTINF:-1,VERDECERCA TV PUERTO VARAS CHILE
+http://com.live.chileservidores.cl:1935/masivaco/livestream/playlist.m3u8
+#EXTINF:-1,CANAL 5 PUERTO MONTT CHILE
+http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m3u8
+#EXTINF:-1,CANAL 2 TV QUELLON CHILE
+http://iphone-streaming.ustream.tv/uhls/13503834/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ROCCO TV COYHAIQUE CHILE
+rtmp://$OPT:rtmp-raw=rtmp://stream1.eltelon.com:80/live/rocco-tv/ playpath=rocco-tv571 swfUrl=http://new.eltelon.com/resources/player/liveplayer/jwplayer.flash.swf live=1 pageUrl=http://new.eltelon.com/rocco-tv/canal/rocco-tv
+#EXTINF:-1,AYSEN TV CHILE
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/playlist.m3u8
+#EXTINF:-1,AYSEN TV CHILE OPTION 2
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/playlist.m3u8
+#EXTINF:-1,EL PINGUINO TV CANAL 4 PUNTA ARENAS CHILE
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+#EXTINF:-1,ITV CANAL 11 PUNTA ARENAS CHILE
+rtmp://$OPT:rtmp-raw=rtmp://wow2.cl.digitalproserver.com/itv/itvvivo playpath=mp4:livestream2 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/itv/
+#EXTINF:-1,TV PATAGONIA PUNTA ARENAS OPTION 2
+http://69.164.193.177:1935/live/myStream/sat.m3u8
+#EXTINF:-1,UMAG TV PUNTA ARENAS CHILE
+http://cluster.ztreaming.com:80/tser5/tser5.sdp/sat.m3u8
