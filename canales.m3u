@@ -2,7 +2,7 @@
 #EXTINF:0,##CHILE
 #Este es el listado RAW de señales online de canales. Para procesar en m3u Converter.
 #EXTINF:0,[COLOR yellow]===CHILE TV===[/COLOR] 
-http://www.chile.com
+http://hackwish.duckdns.org/hackIPTV/
 #EXTINF:0,TVN
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 #EXTINF:0,CHV
@@ -116,7 +116,7 @@ http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:0,Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 #EXTINF:0,[COLOR yellow]==CHILE RADIO WEBCAM==[/COLOR] 
-http://www.chile.com
+http://hackwish.duckdns.org/hackIPTV/
 #EXTINF:0,Tele13 Radio
 http://live.t13.cdnz.cl/t13radio/tablet.m3u8
 #EXTINF:0,Tele13 Radio (ALT)
@@ -128,107 +128,108 @@ rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestr
 #EXTINF:0,FM Tiempo (95.9 FM)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
 #EXTINF:0,[COLOR yellow]==ARGENTINA TV==[/COLOR] 
-http://www.argentina.com
+http://hackwish.duckdns.org/hackIPTV/
 #EXTINF:0,Canal Rural
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 #EXTINF:0,TEC TV (HD)
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 #EXTINF:0,[COLOR green]==CABLE (TEST)==[/COLOR]
-Nasa TV
-#EXTINF:0,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
-DW  Latino América
-#EXTINF:0,http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-Real Madrid TV
-#EXTINF:0,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-Win Sports
-#EXTINF:0,http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-Claro Sport 1
-#EXTINF:0,http://ep09.11amxgen.rio.obsovp.tv/ovp.v33.a/riohd:v33@20160806/chunklist_b1296000_ps20160806115459_DVR.m3u8
-ANIME TV
-#EXTINF:0,http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
-Virgin TV
-#EXTINF:0,http://wow01.105.net/live/virgin1/.m3u8
-Trendy Musica
-#EXTINF:0,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-Tigo Music
-#EXTINF:0,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-FOX HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
-FX HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL209/PROFILE03.m3u8
-FOX 1 HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL415/PROFILE03.m3u8
-FOX Action HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL416/PROFILE03.m3u8
-FOX Movies HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL417/PROFILE03.m3u8
-FOX Life
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL271/PROFILE03.m3u8
-Warner Channel
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL205/PROFILE03.m3u8
-TruTV HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL215/PROFILE03.m3u8
-BBC
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL253/PROFILE03.m3u8
-Unicable
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
-Universal Channel HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL207/PROFILE03.m3u8
-TNT HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL435/PROFILE03.m3u8
-TNT Series
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL266/PROFILE03.m3u8
-Film Zone HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL440/PROFILE03.m3u8
-Sony HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL203/PROFILE03.m3u8
-Space
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL445/PROFILE03.m3u8
-TBS
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL273/PROFILE03.m3u8
-TCM
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL496/PROFILE03.m3u8
-Golden HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL436/PROFILE03.m3u8
-Distrito Comedia
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL272/PROFILE03.m3u8
-Cinecanal
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL430/PROFILE03.m3u8
-Comedy Central
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL217/PROFILE03.m3u8
-Cinemax
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL481/PROFILE03.m3u8
-De pelicula HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL442/PROFILE03.m3u8
-AMC HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL444/PROFILE03.m3u8
-AXN HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL213/PROFILE03.m3u8
-History HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL353/PROFILE03.m3u8
-Discovery Channel
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL371/PROFILE03.m3u8
-Discovery World
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL356/PROFILE03.m3u8
-Animal Planet
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL373/PROFILE03.m3u8
-GOURMET  
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL268/PROFILE03.m3u8
-NatGeo Wild
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL355/PROFILE03.m3u8
-ESPN
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL558/PROFILE03.m3u8
-ESPN 2
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL561/PROFILE03.m3u8
-ESPN 3
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL520/PROFILE03.m3u8
-ESPN +
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL516/PROFILE03.m3u8
-Directv Sports
-#EXTINF:0,http://latino-webtv.ml:8880/directv/playlist.m3u8
-Nick HD
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL315/PROFILE03.m3u8
-Cartoon Network
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL320/PROFILE03.m3u8
-Cbeebies
-#EXTINF:0,http://latino-webtv.ml:8880/tpmariocs/CANAL305/PROFILE03.m3u8
+http://hackwish.duckdns.org/hackIPTV/
+#EXTINF:0,Nasa TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
+#EXTINF:0,DW  Latino América
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:0,Win Sports
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:0,Claro Sport 1
+http://ep09.11amxgen.rio.obsovp.tv/ovp.v33.a/riohd:v33@20160806/chunklist_b1296000_ps20160806115459_DVR.m3u8
+#EXTINF:0,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
+#EXTINF:0,Virgin TV
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:0,Trendy Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0,FOX HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
+#EXTINF:0,FX HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL209/PROFILE03.m3u8
+#EXTINF:0,FOX 1 HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL415/PROFILE03.m3u8
+#EXTINF:0,FOX Action HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL416/PROFILE03.m3u8
+#EXTINF:0,FOX Movies HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL417/PROFILE03.m3u8
+#EXTINF:0,FOX Life
+http://latino-webtv.ml:8880/tpmariocs/CANAL271/PROFILE03.m3u8
+#EXTINF:0,Warner Channel
+http://latino-webtv.ml:8880/tpmariocs/CANAL205/PROFILE03.m3u8
+#EXTINF:0,TruTV HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL215/PROFILE03.m3u8
+#EXTINF:0,BBC
+http://latino-webtv.ml:8880/tpmariocs/CANAL253/PROFILE03.m3u8
+#EXTINF:0,Unicable
+http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
+#EXTINF:0,Universal Channel HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL207/PROFILE03.m3u8
+#EXTINF:0,TNT HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL435/PROFILE03.m3u8
+#EXTINF:0,TNT Series
+http://latino-webtv.ml:8880/tpmariocs/CANAL266/PROFILE03.m3u8
+#EXTINF:0,Film Zone HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL440/PROFILE03.m3u8
+#EXTINF:0,Sony HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL203/PROFILE03.m3u8
+#EXTINF:0,Space
+http://latino-webtv.ml:8880/tpmariocs/CANAL445/PROFILE03.m3u8
+#EXTINF:0,TBS
+http://latino-webtv.ml:8880/tpmariocs/CANAL273/PROFILE03.m3u8
+#EXTINF:0,TCM
+http://latino-webtv.ml:8880/tpmariocs/CANAL496/PROFILE03.m3u8
+#EXTINF:0,Golden HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL436/PROFILE03.m3u8
+#EXTINF:0,Distrito Comedia
+http://latino-webtv.ml:8880/tpmariocs/CANAL272/PROFILE03.m3u8
+#EXTINF:0,Cinecanal
+http://latino-webtv.ml:8880/tpmariocs/CANAL430/PROFILE03.m3u8
+#EXTINF:0,Comedy Central
+http://latino-webtv.ml:8880/tpmariocs/CANAL217/PROFILE03.m3u8
+#EXTINF:0,Cinemax
+http://latino-webtv.ml:8880/tpmariocs/CANAL481/PROFILE03.m3u8
+#EXTINF:0,De pelicula HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL442/PROFILE03.m3u8
+#EXTINF:0,AMC HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL444/PROFILE03.m3u8
+#EXTINF:0,AXN HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL213/PROFILE03.m3u8
+#EXTINF:0,History HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL353/PROFILE03.m3u8
+#EXTINF:0,Discovery Channel
+http://latino-webtv.ml:8880/tpmariocs/CANAL371/PROFILE03.m3u8
+#EXTINF:0,Discovery World
+http://latino-webtv.ml:8880/tpmariocs/CANAL356/PROFILE03.m3u8
+#EXTINF:0,Animal Planet
+http://latino-webtv.ml:8880/tpmariocs/CANAL373/PROFILE03.m3u8
+#EXTINF:0,GOURMET  
+http://latino-webtv.ml:8880/tpmariocs/CANAL268/PROFILE03.m3u8
+#EXTINF:0,NatGeo Wild
+http://latino-webtv.ml:8880/tpmariocs/CANAL355/PROFILE03.m3u8
+#EXTINF:0,ESPN
+http://latino-webtv.ml:8880/tpmariocs/CANAL558/PROFILE03.m3u8
+#EXTINF:0,ESPN 2
+http://latino-webtv.ml:8880/tpmariocs/CANAL561/PROFILE03.m3u8
+#EXTINF:0,ESPN 3
+http://latino-webtv.ml:8880/tpmariocs/CANAL520/PROFILE03.m3u8
+#EXTINF:0,ESPN +
+http://latino-webtv.ml:8880/tpmariocs/CANAL516/PROFILE03.m3u8
+#EXTINF:0,Directv Sports
+http://latino-webtv.ml:8880/directv/playlist.m3u8
+#EXTINF:0,Nick HD
+http://latino-webtv.ml:8880/tpmariocs/CANAL315/PROFILE03.m3u8
+#EXTINF:0,Cartoon Network
+http://latino-webtv.ml:8880/tpmariocs/CANAL320/PROFILE03.m3u8
+#EXTINF:0,Cbeebies
+http://latino-webtv.ml:8880/tpmariocs/CANAL305/PROFILE03.m3u8

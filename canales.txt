@@ -3,7 +3,7 @@
 
 
 [COLOR yellow]===CHILE TV===[/COLOR] 
-http://www.chile.com
+http://hackwish.duckdns.org/hackIPTV/
 TVN
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 CHV
@@ -117,7 +117,7 @@ http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 [COLOR yellow]==CHILE RADIO WEBCAM==[/COLOR] 
-http://www.chile.com
+http://hackwish.duckdns.org/hackIPTV/
 Tele13 Radio
 http://live.t13.cdnz.cl/t13radio/tablet.m3u8
 Tele13 Radio (ALT)
@@ -129,12 +129,13 @@ rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestr
 FM Tiempo (95.9 FM)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
 [COLOR yellow]==ARGENTINA TV==[/COLOR] 
-http://www.argentina.com
+http://hackwish.duckdns.org/hackIPTV/
 Canal Rural
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 TEC TV (HD)
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 [COLOR green]==CABLE (TEST)==[/COLOR]
+http://hackwish.duckdns.org/hackIPTV/
 Nasa TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
 DW  Latino América
@@ -153,7 +154,6 @@ Trendy Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-
 FOX HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
 FX HD
@@ -234,4 +234,3 @@ Cartoon Network
 http://latino-webtv.ml:8880/tpmariocs/CANAL320/PROFILE03.m3u8
 Cbeebies
 http://latino-webtv.ml:8880/tpmariocs/CANAL305/PROFILE03.m3u8
-
