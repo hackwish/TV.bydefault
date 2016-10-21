@@ -239,7 +239,6 @@ http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
 RaxaTV
-#EXTGRP:unsorted
 http://video7.stream.mx:1935/raxatv/raxatv/playlist_w884577146.m3u8?monclovacaliente.m3u8
 Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
