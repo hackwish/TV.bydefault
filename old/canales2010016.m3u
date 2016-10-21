@@ -37,18 +37,22 @@ rtmp://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo playpath=mp4:livestream1 s
 http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
 #EXTINF:0,TELECANAL (ALT)
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
-#EXTINF:0,Camara de Diputados (SD)
-http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
+#EXTINF:0,Camara de Diputados Valparaiso
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
 #EXTINF:0,CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:0,Teletrak
 http://edge1.cl.grupoz.cl/teletrak/live/playlist.m3u8
+#EXTINF:0,Sporting Tv Valparaiso
+http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
+#EXTINF:0,VTV Valparaiso y VIña del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:0,Fail Army Santiago
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
 #EXTINF:0,Holvoet HD
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:0,Efekto TV HD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:0,Contivision HD
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 #EXTINF:0,CampusTV HD
 http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
 #EXTINF:0,LIV TV (HD)
@@ -59,26 +63,20 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestream1/chunks.m3u8?
 #EXTINF:0,Cinema TVPlay (SD)
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
-#EXTINF:0,Canal Carnaval (HD)
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
-#EXTINF:0,Sporting Tv Valparaiso
-http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
-#EXTINF:0,VTV Valparaiso y VIña del Mar
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:0,Contivision HD
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 #EXTINF:0,Uestv Santiago
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:0,Señal Uc Santiago
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
+#EXTINF:0,Camara de Diputados (SD)
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
+#EXTINF:0,Canal Carnaval (HD)
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
 #EXTINF:0,Arica TV
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 #EXTINF:0,MasTV Arica
 rtmp://201.218.145.21:1935/Mastv/myStream
 #EXTINF:0,Canal Antofagasta
 http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
-#EXTINF:0,CANAL 2 SAN ANTONIO
-rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
 #EXTINF:0,CNC Colchagua Santa Cruz
 http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
 #EXTINF:0,Canal 9 (Concepcion)
@@ -135,142 +133,38 @@ http://hackwish.duckdns.org/hackIPTV/
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 #EXTINF:0,TEC TV (HD)
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:0,TLX TELECENTRO
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0,CANAL 26
-http://200.115.193.177/live/26hd-480/.m3u8
-#EXTINF:0,[COLOR yellow]==COLOMBIA TV==[/COLOR] 
-http://hackwish.duckdns.org/hackIPTV/
-#EXTINF:0,RCN
-http://streannlive-lh.akamaihd.net/i/col03_1@388863/index_1_av-p.m3u8?hd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1475802258~acl=%2f*~data=hdntl~hmac=08a69116eab65150ffd574064f0f08e14408e153a36ace3fcb6da60f63e85179
-#EXTINF:0,Teleantioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:0,Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:0,Telepacifico
-http://video.ideasmedia.com.co/live-ideasmedia/smil:envivo.smil/playlist.m3u8
-#EXTINF:0,Telepacifico Opcion 2
-http://video.ideasmedia.com.co/live-ideasmedia/_definst_/mp4:ideasmedia3/chunklist_w1866703897.m3u8
-#EXTINF:0,Tele Vid
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_manifest.m3u8
-#EXTINF:0,Canal Antiestres
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:0,Senal Colombia
-http://cdns840stu1010.shooowit.net/rtvcscolombialive/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:0,Senal Colombia Opcion 2
-http://cdns840stu1010.shooowit.net/rtvcscolombialive/smil:live.smil/IPTVColFree.m3u8
-#EXTINF:0,Canal Trece Colombia
-http://streaming-ca.enetres.net/907242981A11434D900C2676A56AE374021/mobile/playlist.m3u8?idLive=021&referer=TkQ=
-#EXTINF:0,Canal Une
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8?time=1472168249816
-#EXTINF:0,Canal Une Eventos
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/EVEN/tu1_3.m3u8
-#EXTINF:0,Canal El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?time=1472170180731
-#EXTINF:0,Cablenoticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:0,Canal U de Antioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:0,Canal U de Antioquia ALT
-http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:0,Canal TV Agro
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:0,Canal Cosmovision
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_3.m3u8
-#EXTINF:0,Canal Telecafe
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_3.m3u8
-#EXTINF:0,Vmas TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:0,Life Design
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?time=1472170324764
-#EXTINF:0,[COLOR yellow]==MEXICO TV==[/COLOR] 
-http://hackwish.duckdns.org/hackIPTV/
-#EXTINF:0,TV Azteca
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-#EXTINF:0,Azteca trece
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:0,Pacifico
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8
-#EXTINF:0,Canal 5TV
-http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
-#EXTINF:0,Informativo 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
-#EXTINF:0,Canal Once
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:0,[COLOR yellow]==ESPAÑA TV==[/COLOR] 
-http://hackwish.duckdns.org/hackIPTV/
-#EXTINF:0,Andalucia Television
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:0,Mega 12
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:0,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:0,La Sexta HD
-http://ksportiptv.com:1557/live/idou/idou/2154.ts
-#EXTINF:0,TVE
-http://ksportiptv.com:1557/live/idou/idou/2144.ts
-#EXTINF:0,TV3 HD
-http://ksportiptv.com:1557/live/idou/idou/2145.ts
-#EXTINF:0,Telecinco
-http://ksportiptv.com:1557/live/idou/idou/1774.ts
-#EXTINF:0,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:0,[COLOR green]==CABLE (TEST)==[/COLOR]
 http://hackwish.duckdns.org/hackIPTV/
 #EXTINF:0,Nasa TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
 #EXTINF:0,DW  Latino América
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0,DW Latinoamerica ALT
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:0,TV5 Monde
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:0,Euronews
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:0,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:0,Telesur
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:0,BYU Television
-http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
-#EXTINF:0,CB24
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:0,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:0,Win Sports
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:0,Claro Sport 1
+http://ep09.11amxgen.rio.obsovp.tv/ovp.v33.a/riohd:v33@20160806/chunklist_b1296000_ps20160806115459_DVR.m3u8
 #EXTINF:0,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
-#EXTINF:0,RaxaTV
-http://video7.stream.mx:1935/raxatv/raxatv/playlist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0,Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:0,Capital TV-FM
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:0,One TV
-http://server5.stweb.tv/radioone/live/playlist_w389730903.m3u8
-#EXTINF:0,HIT TV
-http://ksportiptv.com:1557/live/idou/idou/2628.ts
 #EXTINF:0,Trendy Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0,Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:0,Cantinazo TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?time=1472170263047
-#EXTINF:0,Positive Channel
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 #EXTINF:0,FOX HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
 #EXTINF:0,FX HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL209/PROFILE03.m3u8
 #EXTINF:0,FOX 1 HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL415/PROFILE03.m3u8
-#EXTINF:0,Fox ES
-http://ksportiptv.com:1557/live/idou/idou/2159.ts
 #EXTINF:0,FOX Action HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL416/PROFILE03.m3u8
 #EXTINF:0,FOX Movies HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL417/PROFILE03.m3u8
 #EXTINF:0,FOX Life
 http://latino-webtv.ml:8880/tpmariocs/CANAL271/PROFILE03.m3u8
-#EXTINF:0,FOX LIFE ES
-http://ksportiptv.com:1557/live/idou/idou/2158.ts
 #EXTINF:0,Warner Channel
 http://latino-webtv.ml:8880/tpmariocs/CANAL205/PROFILE03.m3u8
 #EXTINF:0,TruTV HD
@@ -283,8 +177,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL207/PROFILE03.m3u8
 #EXTINF:0,TNT HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL435/PROFILE03.m3u8
-#EXTINF:0,TNT
-http://latino-webtv.ml:8880/tnt/playlist.m3u8
 #EXTINF:0,TNT Series
 http://latino-webtv.ml:8880/tpmariocs/CANAL266/PROFILE03.m3u8
 #EXTINF:0,Film Zone HD
@@ -309,8 +201,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL217/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL481/PROFILE03.m3u8
 #EXTINF:0,De pelicula HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL442/PROFILE03.m3u8
-#EXTINF:0,HBO
-http://latino-webtv.ml:8880/hbo/playlist.m3u8
 #EXTINF:0,AMC HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL444/PROFILE03.m3u8
 #EXTINF:0,AXN HD
@@ -319,8 +209,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL213/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL353/PROFILE03.m3u8
 #EXTINF:0,Discovery Channel
 http://latino-webtv.ml:8880/tpmariocs/CANAL371/PROFILE03.m3u8
-#EXTINF:0,Discovery Channel ALT
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Discovery World
 http://latino-webtv.ml:8880/tpmariocs/CANAL356/PROFILE03.m3u8
 #EXTINF:0,Animal Planet
@@ -329,8 +217,6 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL373/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL268/PROFILE03.m3u8
 #EXTINF:0,NatGeo Wild
 http://latino-webtv.ml:8880/tpmariocs/CANAL355/PROFILE03.m3u8
-#EXTINF:0,Sun
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
 #EXTINF:0,ESPN
 http://latino-webtv.ml:8880/tpmariocs/CANAL558/PROFILE03.m3u8
 #EXTINF:0,ESPN 2
@@ -339,47 +225,11 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL561/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL520/PROFILE03.m3u8
 #EXTINF:0,ESPN +
 http://latino-webtv.ml:8880/tpmariocs/CANAL516/PROFILE03.m3u8
-#EXTINF:0,Fox Sports
-http://latino-webtv.ml:8880/foxsports/playlist.m3u8
-#EXTINF:0,Fox Sports 2
-http://latino-webtv.ml:8880/foxsports2/playlist.m3u8
 #EXTINF:0,Directv Sports
 http://latino-webtv.ml:8880/directv/playlist.m3u8
-#EXTINF:0,Gol TV
-http://live.tvplayerlatino.com/lista_remota/src3/winsp.m3u8
-#EXTINF:0,Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:0,Real Madrid TV ALT 2
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0,RealMadrid TV ALT 3
-http://ksportiptv.com:1557/live/idou/idou/1589.ts
-#EXTINF:0,Win Sports
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:0,WinSports Opcion 2
-http://live.tvplayerlatino.com/lista_remota/src3/winsp.m3u8
-#EXTINF:0,WinSports Opcion 3
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:0,Claro Sport 1
-http://ep09.11amxgen.rio.obsovp.tv/ovp.v33.a/riohd:v33@20160806/chunklist_b1296000_ps20160806115459_DVR.m3u8
-#EXTINF:0,La Liga
-http://ksportiptv.com:1557/live/idou/idou/2149.ts
-#EXTINF:0,Bein
-http://ksportiptv.com:1557/live/idou/idou/2143.ts
-#EXTINF:0,Todo Deportes Argentina
-http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
-#EXTINF:0,DXTV
-http://186.33.227.199/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:0,Motor Sport
-http://motorsport.hopto.org:8080/
-#EXTINF:0,Eurosports
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:0,Eurosport ALT 2
-http://ksportiptv.com:1557/live/idou/idou/2161.ts
 #EXTINF:0,Nick HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL315/PROFILE03.m3u8
 #EXTINF:0,Cartoon Network
 http://latino-webtv.ml:8880/tpmariocs/CANAL320/PROFILE03.m3u8
 #EXTINF:0,Cbeebies
 http://latino-webtv.ml:8880/tpmariocs/CANAL305/PROFILE03.m3u8
-#EXTINF:0,YES!
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
