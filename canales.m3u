@@ -23,8 +23,16 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] T13 MOVIL
 http://cdn.ztreaming.com/t13vivo3/t13vivo3-632.m3u8
+#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13C ALT
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13C ALT
+rtmp://190.96.94.214:80/13c swfURL=http://envivo.13.cl/forever/swf/flowplayer.rtmp-3.2.3.swf playpath=grpz13c
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 24 HORAS
 http://mdstrm.com/live-stream-playlist/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] TVCHILE
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] CNN Chile [HD]
+http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:0,[COLOR yellow][CHILE][/COLOR] Camara de Diputados
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
 #EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] TV Senado
@@ -132,6 +140,10 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
 #EXTINF:-1,group-title="ANIMACION",[COLOR orange][ANIMACION][/COLOR] TaTeTi
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="ANIMACION",[COLOR orange][ANIMACION][/COLOR] CARTOON NETWORK PT
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+#EXTINF:-1,group-title="ANIMACION",[COLOR orange][ANIMACION][/COLOR] DISCOVERY KIDS PT
+http://31.204.128.117:8081:8081/live/discoverykids/playlist.m3u8
 
 #CINE-SERIES
 #EXTINF:0,group-title="CINE-SERIES",[COLOR orange][CINE-SERIES][/COLOR] Cinema TVPlay (SD)
@@ -306,6 +318,8 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] Viajar [SD]
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:-1,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] Educativo Cuba
+http://170.55.15.122:8000/play/a00m
 #EXTINF:0,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] YES!
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
 
@@ -340,8 +354,10 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Euronews
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RTVE 24h HD
+#EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RTVE 24H
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RTVE 24H ALT
+http://190.57.234.164/V0/4/2.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Unicable
 http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Telesur
@@ -512,6 +528,12 @@ http://arcast.tv:1935/envivo/atb/chunklist_w1503945424.m3u8
 http://31.204.128.127:8081/live/record/playlist.m3u8 
 #EXTINF:-1,group-title="BRAZIL",[COLOR teal][BRAZIL][/COLOR] RIC TV
 http://31.204.128.127:8081/live/sptv/playlist.m3u8
+#EXTINF:-1,group-title="BRAZIL",[COLOR teal][BRAZIL][/COLOR] REDE SUPER BRA
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1,group-title="BRAZIL",[COLOR teal][BRAZIL][/COLOR] REDE MEIO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:-1,group-title="BRAZIL",[COLOR teal][BRAZIL][/COLOR] TV MIRAMAR – RECORD ANGOLA
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #PARAGUAY
 #EXTINF:0,group-title="PARAGUAY",[COLOR fuchsia][PARAGUAY][/COLOR] Telefuturo
