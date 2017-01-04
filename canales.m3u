@@ -23,16 +23,12 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] T13 MOVIL
 http://cdn.ztreaming.com/t13vivo3/t13vivo3-632.m3u8
-#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13C ALT
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13C ALT
-rtmp://190.96.94.214:80/13c swfURL=http://envivo.13.cl/forever/swf/flowplayer.rtmp-3.2.3.swf playpath=grpz13c
+#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] CNN Chile
+http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 24 HORAS
 http://mdstrm.com/live-stream-playlist/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] TVCHILE
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] CNN Chile [HD]
-http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:0,[COLOR yellow][CHILE][/COLOR] Camara de Diputados
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
 #EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] TV Senado
