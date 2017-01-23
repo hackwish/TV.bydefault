@@ -115,6 +115,10 @@ rtmp://190.107.176.55:1935/live/ playpath=pucon-tv swfUrl=http://www.eltelon.com
 http://evo.eltelon.com:1935/live/atv-valdivia/playlist.m3u8
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] Inet 2 TV Valdivia-Osorno
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w1536834860_b848000.m3u8
+#EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] Canal 5 SAN JOSE DE ALCUDIA (Rio Bueno)
+rtmp://videostreaming.cl:8080/live/mp4:radiosanjose.mp4
+#EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] Canal Latino (La Union)
+rtmp://video.crearchile.info:8080/live/mp4:latina.mp4
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] Santa Maria Tv Coyhaique
 http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] ELPINGUINO TV
@@ -847,6 +851,9 @@ http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/play
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1,group-title="RADIO",[COLOR blue]RADIO[/COLOR] Infinita
 http://wow2.cl.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/chunklist.m3u8
+#EXTINF:-1,group-title="RADIO",[COLOR blue]RADIO[/COLOR] Radio Universal (Temuco)
+rtmp://video.crearchile.info:8080/live/mp4:universal.mp4
+
 
 ##RADIOS INTERNACIONALES CON VIDEO
 #EXTINF:0,group-title="RADIO",[COLOR blue]RADIO[/COLOR] Cool HD - 103.7 TV (Argentina)
@@ -959,273 +966,372 @@ http://200.75.19.171/uoct/6/playlist.m3u8
 ######################################################################################
 ######################################################################################
 
-##RADIOS STREAMING CHILE
+##RADIOS FM-AM CHILE
+##GENERAL, CADENAS Y SANTIAGO
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Imagina (88.1 FM)
 http://77.67.109.164/IMAGINA_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Maxima FM (88.1 FM Antofagasta)
-http://cast3.serverhost.cl:8764/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Canal 95 (88.1 FM Antofagasta)
-http://sonando.us.digitalproserver.com/canal95_aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nostalgica (88.1 FM Copiapo)
-http://comunicacionespuntocreativo.cl:8000/nostalgica
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Bio Bio Temuco (88.1 FM Temuco)
-http://ice.dallas.digitalproserver.com/biotemu
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Concierto (88.5 FM)
 http://63.243.143.145/CONCIERTO_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Amiga (88.5 FM Vallenar)
-http://162.210.39.218:24662/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Dona Ines (88.5 FM Concepcion)
-http://sc.digitalproserver.com:9534/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM OK (89.3 FM Antofagasta)
-http://streaming.fmokey.cl:8000/FmOkAT.mp3
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Mia 89.3 (FM Los Angeles)
-http://stream5.eltelon.com/mia.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Futuro (88.9 FM)
 http://69.31.54.139/FUTURO_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nuevo Mundo (88.9 FM Ovalle)
-http://s3.medionline.cl:7960/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Mas (89.1 Arica)
-http://192.198.83.230:9976/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Diferencia (FM 89.3 Salamanca)
-http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Maria (89.3 FM)
+http://dreamsiteradiocp.com:8066/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Duna (89.7 FM)
 http://tunein.digitalproserver.com/dunabb.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nuble (89.7 FM Chillan)
-http://198.50.154.235:7684
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Carnaval (89.9 FM Viña del Mar)
-http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Cobremar (89.9 FM Chanaral)
-http://stream5.eltelon.com/cobremar.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Colo-colo (90.1 FM)
 http://186.103.213.249:9988
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Definitiva (90.5 FM Tocopilla)
-http://192.198.83.230:8772/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Pudahuel (90.5 FM)
 http://63.243.143.155/PUDAHUEL_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Alegria del Transporte (90.9 FM Calama)
-http://s6.medionline.cl:9364/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Panorama (90.9 FM Vallenar)
-http://s4.medionline.cl:8083/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Maray (90.9 FM Copiapo)
-http://162.210.39.218:24250/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Mirador (90.9 FM Lautaro)
-http://demo.dyndns.biz:8016/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Digital FM (91.1 FM)
 http://mimix.mercurio.cl:8000/digitalfm
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] El Conquistador (91.3 FM)
 http://stream5.eltelon.com/el-conquistador-santiago.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] ADN (91.7 FM)
 http://77.67.109.164/ADN_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Centro FM (91.7 FM Gorbea)
-http://184.107.188.38:8040/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Agricultura (92.1 FM)
 http://agricultura-audio.dps.live/agricultura/mp3/icecast.audio
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Agricultura (92.1 FM)(Alt)
 http://tunein.digitalproserver.com/agc921bb.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Cariñosa (92.1 FM)(1)
-http://stream5.eltelon.com/carinosa-chillan.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Sur (92.1 FM Los Angeles)
-http://ww3.radiosur.cl:5074/rsur
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radioactiva (92.5 FM)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] activa (92.5 FM)
 http://77.67.109.164/ACTIVA_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Romina (92.5 FM Antofagasta)
-http://198.50.154.235:10246/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Romina (92.5 FM Antofagasta)
-http://167.114.208.100:9844/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Entretenida FM (92.5 FM Vilcun)
-http://atanua.broadcastchile.cl:7000/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuevo Amanecer (93.3 FM Fresia)
-http://62.210.203.78:8026/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Primavera FM (93.5 FM Arica)
-http://cast.radioservicios.cl:9350/web
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universo (93.7 FM)
 http://tunein.digitalproserver.com/universobb.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universo (Alt) (93.7 FM)
 rtmp://radio.cl.digitalproserver.com:443/universo/universolive/universo937.stream
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Amanecer (93.7 FM Caldera)
-http://107.155.120.114:9954/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Comunicativa (93.7 FM Ovalle)
-http://ip.audiostreaming.cl:9996/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Centinela (93.9 FM Yumbel)
-http://s3.medionline.cl:9964
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Fenomenal (93.9 FM Coyhaique)
-http://stream5.eltelon.com/fenomenal.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Magistral (93.9 FM Galvarino)
-http://www.magistralfm.cl:9110/galvarino
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Rock and Pop (94.1 FM)
 http://77.67.109.164/ROCK_AND_POP_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Carillon (94.1 FM Calama)
-http://74.222.0.41:8000/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Genesis (94.1 FM Andacollo)
-http://stream5.eltelon.com/genesis-andacollo.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Rinconada (94.3 FM Mejillones)
-http://server4.radiostreaming.cl:8062/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Almeyda (94.3 FM Diego de Almagro)
-http://192.99.18.164:9974/stream
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Universitaria de la Serena (94.5 FM)
-http://radio.cic.userena.cl:8000/radio-uls
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio La Discusion (94.7 FM Chillan)
-http://stream5.eltelon.com/radio-la-discusion.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Universal (94.7 FM Pitrufquen)
-http://184.107.188.38/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Maxima (94.9 FM)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Maxima (94.9 FM)
 http://198.27.65.159:9938/
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Amanda (94.9 FM Buin)
-http://amanda.cmtelcom.com/amanda128
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Udec (95.1 FM Concepcion)
-http://radio.udec.cl:8000/radioudec
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Antara (95.3 FM Copiapo)
-http://162.210.39.218:24284/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Coyhaique (95.3 FM Coyhaique)
-http://stream5.eltelon.com/radio-coyhaique.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Atractiva (FM 95.3 Concepcion)
-http://195.154.182.222:25753/atractiva
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Tiempo (95.9 FM)
 http://tunein.digitalproserver.com/fmtiempobb.mp3
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Universidad de Tarapaca (95.9 FM Arica)
-http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Estilo (FM 95.9 Coyhaique)
-http://sc6.digitalproserver.com:7520/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Araucana (95.9 FM Temuco)
-http://s6.medionline.cl:9180/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Beethoven (96.5 FM)
 http://tunein.digitalproserver.com/beethovenbb.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Illapel (96.5 FM Illapel)
-http://200.111.113.18:8500/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Genesis (96.5 FM Curacautin)
-http://stream5.eltelon.com/genesis.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Loactual (96.7 FM Calama)
-http://rs.comtic.net:8000/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
-http://ice.dallas.digitalproserver.com/biola
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio San Bartolome (96.7 FM La Serena)
-http://stream5.eltelon.com/san-bartolome.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Uno (97.1 FM)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Uno (97.1 FM)
 http://77.67.109.164/RADIO_UNO_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] 97 Uno Radio (97.1 FM Arica)
-http://stream5.eltelon.com/radio-97uno.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Zero (97.7 FM)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Zero (97.7 FM)
 http://tunein.digitalproserver.com/zerobb.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Sol (97.7 FM Antofagasta)
-http://online.radiosol.cl:8000/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Sol (97.7 FM Antofagasta)(Alt)
-http://stream5.eltelon.com/sol-radio.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Bahia (97.7 FM Caldera)
-http://195.154.182.222:26475/stream?type=.flv
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Sol Austral (97.7 FM Aysen)
-http://104.236.248.181:9986/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Ventisqueros (97.7 FM Coyhaique)
-http://stream5.eltelon.com:8000/ventisqueros.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Bio Bio Concepcion (98.1 FM Concepcion)
-http://ice.dallas.digitalproserver.com/bioconcebb.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Camila (98.3 FM Los Angeles)
-http://stream5.eltelon.com:8000/archi-camila.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Dos (98.5 FM)
 http://77.67.109.164/FMDOS_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Positiva (98.5 FM Temuco)
-http://mimix.mercurio.cl:8000/temuco2
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio El Conquistador (98.9 FM Concepcion)
-http://stream5.eltelon.com/el-conquistador-concepcion.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Digital FM (99.1 FM Punta Arenas)
-http://mimix.mercurio.cl:8000/digitalfm
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Marcela (99.1 FM Huasco)
-http://xc1.adxradio.com:8002/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Carolina (99.3 FM)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Carolina (99.3 FM)
 http://tunein.digitalproserver.com/carolinafmbb.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Arcoiris (99.3 FM Coyhaique)
-http://s6.jcwebnew.com:8120/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Positiva (FM 99.5 Valdivia)
-http://mimix.mercurio.cl:8000/valdivia2
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Caramelo (99.5 FM Los Angeles)
-http://sc6.digitalproserver.com:8120/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio-Bio La Radio Santiago (99.7 FM)
 http://ice.dallas.digitalproserver.com/biostgo
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Macarena (99.7 FM Chillan)
-http://stream5.eltelon.com/macarena.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio-Bio la radio (Alt)(99.7 FM)
 rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Universidad de Antofagasta (99.9 FM)
-http://200.54.114.230:8000/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Infinita (100.1 FM)
 http://tunein.digitalproserver.com/infinitabb.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Andina (100.1 FM Arica)
-http://192.198.83.230:9976/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Paula FM (100.5 FM)
 http://unlimited3-cl.digitalproserver.com/radiopaula/hls/index.m3u8
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nueva Genial (100.5 FM Coyhaique)
-http://s6.jcwebnew.com:7555/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Dinamica (100.7 FM Coronel)
-http://stream5.eltelon.com/dinamica.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Futura FM (100.7 Talca)
-http://stream5.eltelon.com/futura.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Mejillones FM (100.9 FM)
-http://s6.medionline.cl:8006/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Festiva (100.9 FM Copiapo)
-http://s6.jcwebnew.com:8070/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Monte Carlo Sur (100.9 FM Angol)
-http://cast3.serverhost.cl:8784/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Corazon (101.3 FM)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Corazon (101.3 FM)
 http://7349.live.streamtheworld.com/CORAZON_SC
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Revelacion (101.5 FM Canete)
-http://stream5.eltelon.com/doble-r.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Los 40 Principales (101.7 FM)
 http://77.67.109.164/LOS40_CHILE_SC
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Oasis (102.1 FM)
 http://mp3.oasisfm.cl/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] U. de Chile (102.5 FM)
 http://stream4.rbm.cl:8080/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Madero (102.5 FM Antofagasta)
-http://200.111.175.34:5060/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Montecarlo (102.7 FM)
 http://iw.wolchile.net:8048/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio La Voz De Yungay (102.7 FM Ñuble)
-http://99.198.110.162:7016/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Las Nieves (102.9 FM Puerto Aysen)
-http://s6.jcwebnew.com:7060/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Okey (103.1 FM Copiapo)
-http://streaming.fmokey.cl:8000/FmOkCP.mp3
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Centro FM (103.3 FM Antofagasta)
-http://stream5.eltelon.com/centro.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio UCV FM (103.5 FM Valparaiso)
-rtmp://radio.cl.digitalproserver.com/ucvradio/ucvradiolive
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Contacto (103.9 FM Talagante)
-http://184.107.188.34:8697
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Romantica (104.1 FM)
 http://tunein.digitalproserver.com/romanticabb.mp3
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Disney (104.9)*
 rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio 1049 (FM 104.9 Pucon)
-http://audio.streaminghd.cl:8034/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Sonar (105.3)
 http://mp3.sonarfm.cl/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Pinamar (105.3 FM La Serena)
-http://184.107.188.34:8034/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Positiva (FM 105.5 FM Concepcion)
-http://mimix.mercurio.cl:8000/concepcion2
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Extrema (106.1 FM Puerto Saavedra)
-http://stream5.eltelon.com/radio-extrema.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nativa (106.5 FM Lumaco)
-http://stream5.eltelon.com/nativa.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Cooperativa (106.7 FM)
 http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Paula (106.9 FM)
 http://tunein.digitalproserver.com/paulafm.mp3
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Plus FM (106.9 FM Antofagasta)
-http://sonando.us.digitalproserver.com/fmplus_aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Dixi (106.9 FM)
 http://192.99.150.234:9940
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Candelaria (106.9 FM Tierra Amarilla)
-http://stream5.eltelon.com/candelaria.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Esperanza (106.9 FM Temuco)
-http://s6.jcwebnew.com:7800/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Maxima (107.1 FM)
 http://198.27.65.159:9938/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Popular (107.3 FM Coihueco :lib)
-http://192.99.150.234:9920/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Creaciones (107.5 FM Temuco)
-http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] El Bosque (107.9 FM)
 http://104.236.248.181:8766
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Santiago (Orquestada) (690 AM)
+http://167.114.119.122:9982/;stream/1
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Santiago (Romantica) (690 AM)
+http://167.114.119.122:9978/;stream/1
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuevo Mundo (930 AM)
+http://184.107.179.162:9364
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Portales (1180 AM)
+http://s6.jcwebnew.com:8060/stream
+
+#REGIONES NORTE
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Maxima FM (88.1 FM Antofagasta)
+http://cast3.serverhost.cl:8764/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Canal 95 (88.1 FM Antofagasta)
+http://sonando.us.digitalproserver.com/canal95_aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM OK (89.3 FM Antofagasta)
+http://streaming.fmokey.cl:8000/FmOkAT.mp3
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nostalgica (88.1 FM Copiapo)
+http://comunicacionespuntocreativo.cl:8000/nostalgica
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Amiga (88.5 FM Vallenar)
+http://162.210.39.218:24662/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuevo Mundo (88.9 FM Ovalle)
+http://s3.medionline.cl:7960/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Mas (89.1 Arica)
+http://192.198.83.230:9976/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Definitiva (90.5 FM Tocopilla)
+http://192.198.83.230:8772/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Alegria del Transporte (90.9 FM Calama)
+http://s6.medionline.cl:9364/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Panorama (90.9 FM Vallenar)
+http://s4.medionline.cl:8083/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Maray (90.9 FM Copiapo)
+http://162.210.39.218:24250/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Romina (92.5 FM Antofagasta)
+http://198.50.154.235:10246/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Romina (92.5 FM Antofagasta)
+http://167.114.208.100:9844/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Primavera FM (93.5 FM Arica)
+http://cast.radioservicios.cl:9350/web
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Amanecer (93.7 FM Caldera)
+http://107.155.120.114:9954/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Comunicativa (93.7 FM Ovalle)
+http://ip.audiostreaming.cl:9996/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Carillon (94.1 FM Calama)
+http://74.222.0.41:8000/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Genesis (94.1 FM Andacollo)
+http://stream5.eltelon.com/genesis-andacollo.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Rinconada (94.3 FM Mejillones)
+http://server4.radiostreaming.cl:8062/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Almeyda (94.3 FM Diego de Almagro)
+http://192.99.18.164:9974/stream
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universitaria de la Serena (94.5 FM)
+http://radio.cic.userena.cl:8000/radio-uls
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Antara (95.3 FM Copiapo)
+http://162.210.39.218:24284/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universidad de Tarapaca (95.9 FM Arica)
+http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Loactual (96.7 FM Calama)
+http://rs.comtic.net:8000/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+http://ice.dallas.digitalproserver.com/biola
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] San Bartolome (96.7 FM La Serena)
+http://stream5.eltelon.com/san-bartolome.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] 97 Uno Radio (97.1 FM Arica)
+http://stream5.eltelon.com/radio-97uno.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Sol (97.7 FM Antofagasta)
+http://online.radiosol.cl:8000/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Sol (97.7 FM Antofagasta)(Alt)
+http://stream5.eltelon.com/sol-radio.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bahia (97.7 FM Caldera)
+http://195.154.182.222:26475/stream?type=.flv
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Marcela (99.1 FM Huasco)
+http://xc1.adxradio.com:8002/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universidad de Antofagasta (99.9 FM)
+http://200.54.114.230:8000/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Andina (100.1 FM Arica)
+http://192.198.83.230:9976/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Mejillones FM (100.9 FM)
+http://s6.medionline.cl:8006/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Festiva (100.9 FM Copiapo)
+http://s6.jcwebnew.com:8070/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Madero (102.5 FM Antofagasta)
+http://200.111.175.34:5060/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Okey (103.1 FM Copiapo)
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Centro FM (103.3 FM Antofagasta)
+http://stream5.eltelon.com/centro.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Pinamar (105.3 FM La Serena)
+http://184.107.188.34:8034/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Plus FM (106.9 FM Antofagasta)
+http://sonando.us.digitalproserver.com/fmplus_aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Candelaria (106.9 FM Tierra Amarilla)
+http://stream5.eltelon.com/candelaria.aac
+
+#REGIONES CENTRO
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Diferencia (FM 89.3 Salamanca)
+http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Carnaval (89.9 FM Viña del Mar)
+http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Cobremar (89.9 FM Chanaral)
+http://stream5.eltelon.com/cobremar.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Amanda (94.9 FM Buin)
+http://amanda.cmtelcom.com/amanda128
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Illapel (96.5 FM Illapel)
+http://200.111.113.18:8500/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Futura FM (100.7 Talca)
+http://stream5.eltelon.com/futura.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] La Voz De Yungay (102.7 FM Ñuble)
+http://99.198.110.162:7016/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] UCV FM (103.5 FM Valparaiso)
+rtmp://radio.cl.digitalproserver.com/ucvradio/ucvradiolive
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Contacto (103.9 FM Talagante)
+http://184.107.188.34:8697
+
+#REGIONES SUR
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio Bio Temuco (88.1 FM Temuco)
+http://ice.dallas.digitalproserver.com/biotemu
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] 1 Latina (88.1 FM La Union)
+http://190.3.169.87:9918/;stream.mp3
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FMLuz (88.3 FM Los Lagos)
+http://107.155.120.114:9924/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Dona Ines (88.5 FM Concepcion)
+http://sc.digitalproserver.com:9534/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nueva Jerusalen (88.7 FM Rio Bueno)
+http://radionuevajerusalen.mooo.com:8000/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Mia 89.3 (FM Los Angeles)
+http://stream5.eltelon.com/mia.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuble (89.7 FM Chillan)
+http://198.50.154.235:7684
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] UACH (90.1 FM Valdivia)
+http://centova.uach.cl:8000/centova.uach.cl
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Mirador (90.9 FM Lautaro)
+http://demo.dyndns.biz:8016/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Centro FM (91.7 FM Gorbea)
+http://184.107.188.38:8040/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Cariñosa (92.1 FM Chillan)
+http://stream5.eltelon.com/carinosa-chillan.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Sur (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Entretenida FM (92.5 FM Vilcun)
+http://atanua.broadcastchile.cl:7000/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Exquisita (93.1 Valdivia)
+http://stream5.eltelon.com/exquisita.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuevo Amanecer (93.3 FM Fresia)
+http://62.210.203.78:8026/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Del Lago FM (93.3 FM Futrono)
+http://servers58.com:7122/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Pulso (93.3 FM Lanco)
+http://192.99.16.17:3120/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Centinela (93.9 FM Yumbel)
+http://s3.medionline.cl:9964
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Fenomenal (93.9 FM Coyhaique)
+http://stream5.eltelon.com/fenomenal.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Magistral (93.9 FM Galvarino)
+http://www.magistralfm.cl:9110/galvarino
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Picarona (93.9 FM Villarrica)
+http://192.99.150.234:9890/stream
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] RayenFM (94.1 Rio Bueno)
+http://192.99.18.164:9998/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] SAGO Puerto Montt (94.1 FM Puerto Montt)
+http://184.107.165.66:9992/;stream.mp3
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Siempre (94.3 FM Valdivia)
+http://167.114.119.122:9946/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] SAGO Osorno (94.5 FM Osorno)
+http://184.107.165.66:9974/;stream.mp3
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] La Discusion (94.7 FM Chillan)
+http://stream5.eltelon.com/radio-la-discusion.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universal (94.7 FM Temuco)
+http://184.107.188.36:80/universal-aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Origen (94.7 Rio Bueno)
+http://stream5.eltelon.com/fm-origen.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Udec (95.1 FM Concepcion)
+http://radio.udec.cl:8000/radioudec
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Coyhaique (95.3 FM Coyhaique)
+http://stream5.eltelon.com/radio-coyhaique.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Atractiva (FM 95.3 Concepcion)
+http://195.154.182.222:25753/atractiva
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Estilo (FM 95.9 Coyhaique)
+http://sc6.digitalproserver.com:7520/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Araucana (95.9 FM Temuco)
+http://s6.medionline.cl:9180/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Diferencia (FM 95.3 Paillaco)
+http://5.9.65.9:8116
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Diferencia (FM 95.3 Paillaco) Alt
+http://5.9.65.9:8166
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] El Conquistador Valdivia (95.7 Valdivia)
+http://stream5.eltelon.com/el-conquistador-valdivia.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Genesis (96.5 FM Curacautin)
+http://stream5.eltelon.com/genesis.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] San Sebastian (97.3 FM Valdivia)
+http://stream5.eltelon.com/san-sebastian.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Sol Austral (97.7 FM Aysen)
+http://104.236.248.181:9986/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Ventisqueros (97.7 FM Coyhaique)
+http://stream5.eltelon.com:8000/ventisqueros.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio Bio Concepcion (98.1 FM Concepcion)
+http://ice.dallas.digitalproserver.com/bioconcebb.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Camila (98.3 FM Los Angeles)
+http://stream5.eltelon.com:8000/archi-camila.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] El Conquistador (98.9 FM Concepcion)
+http://stream5.eltelon.com/el-conquistador-concepcion.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Pilmaiquen (98.9 FM Valdivia)
+http://streaming.chiloestreaming.com:9190/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Digital FM (99.1 FM Punta Arenas)
+http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Arcoiris (99.3 FM Coyhaique)
+http://s6.jcwebnew.com:8120/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Caramelo (99.5 FM Los Angeles)
+http://sc6.digitalproserver.com:8120/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Macarena (99.7 FM Chillan)
+http://stream5.eltelon.com/macarena.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nueva Genial (100.5 FM Coyhaique)
+http://s6.jcwebnew.com:7555/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Dinamica (100.7 FM Coronel)
+http://stream5.eltelon.com/dinamica.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Monte Carlo Sur (100.9 FM Angol)
+http://cast3.serverhost.cl:8784/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Acogida (100.9 FM Entre Lagos)
+http://stream5.eltelon.com/radio-acogida-2.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] 101.1FM (101.1 FM La Union)
+http://radio101fm.no-ip.info:8000/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Atractiva FM (101.3 Los Lagos)
+http://stream5.eltelon.com/atractiva-fm.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Revelacion (101.5 FM Canete)
+http://stream5.eltelon.com/doble-r.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Acustica FM (101.5 FM Panguipulli)
+http://stream5.eltelon.com/acustica-fm.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] RLP (La palabra)(101.5 FM Osorno)
+http://tv.portalfoxmix.club:1935/RLPFM1015/default.stream/playlist.m3u8
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Genoveva FM (101.7 FM Valdivia)
+http://stream5.eltelon.com/genoveva.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Las Nieves (102.9 FM Puerto Aysen)
+http://s6.jcwebnew.com:7060/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Antillanca (103.5 FM Osorno)
+http://107.155.120.114:9912/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Lagos del Sur (103.7 FM Panguipulli)
+http://stream5.eltelon.com/archi-lagosdelsur.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Supersol (104.5 FM Osorno)
+http://184.107.165.66:9970/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Picarona (104.7 FM Panguipulli)
+http://192.99.150.234:9882/stream
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] 1049 (FM 104.9 Pucon)
+http://audio.streaminghd.cl:8034/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Positiva (FM 105.5 FM Concepcion)
+http://mimix.mercurio.cl:8000/concepcion2
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Extrema (106.1 FM Puerto Saavedra)
+http://stream5.eltelon.com/radio-extrema.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nativa (106.5 FM Lumaco)
+http://stream5.eltelon.com/nativa.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Corporacion (106.7 FM Valdivia)
+http://31.220.18.102:8008/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Esperanza (106.9 FM Temuco)
+http://s6.jcwebnew.com:7800/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Popular (107.3 FM Coihueco :lib)
+http://192.99.150.234:9920/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Creaciones (107.5 FM Temuco)
+http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+
+#AM
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Concordia (820 AM La Union)
+http://s6.jcwebnew.com:7040/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Patagonia (970 AM Coyhaique)
+http://192.99.150.234:9876/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Austral AM (970 AM Valdivia)
+http://stream5.eltelon.com/austral-am.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Chilena Concepcion (1030 AM)
+rtsp://servicioamerica.net/9692/default.stream
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] UBB (1360 AM Concepcion)
+http://radioubb.cl:8000/online
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Regional (1480 AM Valdivia)
+http://184.107.165.66:9954/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] RADIO SAN JOSE DE ALCUDIA (1540 AM Rio Bueno)
+http://ip.audiostreaming.cl:9920
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Llacolen (1600 AM Concepcion)
+http://sc.digitalproserver.com:9532/;
+
+
+
+#RADIOS EN LINEA
+#CHILE
+#GENERAL
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] NIU Radio
 http://live-origin.us.niu.cl/niu_radio.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] NIU POP
@@ -1242,55 +1348,45 @@ http://live-origin.us.niu.cl/niu_80s.aac
 http://live-origin.us.niu.cl/niu_90s.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Niu LIVE
 http://live-origin.us.niu.cl/niu_live.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Club 80 (Online)
-http://play.enhd.co:7024/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] La Mejor (Online - Rancagua)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Club 80 (Online)
 http://s3.medionline.cl:7702
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FMBox (Online)
 http://stream.fmbox.cl:9994
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Candela FM (Online)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Candela FM (Online)
 http://tunein.digitalproserver.com/candelabb.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Rockaxis (Online)
 http://radio.cl.mediastre.am/rockaxis.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Galaxia (Online)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Galaxia (Online)
 http://sscl.denialstream.com:8830/;stream/1.mp3
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Anglo Latina (Online)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Anglo Latina (Online)
 http://streaming.radioanglolatina.com:8012/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Krishna FM (Online)
-http://cast3.serverhost.cl:8760/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Siente (Online - Arica)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Picarona (Solo Musica)
+http://192.99.150.234:9884/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Mundo 80
+http://184.107.165.66:6020/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Educa
+http://190.3.168.130:9020/
+
+#REGIONES
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Siente (Online Arica)
 http://radio1.us.mediastre.am/siente.aac
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Celeste (Online - Copiapo)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Celeste (Online Copiapo)
 http://s6.jcwebnew.com:7006/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Aternativa FM (Online - Huasco)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Aternativa FM (Online Huasco)
+http://play.enhd.co:7024/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] La Mejor (Online Rancagua)
 http://107.155.120.114:9944/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Concepcion (Online)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Concepcion (Online)
 http://ip.audiostreaming.cl:9764/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Riquelme Coquimbo (Online)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Riquelme Coquimbo (Online)
 http://162.210.39.218:24666/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] UCT Radio Temuco (Online)
 http://audio.uctradio.cl/radio
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Santiago (Orquestada) (690 AM)
-http://167.114.119.122:9982/;stream/1
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Santiago (Romantica) (690 AM)
-http://167.114.119.122:9978/;stream/1
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuevo Mundo (930 AM)
-http://184.107.179.162:9364
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Patagonia (970 AM Coyhaique)
-http://192.99.150.234:9876/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Chilena Concepcion (1030 AM)
-rtsp://servicioamerica.net/9692/default.stream
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio UBB (1360 AM Concepcion)
-http://radioubb.cl:8000/online
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Llacolen (1600 AM Concepcion)
-http://sc.digitalproserver.com:9532/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Portales (1180 AM)
-http://s6.jcwebnew.com:8060/stream
 
-#RADIOS INTERMACIONALES SOLO STREAMING
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIOS MUNDO[/COLOR] Disco (88.9 FM)
+#INTERNACIONALES
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Disco (88.9 FM)
 http://77.68.54.175:8012
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIOS MUNDO[/COLOR] Radio Caracol (590 AM Concepcion)
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Caracol (590 AM Concepcion)
 http://208.80.54.40/CARACOL_RADIOAAC_SC
 
 #########################################################################
