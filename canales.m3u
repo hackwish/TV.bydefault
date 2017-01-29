@@ -3,11 +3,13 @@
 #
 #EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] RED TV
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] RED TV (ALT)
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] TELECANAL
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] UCV
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] TVN
+#EXTINF:0,tvg-id="TVN CHILE", tvg-name="TVN CHILE",group-title="CHILE",[COLOR yellow][CHILE][/COLOR] TVN
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] MEGA
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F
@@ -17,9 +19,9 @@ http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] CHV (ALT)
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13
+#EXTINF:0,tvg-id="", tvg-name="",group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13 (ALT)
+#EXTINF:-1,tvg-id="", tvg-name="",group-title="CHILE",[COLOR yellow][CHILE][/COLOR] 13 (ALT)
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] T13 MOVIL
 http://cdn.ztreaming.com/t13vivo3/t13vivo3-632.m3u8
@@ -119,6 +121,8 @@ http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w153683
 rtmp://videostreaming.cl:8080/live/mp4:radiosanjose.mp4
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] Canal Latino (La Union)
 rtmp://video.crearchile.info:8080/live/mp4:latina.mp4
+#EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] Canal 2 Quellon
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/chunklist.m3u8
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] Santa Maria Tv Coyhaique
 http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
 #EXTINF:0,group-title="CHILE",[COLOR yellow][CHILE][/COLOR] ELPINGUINO TV
@@ -136,7 +140,7 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 #ANIMACION
 #EXTINF:0,group-title="ANIMACION",[COLOR orange][ANIMACION][/COLOR] ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
-#EXTINF:-1,group-title="ANIMACION",[COLOR orange][ANIMACION][/COLOR] TaTeTi
+#EXTINF:-1,tvg-id="Tateti", tvg-name="Tateti",group-title="ANIMACION",[COLOR orange][ANIMACION][/COLOR] TaTeTi
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,group-title="ANIMACION",[COLOR orange][ANIMACION][/COLOR] CARTOON NETWORK PT
 http://31.204.128.117:8081/live/cartoon/playlist.m3u8
@@ -146,7 +150,7 @@ http://31.204.128.117:8081:8081/live/discoverykids/playlist.m3u8
 #CINE-SERIES
 #EXTINF:0,group-title="CINE-SERIES",[COLOR orange][CINE-SERIES][/COLOR] Cinema TVPlay (SD)
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
-#EXTINF:0,group-title="CINE-SERIES",[COLOR orange][CINE-SERIES][/COLOR] A3SERIES
+#EXTINF:0,tvg-id="Atreseries", tvg-name="Atreseries",group-title="CINE-SERIES",[COLOR orange][CINE-SERIES][/COLOR] A3SERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 #MUSICA
@@ -214,9 +218,9 @@ rtmp://evo.eltelon.com:1935/live/fm-hot-tv
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Spirit TV
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
-#EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Trendy Musica
+#EXTINF:0,tvg-id="Trendy Channel", tvg-name="Trendy Channel",group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Trendy Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Tigo Music
+#EXTINF:0,tvg-id="Tigo Music", tvg-name="Tigo Music",group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Cantinazo TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
@@ -230,9 +234,9 @@ rtmp://190.107.176.167:1935/live/estudio-tv
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Music Box UA
 rtmp://212.26.132.86/live/mb_ua
-#EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] QMusica
+#EXTINF:0,tvg-id="QUIERO MUSICA", tvg-name="QUIERO MUSICA",group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] QMusica
 mms://streamqm.uigc.net/qmusica
-#EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] QMusica ALT
+#EXTINF:0,tvg-id="QUIERO MUSICA", tvg-name="QUIERO MUSICA",group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] QMusica ALT
 mms://200.42.92.6:1755/qmusica
 #EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] 538 TV (Music) (NL) (English)
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
@@ -244,7 +248,7 @@ http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
 http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
 #EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Channel UFX (Music) (IN) (Tamil)
 rtmp://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp
-#EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] City TV (Music) (BG) (English)
+#EXTINF:0,tvg-id="Citytv", tvg-name="Citytv",group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] City TV (Music) (BG) (English)
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
 #EXTINF:0,group-title="MUSICA",[COLOR orange][MUSICA][/COLOR] Desi Channel (Music) (IN) (Punjabi)
 rtmp://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp
@@ -308,13 +312,13 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] NASA Space Station 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:0,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] Discovery Channel Latino
+#EXTINF:0,tvg-id="DISCOVERY CHANNEL", tvg-name="DISCOVERY CHANNEL",group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] Discovery Channel Latino
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:0,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] TEC TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:0,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] 360 TV
+#EXTINF:0,tvg-id="360 TV", tvg-name="360 TV",group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] 360 TV
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:-1,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] Viajar [SD]
+#EXTINF:-1,tvg-id="Viajar", tvg-name="Viajar",group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] Viajar [SD]
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 #EXTINF:-1,group-title="EDUCACION",[COLOR orange][EDUCACION][/COLOR] Educativo Cuba
 http://170.55.15.122:8000/play/a00m
@@ -322,17 +326,17 @@ http://170.55.15.122:8000/play/a00m
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
 
 #NOTICIAS
-#EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Deutsche Welle (L.A)
+#EXTINF:0,tvg-id="DEUTSCHE WELLE", tvg-name="DEUTSCHE WELLE",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Deutsche Welle (L.A)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Deutsche Welle (L.A) ALT
+#EXTINF:-1,tvg-id="DEUTSCHE WELLE", tvg-name="DEUTSCHE WELLE",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Deutsche Welle (L.A) ALT
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Deutsche Welle (Asia)
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Deutsche Welle (U.S.A)
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
-#EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Bloomberg TV
+#EXTINF:0,tvg-id="Bloomberg", tvg-name="Bloomberg",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] France 24
+#EXTINF:-1,tvg-id="FRANCE 24 INGLES", tvg-name="FRANCE 24 INGLES",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
@@ -344,7 +348,7 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
 #EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Arirang Korea
 http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea4.m3u8
-#EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] BBC World News
+#EXTINF:-1,tvg-id="Bbc Hd Hybrid", tvg-name="Bbc Hd Hybrid",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] TV5 Monde
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
@@ -358,11 +362,11 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://190.57.234.164/V0/4/2.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Unicable
 http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
-#EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Telesur
+#EXTINF:0,tvg-id="TELESUR", tvg-name="TELESUR",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] Telesur
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:0,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RT EN ESPAÑOL HD
+#EXTINF:0,tvg-id="Russia Today Hd", tvg-name="Russia Today Hd",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RT EN ESPAÑOL HD
 http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8
-#EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RT Español ALT [HD]
+#EXTINF:-1,tvg-id="Russia Today Hd", tvg-name="Russia Today Hd",group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RT Español ALT [HD]
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 #EXTINF:-1,group-title="GENERAL",[COLOR orange][NOTICIAS][/COLOR] RT News [HD]
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
@@ -392,7 +396,7 @@ http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_840_av-b.m3u8
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Efekto TV HD ALT
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
-#EXTINF:0,group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Enlace
+#EXTINF:0,tvg-id="ENLACE TBN", tvg-name="ENLACE TBN",group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Enlace
 http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Nueva Vida
 http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
@@ -402,9 +406,9 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 #EXTINF:0,group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Life Design HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-#EXTINF:0,group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Sun Channel
+#EXTINF:0,tvg-id="Sun Channel", tvg-name="Sun Channel",group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:0,group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Sun Channel ALT
+#EXTINF:0,tvg-id="Sun Channel", tvg-name="Sun Channel",group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] Sun Channel ALT
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
 #EXTINF:-1,group-title="GENERAL",[COLOR orange][GENERAL][/COLOR] TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
@@ -430,9 +434,9 @@ http://ksportiptv.com:1557/live/idou/idou/1589.ts
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:0,group-title="DEPORTES",[COLOR orange][DEPORTES][/COLOR] Todo Deportes Argentina
 http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
-#EXTINF:0,group-title="DEPORTES",[COLOR orange][DEPORTES][/COLOR] DXTV
+#EXTINF:0,tvg-id="DEPORTV", tvg-name="DEPORTV",group-title="DEPORTES",[COLOR orange][DEPORTES][/COLOR] DXTV
 http://186.33.227.199/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:0,group-title="DEPORTES",[COLOR orange][DEPORTES][/COLOR] DXTV ALT
+#EXTINF:0,tvg-id="DEPORTV", tvg-name="DEPORTV",group-title="DEPORTES",[COLOR orange][DEPORTES][/COLOR] DXTV ALT
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 #EXTINF:0,group-title="DEPORTES",[COLOR orange][DEPORTES][/COLOR] Motor Sport
 http://motorsport.hopto.org:8080/
@@ -462,29 +466,29 @@ http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b12000
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
 
 #ARGENTINA TV
-#EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal Rural
+#EXTINF:0,tvg-id="CANAL RURAL", tvg-name="CANAL RURAL",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal Rural
 rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 #EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] TLX TELEMAX/TELECENTRO
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] CANAL 26
+#EXTINF:0,tvg-id="26 TV", tvg-name="26 TV",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] CANAL 26
 http://200.115.193.177/live/26hd-480/.m3u8
-#EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] CANAL 26 ALT
+#EXTINF:0,tvg-id="26 TV", tvg-name="26 TV"group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] CANAL 26 ALT
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Telpin TV
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal 10 Mar de Plata
 http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
-#EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] TN
+#EXTINF:0,tvg-id="TN", tvg-name="TN",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] TN
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] TN ALT
+#EXTINF:-1,tvg-id="TN", tvg-name="TN",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] TN ALT
 http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
-#EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] C5N
+#EXTINF:0,tvg-id="C5N", tvg-name="C5N",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-#EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal 9
+#EXTINF:0,tvg-id="CANAL 9", tvg-name="CANAL 9",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal 9
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal de la Ciudad
 http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
-#EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Qm TV
+#EXTINF:0,tvg-id="QM NOTICIAS", tvg-name="QM NOTICIAS",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] QM Noticias
 http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
 #EXTINF:0,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] TV Power
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
@@ -494,9 +498,9 @@ http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Ref
 http://prepublish.f.qaotic.net/epa2/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
 #EXTINF:-1,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal 2 Posadas Misiones
 http://190.192.87.71:8088/live/canal101010102.m3u8?ID=
-#EXTINF:-1,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Tv Publica 
+#EXTINF:-1,tvg-id="TV PUBLICA", tvg-name="TV PUBLICA",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Tv Publica 
 http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
-#EXTINF:-1,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] A24 [HD]
+#EXTINF:-1,tvg-id="AMERICA 24", tvg-name="AMERICA 24",group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] America 24 [HD]
 https://www.youtube.com/watch?v=ZEk_4qyyBq0
 #EXTINF:-1,group-title="ARGENTINA",[COLOR cyan][ARGENTINA][/COLOR] Canal 7 Mendoza [HD]
 https://www.youtube.com/watch?v=cmo6uqcWkXc
@@ -522,7 +526,7 @@ http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
 http://arcast.tv:1935/envivo/atb/chunklist_w1503945424.m3u8
 
 #BRAZIL
-#EXTINF:-1,group-title="BRAZIL",[COLOR teal][BRAZIL][/COLOR] GLOBO SP
+#EXTINF:-1,tvg-id="Tv Globo", tvg-name="Tv Globo",group-title="BRAZIL",[COLOR teal][BRAZIL][/COLOR] GLOBO SP
 http://31.204.128.127:8081/live/record/playlist.m3u8 
 #EXTINF:-1,group-title="BRAZIL",[COLOR teal][BRAZIL][/COLOR] RIC TV
 http://31.204.128.127:8081/live/sptv/playlist.m3u8
@@ -548,13 +552,13 @@ rtmp://edge.wms28.lorini.net/trttv/trttv
 http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
 
 #COLOMBIA
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] RCN
+#EXTINF:0,tvg-id="Rcn Nuestra Tele", tvg-name="Rcn Nuestra Tele",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] RCN
 http://streannlive-lh.akamaihd.net/i/col03_1@388863/index_1_av-p.m3u8?hd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1475802258~acl=%2f*~data=hdntl~hmac=08a69116eab65150ffd574064f0f08e14408e153a36ace3fcb6da60f63e85179
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Teleantioquia
+#EXTINF:0,tvg-id="Teleantioquia", tvg-name="Teleantioquia",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Teleantioquia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Telemedellin
+#EXTINF:0,tvg-id="Telemedellin", tvg-name="Telemedellin",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Telemedellin
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Telepacifico
+#EXTINF:0,tvg-id="Telepacifico", tvg-name="Telepacifico",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Telepacifico
 http://video.ideasmedia.com.co/live-ideasmedia/smil:envivo.smil/playlist.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Telepacifico Opcion 2
 http://video.ideasmedia.com.co/live-ideasmedia/_definst_/mp4:ideasmedia3/chunklist_w1866703897.m3u8
@@ -562,7 +566,7 @@ http://video.ideasmedia.com.co/live-ideasmedia/_definst_/mp4:ideasmedia3/chunkli
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_manifest.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal Antiestres
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Señal Colombia
+#EXTINF:0,tvg-id="Senal Colombia", tvg-name="Senal Colombia",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Senal Colombia
 http://cdns840stu1010.shooowit.net/rtvcscolombialive/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Señal Colombia Opcion 2
 http://cdns840stu1010.shooowit.net/rtvcscolombialive/smil:live.smil/IPTVColFree.m3u8
@@ -576,19 +580,19 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/EVEN/tu1_3.m3u8
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?time=1472170180731
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Cablenoticias
+#EXTINF:0,tvg-id="Cablenoticias", tvg-name="Cablenoticias",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Cablenoticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal U de Antioquia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal U de Antioquia ALT
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal TV Agro
+#EXTINF:0,tvg-id="Tv Agro", tvg-name="Tv Agro",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal TV Agro
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal Cosmovision
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_3.m3u8
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal Telecafe
+#EXTINF:0,tvg-id="Telecafe", tvg-name="Telecafe",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Canal Telecafe
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_3.m3u8
-#EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Vmas TV
+#EXTINF:0,tvg-id="Vmas Tv", tvg-name="Vmas Tv",group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Vmas TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:0,group-title="COLOMBIA",[COLOR papayawhip][COLOMBIA][/COLOR] Life Design
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?time=1472170324764
@@ -628,9 +632,9 @@ http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
 #MEXICO
-#EXTINF:0,group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] Azteca trece
+#EXTINF:0,tvg-id="Azteca 13", tvg-name="Azteca 13",group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] Azteca trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:0,group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] AZTECA trece ALT
+#EXTINF:0,tvg-id="Azteca 13", tvg-name="Azteca 13",group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] AZTECA trece ALT
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:0,group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] TV RADIO Y TELEVISION MEXIQUENSE
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
@@ -674,7 +678,7 @@ rtmp://stream.hosteris.com/tvacapulco/tvacapulco
 http://74.63.97.188:1935/c7/videoc7/master.m3u8
 #EXTINF:0,group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] C7 Cultura Guadalajara
 http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
-#EXTINF:0,group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] TRECEVISION YUCATAN
+#EXTINF:0,tvg-id="Trecevision Canal 13", tvg-name="Trecevision Canal 13",group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] TRECEVISION YUCATAN
 http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
 #EXTINF:0,group-title="MEXICO",[COLOR gold][MEXICO][/COLOR] CANAL 15 FRESNILLO
 rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
@@ -698,8 +702,6 @@ http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] RTVE 24H 
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] Andalucia Television
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] MEGA
@@ -710,15 +712,17 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] La Sexta HD
 http://ksportiptv.com:1557/live/idou/idou/2154.ts
-#EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] TVE
+#EXTINF:0,tvg-id="Tve", tvg-name="Tve",group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] TVE
 http://ksportiptv.com:1557/live/idou/idou/2144.ts
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] TV3 HD
 http://ksportiptv.com:1557/live/idou/idou/2145.ts
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] Telecinco
 http://ksportiptv.com:1557/live/idou/idou/1774.ts
-#EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] ANTENA 3
+#EXTINF:0,tvg-id="Antena3", tvg-name="Antena3",group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0,tvg-id="Antena3", tvg-name="Antena3",group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] ANTENA 3 Alt
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] Antena 3 ALT
+#EXTINF:0,tvg-id="Antena3", tvg-name="Antena3",group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] Antena 3 Alt2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] Condavisión
 http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
@@ -726,7 +730,7 @@ http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
 http://194.158.80.31:443/live/rtva/playlist.m3u8
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] TV3 24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
-#EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] GALICIA TV
+#EXTINF:0,tvg-id="GALICIA TV", tvg-name="GALICIA TV",group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] GALICIA TV
 http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
 #EXTINF:0,group-title="ESPAÑA",[COLOR tomato][ESPAÑA][/COLOR] TV EUROPA
 http://media3.crtvg.es/live/tvge/vcx7.m3u8
@@ -853,6 +857,8 @@ http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 http://wow2.cl.digitalproserver.com/infinitatv/infinitatvvivo/infinitatv.smil/chunklist.m3u8
 #EXTINF:-1,group-title="RADIO",[COLOR blue]RADIO[/COLOR] Radio Universal (Temuco)
 rtmp://video.crearchile.info:8080/live/mp4:universal.mp4
+#EXTINF:-1,group-title="RADIO",[COLOR blue]RADIO[/COLOR] Radio Chiloé Video (1030 AM Castro) 
+rtmp://streaminglivehd.com:1935/8032/8032
 
 
 ##RADIOS INTERNACIONALES CON VIDEO
@@ -969,11 +975,13 @@ http://200.75.19.171/uoct/6/playlist.m3u8
 ##RADIOS FM-AM CHILE
 ##GENERAL, CADENAS Y SANTIAGO
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Imagina (88.1 FM)
-http://77.67.109.164/IMAGINA_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Concierto (88.5 FM)
-http://63.243.143.145/CONCIERTO_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Futuro (88.9 FM)
-http://69.31.54.139/FUTURO_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Disco 89 (88.9 FM)
+http://radio2.rgradio.net:9020/disco89.mp3
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Maria (89.3 FM)
 http://dreamsiteradiocp.com:8066/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Duna (89.7 FM)
@@ -981,7 +989,9 @@ http://tunein.digitalproserver.com/dunabb.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Colo-colo (90.1 FM)
 http://186.103.213.249:9988
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Pudahuel (90.5 FM)
-http://63.243.143.155/PUDAHUEL_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Cumbre (90.9 FM)
+http://sc.digitalproserver.com:9604/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Digital FM (91.1 FM)
 http://mimix.mercurio.cl:8000/digitalfm
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] El Conquistador (91.3 FM)
@@ -1106,8 +1116,6 @@ http://162.210.39.218:24284/;
 http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Loactual (96.7 FM Calama)
 http://rs.comtic.net:8000/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
-http://ice.dallas.digitalproserver.com/biola
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] San Bartolome (96.7 FM La Serena)
 http://stream5.eltelon.com/san-bartolome.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] 97 Uno Radio (97.1 FM Arica)
@@ -1172,12 +1180,18 @@ http://107.155.120.114:9924/;
 http://sc.digitalproserver.com:9534/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nueva Jerusalen (88.7 FM Rio Bueno)
 http://radionuevajerusalen.mooo.com:8000/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Stylo (88.9 FM Quellón)
+http://wowza.chiloestreaming.com:9122/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Mia 89.3 (FM Los Angeles)
 http://stream5.eltelon.com/mia.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuble (89.7 FM Chillan)
 http://198.50.154.235:7684
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Mundo (89.9 FM La Union)
+http://s1.wmsoluciones.cl:9010/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] UACH (90.1 FM Valdivia)
 http://centova.uach.cl:8000/centova.uach.cl
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio MRG (90.1 FM Castro)
+http://streaming.chiloestreaming.com:9548/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Mirador (90.9 FM Lautaro)
 http://demo.dyndns.biz:8016/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Centro FM (91.7 FM Gorbea)
@@ -1186,10 +1200,16 @@ http://184.107.188.38:8040/;
 http://stream5.eltelon.com/carinosa-chillan.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Sur (92.1 FM Los Angeles)
 http://ww3.radiosur.cl:5074/rsur
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nueva Belen (92.3 FM Puerto Montt)
+http://stream5.eltelon.com/nueva-belen.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Entretenida FM (92.5 FM Vilcun)
 http://atanua.broadcastchile.cl:7000/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Estrella del Mar (92.5 FM Ancud)
+http://stream5.eltelon.com:8000/estrella-del-mar-ancud.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Exquisita (93.1 Valdivia)
 http://stream5.eltelon.com/exquisita.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Siempre (93.1 FM Quellón)
+http://giss.tv:8000/fmsiemprechiloe.mp3
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nuevo Amanecer (93.3 FM Fresia)
 http://62.210.203.78:8026/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Del Lago FM (93.3 FM Futrono)
@@ -1212,6 +1232,8 @@ http://184.107.165.66:9992/;stream.mp3
 http://167.114.119.122:9946/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] SAGO Osorno (94.5 FM Osorno)
 http://184.107.165.66:9974/;stream.mp3
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Nahuel (94.5 FM Castro)
+http://streaming.chiloestreaming.com:9142/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] La Discusion (94.7 FM Chillan)
 http://stream5.eltelon.com/radio-la-discusion.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universal (94.7 FM Temuco)
@@ -1224,18 +1246,36 @@ http://radio.udec.cl:8000/radioudec
 http://stream5.eltelon.com/radio-coyhaique.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Atractiva (FM 95.3 Concepcion)
 http://195.154.182.222:25753/atractiva
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Estilo (FM 95.9 Coyhaique)
-http://sc6.digitalproserver.com:7520/;
-#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Araucana (95.9 FM Temuco)
-http://s6.medionline.cl:9180/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Diferencia (FM 95.3 Paillaco)
 http://5.9.65.9:8116
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Diferencia (FM 95.3 Paillaco) Alt
 http://5.9.65.9:8166
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Estrella de Mar (95.3 FM Achao)
+http://ip.audiostreaming.cl:9926/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] La Pachanguera FM (95.7 FM La Union)
+http://192.99.150.42:8772/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] El Conquistador Valdivia (95.7 Valdivia)
 http://stream5.eltelon.com/el-conquistador-valdivia.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Universidad de los Lagos (95.7 FM Osorno)
+http://radio.ulagos.cl:8000/radio_ulagos
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Estilo (FM 95.9 Coyhaique)
+http://sc6.digitalproserver.com:7520/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Araucana (95.9 FM Temuco)
+http://s6.medionline.cl:9180/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] C y S (96.3 FM Dalcahue)
+http://stream5.eltelon.com/c-y-s.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] San Gabriel (96.3 FM Fresia)
+http://tv.portalfoxmix.club:1935/mu9932/default.stream/playlist.m3u8
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Genesis (96.5 FM Curacautin)
 http://stream5.eltelon.com/genesis.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Musicoop (96.5 FM Osorno)
+http://200.27.116.179:8002
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Para Ti (96.5 FM Puerto Montt)
+http://104.131.43.160:7208
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+http://ice.dallas.digitalproserver.com/biola
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Lago Ranco (96.9 FM Lago Ranco)
+http://radiolagoranco.noip.me:8888/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] San Sebastian (97.3 FM Valdivia)
 http://stream5.eltelon.com/san-sebastian.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Sol Austral (97.7 FM Aysen)
@@ -1244,6 +1284,8 @@ http://104.236.248.181:9986/;
 http://stream5.eltelon.com:8000/ventisqueros.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Bio Bio Concepcion (98.1 FM Concepcion)
 http://ice.dallas.digitalproserver.com/bioconcebb.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Pudeto FM (98.1 FM Ancud)
+http://stream5.eltelon.com/pudeto.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Camila (98.3 FM Los Angeles)
 http://stream5.eltelon.com:8000/archi-camila.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Positiva (98.5 FM Temuco)
@@ -1254,6 +1296,10 @@ http://stream5.eltelon.com/el-conquistador-concepcion.aac
 http://streaming.chiloestreaming.com:9190/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Digital FM (99.1 FM Punta Arenas)
 http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Paraiso (99.1 FM Lago Ranco)
+http://radioparaiso.sytes.net:8888/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Libertad FM (99.1 FM Chonchi)
+http://streaming.chiloestreaming.com:9148/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Arcoiris (99.3 FM Coyhaique)
 http://s6.jcwebnew.com:8120/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Positiva (FM 99.5 Valdivia)
@@ -1264,8 +1310,12 @@ http://sc6.digitalproserver.com:8120/;
 http://stream5.eltelon.com/macarena.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nueva Genial (100.5 FM Coyhaique)
 http://s6.jcwebnew.com:7555/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Quellon FM (100.5 FM Quellon)
+http://s3.medionline.cl:7932/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Dinamica (100.7 FM Coronel)
 http://stream5.eltelon.com/dinamica.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Amiga (100.7 FM Calbuco)
+http://stream5.eltelon.com/amiga-fm.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Monte Carlo Sur (100.9 FM Angol)
 http://cast3.serverhost.cl:8784/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Acogida (100.9 FM Entre Lagos)
@@ -1288,36 +1338,52 @@ http://s6.jcwebnew.com:7060/;
 http://107.155.120.114:9912/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Lagos del Sur (103.7 FM Panguipulli)
 http://stream5.eltelon.com/archi-lagosdelsur.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Purranque (104.1 FM Purranque)
+http://104.131.43.160:8710
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Supersol (104.5 FM Osorno)
 http://184.107.165.66:9970/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Picarona (104.7 FM Panguipulli)
 http://192.99.150.234:9882/stream
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Estilo FM (104.7 FM Valdivia)
+http://sc5.digitalproserver.com:7520/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] 1049 (FM 104.9 Pucon)
 http://audio.streaminghd.cl:8034/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] San Carlos (105.1 FM Chonchi)
+http://streaming.chiloestreaming.com:9146/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Positiva (FM 105.5 FM Concepcion)
 http://mimix.mercurio.cl:8000/concepcion2
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Chaiten (105.7 FM Chaiten)
+http://5.9.65.9:8114/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Extrema (106.1 FM Puerto Saavedra)
 http://stream5.eltelon.com/radio-extrema.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Nativa (106.5 FM Lumaco)
 http://stream5.eltelon.com/nativa.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Corporacion (106.7 FM Valdivia)
 http://31.220.18.102:8008/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Classica (106.7 FM Puerto Montt)
+http://01.solumedia.com.ar:8312/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Esperanza (106.9 FM Temuco)
 http://s6.jcwebnew.com:7800/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Popular (107.3 FM Coihueco :lib)
 http://192.99.150.234:9920/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Creaciones (107.5 FM Temuco)
 http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Alas de Aguila (107.7 FM Puerto Montt)
+http://s3.medionline.cl:8056/;
 
 #AM
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Concordia (820 AM La Union)
 http://s6.jcwebnew.com:7040/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Reloncavi (930 AM Puerto Montt)
+http://167.114.208.100:9988/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Patagonia (970 AM Coyhaique)
 http://192.99.150.234:9876/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Austral AM (970 AM Valdivia)
 http://stream5.eltelon.com/austral-am.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Chilena Concepcion (1030 AM)
 rtsp://servicioamerica.net/9692/default.stream
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Chiloé (1030 AM Castro) 
+http://streaming.chiloestreaming.com:9554/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] UBB (1360 AM Concepcion)
 http://radioubb.cl:8000/online
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Regional (1480 AM Valdivia)
@@ -1327,9 +1393,25 @@ http://ip.audiostreaming.cl:9920
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Llacolen (1600 AM Concepcion)
 http://sc.digitalproserver.com:9532/;
 
+#RADIO EMERGENCIAS
+#EXTINF:-1,radio="TRUE" group-title="RADIO EMERGENCIA",[COLOR red]RADIO[/COLOR] RNE - Bomberos Santiago RM
+http://relay.broadcastify.com:80/486952222?xan=578426221C191798C2E2C60B0034E5E5
 
+#EXTINF:-1,radio="TRUE" group-title="RADIO EMERGENCIA",[COLOR red]RADIO[/COLOR] RNE - C.I.M.A.T. Chile 
+http://relay.broadcastify.com:80/317219253?xan=578426221C191798C2E2C60B0034E5E5
 
-#RADIOS EN LINEA
+#EXTINF:-1,radio="TRUE" group-title="RADIO EMERGENCIA",[COLOR red]RADIO[/COLOR] RNE - Red Chile Conectado C.I.M.A.T. Chile
+http://relay.broadcastify.com:80/595978158?xan=578426221C191798C2E2C60B0034E5E5
+
+#EXTINF:-1,radio="TRUE" group-title="RADIO EMERGENCIA",[COLOR red]RADIO[/COLOR] RNE - Bomberos Santiago y O.N.E.M.I.
+http://relay.broadcastify.com:80/640075795?xan=578426221C191798C2E2C60B0034E5E5
+
+#EXTINF:-1,radio="TRUE" group-title="RADIO EMERGENCIA",[COLOR red]RADIO[/COLOR] RNE - Centro Alerta Temprana (Radio Unida FM Chile)
+http://relay.broadcastify.com:80/300957107?xan=578426221C191798C2E2C60B0034E5E5
+
+#EXTINF:-1,radio="TRUE" group-title="RADIO EMERGENCIA",[COLOR red]RADIO[/COLOR] RNE - Centro de Comunicaciones BioBio
+http://relay.broadcastify.com:80/441010388?xan=578426221C191798C2E2C60B0034E5E5
+
 #CHILE
 #GENERAL
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] NIU Radio
@@ -1366,6 +1448,8 @@ http://192.99.150.234:9884/
 http://184.107.165.66:6020/
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Educa
 http://190.3.168.130:9020/
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] FM Mix (Online)
+http://audio.crearchile.info:9800/
 
 #REGIONES
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Siente (Online Arica)
@@ -1382,6 +1466,8 @@ http://ip.audiostreaming.cl:9764/;
 http://162.210.39.218:24666/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] UCT Radio Temuco (Online)
 http://audio.uctradio.cl/radio
+#EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Radio Vida (Online Paillaco)
+http://stm40.srvstm.com:20762/
 
 #INTERNACIONALES
 #EXTINF:-1,radio="TRUE" group-title="RADIO STREAMING",[COLOR magenta]RADIO[/COLOR] Disco (88.9 FM)
