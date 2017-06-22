@@ -15,9 +15,9 @@ http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:0,group-title="CHILE", CHILEVISION [ALT]
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" group-title="CHILE", CANAL 13
+#EXTINF:0,tvg-id="" tvg-name="Canal 13" group-title="CHILE", CANAL 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" group-title="CHILE", CANAL 13 [ALT]
+#EXTINF:-1,tvg-id="" tvg-name="Canal 13" group-title="CHILE", CANAL 13 [ALT]
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:0,group-title="CHILE", T13 MOVIL
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
@@ -73,7 +73,7 @@ http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
 #EXTINF:0,group-title="CHILE", Giro Visual
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
-#EXTINF:-1,group-title="CHILE", TVO
+#EXTINF:-1,group-title="CHILE", TVO San Vicente
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
 ##EXTINF:-1,group-title="CHILE", Sexta Vision (Rancagua)
 #http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
@@ -87,9 +87,9 @@ http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 ##EXTINF:-1,group-title="CHILE", TV Maule
 #rtmp://videostreaming.cl:8080/live/ playpath=mp4:tvmaule.mp4 swfUrl=http://crearchile.tv/jwplayer.flash.swf live=1 pageUrl=http://panel.crearchile.tv/index.php?usuario=tvmaule&action=reproductor
-##EXTINF:0,group-title="CHILE", TV5 Linares
-#http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8?
-#EXTINF:0,group-title="CHILE", Canal 9 (Concepcion)
+#EXTINF:0,group-title="CHILE", TV5 Linares
+http://v1.tustreaming.cl:1935/canal5/canal5/playlist.m3u8?DVR
+#EXTINF:0,group-title="CHILE", Bio Bio Television canal 9
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:0,group-title="CHILE", TVU
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -153,23 +153,23 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:0,group-title="MUSICA", City Radio TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:0,group-title="MUSICA", Hard Life
+#EXTINF:0,tvg-id="HardLife TV" tvg-name="HardLife TV" group-title="MUSICA", HardLife TV
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
-#EXTINF:0,group-title="MUSICA", KISS TV
+#EXTINF:0,tvg-id="Kiss TV" tvg-name="Kiss TV" group-title="MUSICA", Kiss TV
 http://kissfm.en-directo.com/iphone/index_multirate.m3u8
-#EXTINF:0,group-title="MUSICA", KISS TV [ALT]
+#EXTINF:0,tvg-id="Kiss TV" tvg-name="Kiss TV" group-title="MUSICA", Kiss TV [ALT]
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:0,group-title="MUSICA", Amazing TV
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:0,group-title="MUSICA", Virgin TV
+#EXTINF:0,tvg-id="Virgin Radio TV" tvg-name="Virgin Radio TV" group-title="MUSICA", Virgin Radio TV
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1,group-title="MUSICA", Heavy Metal TV
+#EXTINF:-1,tvg-id="UVTV: Heavy Metal Music Videos, Concert Footage &amp; Interviews" tvg-name="UVTV: Heavy Metal Music Videos, Concert Footage &amp; Interviews" group-title="MUSICA", UVTV: Heavy Metal Music Videos, Concert Footage &amp; Interviews
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:-1,group-title="MUSICA", Film on TV
+#EXTINF:-1,tvg-id="UK Film on TV UK" tvg-name="UK Film on TV UK" group-title="MUSICA", UK Film on TV UK
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:-1,group-title="MUSICA",Vibee
 http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1,group-title="MÚSICA",Melody Channel
+#EXTINF:-1,tvg-id="Melody" tvg-name="Melody" group-title="MÚSICA",Melody
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0,group-title="MUSICA", Capital TV-FM
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
@@ -305,9 +305,9 @@ http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
 http://rtmp.infomaniak.ch/livecast/tvm3/PAZ.m3u8
 
 #EDUCACION
-#EXTINF:-1,group-title="CHILE", Agro TV
+#EXTINF:-1,group-title="EDUCACION", Agro TV
 http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/playlist.m3u8
-#EXTINF:-1,group-title="CHILE", Agro TV [HD]
+#EXTINF:-1,group-title="EDUCACION", Agro TV [HD]
 http://v1.tustreaming.cl:1935/agrotvweb/agrotvweb/playlist.m3u8?DVR
 #EXTINF:0,group-title="EDUCACION", Nasa TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
@@ -1506,8 +1506,120 @@ http://208.80.54.40/CARACOL_RADIOAAC_SC
 #EXTINF:-1,group-title="TEST", ===TEST CHANNELS===
 http://127.0.0.1
 #######################################################
+#EXTINF:-1,group-title="TEST", CHV (ALT) [SIN GEOBLOCK]
+http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w36735013.m3u8
+
+#EXTINF:-1,group-title="TEST", DirecTV Sports
+https://live10.userapi.com/620007/live/0xhZ4rlAf6U85cch/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", MEGA (chile) (ALT)
+http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/index_1_av-p.m3u8
+
+#EXTINF:-1,group-title="TEST", C13 RUSIA
+http://grupoz-i.akamaihd.net/hls/live/506901/c13-rusia_1@506901/master.m3u8
+
+#EXTINF:-1,group-title="TEST", UCV Gran Valparaiso
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w324291172_b828000.m3u8
+
+#EXTINF:-1, group-title="TEST", UCV Gran Valparaíso [HD]
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w1705024129_b828000.m3u8
+
+#EXTINF:-1, group-title="TEST", Kino (miercoles y domingo) [SD]
+http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="TEST", FM Tiempo (TV) (95.9 FM)
+http://unlimited5-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="TEST", Radio Carolina (TV) (99.3 FM)
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="TEST", Infinita (TV) (100.1 FM)
+http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="TEST", Tele13 Radio (TV) (103.3 FM)
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
+#EXTINF:-1, group-title="TEST", Patagonia Radio (TV)
+http://v1.streaminglatinoamerica.com:1935/patagoniatv/patagoniatv/playlist.m3u8?DVR
+
+#EXTINF:-1, group-title="TEST", Tele8 (Illapel) [SD]
+http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", MORROVISION (Arica)
+http://video.crearchile.info:8080/live/morrovision.mp4/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", MASTV ARICA
+http://201.218.145.21:1935/Mastv/myStream/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", digital channel tv
+http://evo.eltelon.com/live/dch-tv/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", vive chile antofagasta
+rtmp://evo.eltelon.com:1935/live/vive-chile-antofagasta
+
+#EXTINF:-1,group-title="TEST", CANAL 22 SANTIAGO
+http://canal22santiago.cl/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", LIV TV
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", ROMERAL TV ESCOLAR
+http://video.crearchile.info:8080/live/daemrome.mp4/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", canal 21 Chillan
+rtmp://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch
 
 
+#EXTINF:-1,group-title="TEST", tvchile
+http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
+#EXTINF:-1,group-title="TEST", tvchile1
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
 
+#EXTINF:-1,group-title="TEST", tvchile2
+http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
 
+#EXTINF:-1,group-title="TEST", tvchile3
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile4
+http://mdstrm.com/live-stream-playlist/58d425333168db5c07ff3bfa.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile5
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile6
+http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile7
+http://mdstrm.com/live-stream-playlist/555c9a7de50ac484167faa15.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile8
+http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile9
+http://mdstrm.com/live-stream-playlist/5346f688db603a8b0dd9aa66.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile10
+http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile11
+http://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile12
+http://mdstrm.com/live-stream-playlist/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile13
+http://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile14
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+
+#EXTINF:-1,group-title="TEST", tvchile15
+http://mdstrm.com/live-stream-playlist/55defd629cbcc3a41481e79e.m3u8
+
+#EXTINF:-1,group-title="TEST", tv8 Vive chile Concepcion
+rtmp://wow2.cl.digitalproserver.com/tv8/tv8vivo/livestream1.flv
+
+#EXTINF:-1,group-title="TEST", televida chillan
+http://unlimited1-cl.dps.live/tlvida/tlvida.smil/playlist.m3u8
