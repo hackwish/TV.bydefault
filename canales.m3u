@@ -8,7 +8,7 @@ http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:0,tvg-id="TVN CHILE" tvg-name="TVN CHILE" group-title="CHILE", TVN CHILE
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 #EXTINF:0,group-title="CHILE", MEGAVISION
-http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F
+http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1,group-title="CHILE", MEGAVISION [ALT]
 http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 #EXTINF:0,group-title="CHILE", CHILEVISION
@@ -71,7 +71,7 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/ch
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:0,group-title="CHILE", CANAL 2 SAN ANTONIO
 http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
-#EXTINF:0,group-title="CHILE", Giro Visual
+#EXTINF:0,group-title="CHILE", GiroVisual El Quisco
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
 #EXTINF:-1,group-title="CHILE", TVO San Vicente
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
@@ -1623,3 +1623,31 @@ rtmp://wow2.cl.digitalproserver.com/tv8/tv8vivo/livestream1.flv
 
 #EXTINF:-1,group-title="TEST", televida chillan
 http://unlimited1-cl.dps.live/tlvida/tlvida.smil/playlist.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Radio Parinacota (94.5 FM)
+http://95.154.254.157:15309
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", INJUV.FM
+http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", SOBERANIA Magallanes y Tierra del Fuego (94.5 FM)
+http://stream5.eltelon.com/radio-soberania.aac
+
+#EXTINF:-1,group-title="TEST", CANAL 11 AYSEN
+http://v1.tustreaming.cl:1935/aysentv/aysentv/playlist.m3u8?DVR
+
+#EXTINF:-1,group-title="TEST", SANTA MARIA TV AYSEN
+http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", DATOVISION
+http://149.56.17.92:1935/dato33/dato33/playlist.m3u8
+
+#EXTINF:-1,group-title="TEST", UFROVISION
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", RADIO ETCHEGOYEN TALCAHUANO (107.3 FM)
+http://s3.medionline.cl:9960/
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", FMJOVEN
+http://200.24.229.253:8040/
