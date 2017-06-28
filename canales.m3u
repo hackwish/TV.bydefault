@@ -1588,3 +1588,50 @@ http://mdstrm.com/live-stream-playlist/55defd629cbcc3a41481e79e.m3u8
 
 #EXTINF:-1,radio="TRUE" group-title="TEST", FMJOVEN
 http://200.24.229.253:8040/
+
+#280617
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Sextavision | Rancagua
+http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", UTV | San Clemente
+http://cdn.mediostream.cl/utvs/livestream/playlist.m3u8?DVR
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", PuconTV | Pucon
+rtmp://190.107.176.55:1935/live/pucon-tv
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", ATV | Valdivia
+rtmp://evo.eltelon.com:1935/live/atv-valdivia
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Soberania | Punta Arenas
+rtmp://evo.eltelon.com:1935/live/soberania
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", TV4 | Lota
+rtmp://evo.eltelon.com:1935/live/tv4-television
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", CNC | Colchagua
+http://audio.streaminghd.cl/8014/8014/playlist.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Trailer TV
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Trailer TV Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Radio Desierto FM (92.1 FM Antofagasta)
+http://167.114.208.100:9864/;stream1
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Radio Carnaval Antofagasta (96.5 FM)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Radio FM7 (Calama 97.3, Antofagasta 89.7)
+http://198.50.154.235:10258/stream
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Radio Universidad de Antofagasta (99.9 FM)
+http://200.54.114.230:8000/;
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Ahora Noticias Digital
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="TEST", Canal de los Recuerdos
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
