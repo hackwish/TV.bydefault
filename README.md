@@ -12,3 +12,9 @@ Sólo debes agregar el link http://bydefault.cl/canales.m3u en la sección de pl
 **Recuerda revisar siempre al final de la lista los canales en modo TEST o la categoría TEST en tu reproductor IPTV favorito!
 
 Logs de cambios vía commits en repositorio.
+
+### Por hacer ###
+- Web player
+- Iconos canales
+- EPG
+- Monitor status
