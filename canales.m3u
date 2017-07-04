@@ -29,7 +29,9 @@ http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1,group-title="CHILE", CNN Chile [ALT]
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,group-title="CHILE", 24HORAS.CL
+#EXTINF:-1,group-title="CHILE", Ahora Noticias Digital
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1,group-title="CHILE", 24HORAS.CL PLAY
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1,group-title="CHILE", TVN SEÑAL 2
 http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
@@ -43,6 +45,10 @@ http://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
 http://mdstrm.com/live-stream-playlist/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1,group-title="CHILE", TVN SEÑAL 7 UOCT
 http://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+#EXTINF:-1,group-title="CHILE", TVN SEÑAL 8
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+#EXTINF:-1,group-title="CHILE", TVN SEÑAL 9
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
 #EXTINF:0, Camara de Diputados
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
 #EXTINF:-1,group-title="CHILE", TV Senado
@@ -55,6 +61,10 @@ http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1,group-title="CHILE", DATOVISION
 http://149.56.17.92:1935/dato33/dato33/playlist.m3u8
+#EXTINF:-1,group-title="CHILE", Trailer TV
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+#EXTINF:-1,group-title="CHILE", Trailer TV Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
 
 ##REGIONALES SANTIAGO
 #EXTINF:-1,group-title="CHILE", CANAL 22 SANTIAGO
@@ -65,6 +75,8 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
 #EXTINF:0,group-title="CHILE", Canal ISB (Iglesia San Bernardo)
 http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
+#EXTINF:-1,group-title="CHILE", MaximaTV | San Bernardo
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
 
 ##REGIONALES NORTE
 #EXTINF:0,group-title="CHILE", Arica TV
@@ -93,6 +105,8 @@ http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w324
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w1705024129_b828000.m3u8
 #EXTINF:0,group-title="CHILE", Canal Carnaval
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
+#EXTINF:-1,group-title="CHILE", ONG Medios | Valparaiso
+http://v2movil.tustreaming.cl/tustreaming/live3/playlist.m3u8
 #EXTINF:0,group-title="CHILE", VTV Valparaiso y VIña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:0,group-title="CHILE", CANAL 2 SAN ANTONIO
@@ -103,14 +117,18 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/pl
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
 #EXTINF:-1, group-title="CHILE", Tele8 Illapel
 http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8
+#EXTINF:-1,radio="TRUE" group-title="CHILE", Sextavision | Rancagua
+http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
+#EXTINF:-1,radio="TRUE" group-title="CHILE", UTV | San Clemente
+http://cdn.mediostream.cl/utvs/livestream/playlist.m3u8?DVR
 ##EXTINF:-1,group-title="CHILE", Sexta Vision (Rancagua)
 #http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
 #EXTINF:0,group-title="CHILE", CampusTV
 http://unlimited2-cl.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1,group-title="CHILE", TVCentro
 http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
-#EXTINF:0,group-title="CHILE", CNC Colchagua Santa Cruz
-http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
+#EXTINF:-1,group-title="CHILE", CNC | Colchagua
+http://audio.streaminghd.cl/8014/8014/playlist.m3u8
 #EXTINF:0,group-title="CHILE", VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 ##EXTINF:-1,group-title="CHILE", TV Maule
@@ -148,14 +166,18 @@ http://v1.tustreaming.cl:1935/tvautonoma/tvautonoma/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 ##EXTINF:-1,group-title="CHILE", Pucon TV [HD]
 #rtmp://190.107.176.55:1935/live/ playpath=pucon-tv swfUrl=http://www.eltelon.com/js/jwplayer-7.2.4/jwplayer.flash.swf live=1 pageUrl=http://www.eltelon.com/embed/jAGOAgVQEkU
-#EXTINF:0,group-title="CHILE", ATV VALDIVIA
-http://evo.eltelon.com:1935/live/atv-valdivia/playlist.m3u8
+#EXTINF:-1,group-title="CHILE", PuconTV | Pucon
+rtmp://190.107.176.55:1935/live/pucon-tv
+#EXTINF:-1,group-title="CHILE", ATV | Valdivia
+rtmp://evo.eltelon.com:1935/live/atv-valdivia
 #EXTINF:0,group-title="CHILE", Inet2-TV
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w699291402_b428000.m3u8
 #EXTINF:0,group-title="CHILE", Canal 5 SAN JOSE DE ALCUDIA (Rio Bueno)
 rtmp://videostreaming.cl:8080/live/mp4:radiosanjose.mp4
 #EXTINF:0,group-title="CHILE", Canal Latino (La Union)
 rtmp://video.crearchile.info:8080/live/mp4:latina.mp4
+#EXTINF:-1,group-title="CHILE", Chiloe TV 5 Chiloe
+http://streaminglivehd.com:1935/8038/8038/playlist.m3u8
 #EXTINF:0,group-title="CHILE", Canal 2 Quellon
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/chunklist.m3u8
 #EXTINF:-1,group-title="CHILE", CANAL 11 AYSEN
@@ -176,19 +198,25 @@ rtmp://edge1.cl.grupoz.cl/itser4/tser4.sdp
 http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
 #EXTINF:0,group-title="CHILE", Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
+#EXTINF:-1,group-title="CHILE", Soberania | Punta Arenas
+rtmp://evo.eltelon.com:1935/live/soberania
 
 ##CANALES GENERAL POR CATEGORIA
 #ANIMACION
 #EXTINF:0,group-title="ANIMACION", ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
-#EXTINF:-1,group-title="ANIMACION",PAKA PAKA
+#EXTINF:-1,group-title="ANIMACION", PAKA PAKA
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1,group-title="ANIMACION", Locomotion
+http://locomotiontv.com/locomotion/hls/index.m3u8
 
 #CINE-SERIES
 #EXTINF:0,tvg-id="Atreseries" tvg-name="Atreseries" group-title="CINE-SERIES", ATRESERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 #MUSICA
+#EXTINF:-1,group-title="MUSICA", Canal de los Recuerdos
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
 #EXTINF:0,group-title="MUSICA", Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:0,group-title="MUSICA", City Radio TV
@@ -209,7 +237,7 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:-1,group-title="MUSICA",Vibee
 http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1,tvg-id="Melody" tvg-name="Melody" group-title="MÚSICA",Melody
+#EXTINF:-1,tvg-id="Melody" tvg-name="Melody" group-title="MUSICA",Melody
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0,group-title="MUSICA", Capital TV-FM
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
@@ -395,6 +423,8 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1,group-title="NOTICIAS", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,group-title="NOTICIAS", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1,group-title="NOTICIAS", NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 #EXTINF:-1,group-title="NOTICIAS", Arirang
@@ -1092,6 +1122,8 @@ http://tunein.digitalproserver.com/carolinafmbb.aac
 http://ice.dallas.digitalproserver.com/biostgo
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Bio-Bio la radio [ALT](99.7 FM)
 rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
+#EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Universidad de Antofagasta (99.9 FM)
+http://200.54.114.230:8000/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Infinita (100.1 FM)
 http://tunein.digitalproserver.com/infinitabb.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Paula FM (100.5 FM)
@@ -1154,6 +1186,8 @@ http://s6.medionline.cl:9364/;
 http://s4.medionline.cl:8083/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Maray (90.9 FM Copiapo)
 http://162.210.39.218:24250/;
+#EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Desierto FM (92.1 FM Antofagasta)
+http://167.114.208.100:9864/;stream1
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Romina (92.5 FM Antofagasta)
 http://198.50.154.235:10246/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Romina (92.5 FM Antofagasta)
@@ -1180,12 +1214,16 @@ http://95.154.254.157:15309
 http://162.210.39.218:24284/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Universidad de Tarapaca (95.9 FM Arica)
 http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Carnaval Antofagasta (96.5 FM)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Loactual (96.7 FM Calama)
 http://rs.comtic.net:8000/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO San Bartolome (96.7 FM La Serena)
 http://stream5.eltelon.com/san-bartolome.aac
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO 97 Uno Radio (97.1 FM Arica)
 http://stream5.eltelon.com/radio-97uno.aac
+#EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO FM7 (Calama 97.3, Antofagasta 89.7)
+http://198.50.154.235:10258/stream
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Sol (97.7 FM Antofagasta)
 http://online.radiosol.cl:8000/;
 #EXTINF:-1,radio="TRUE" group-title="RADIO",RADIO Sol (97.7 FM Antofagasta)[ALT]
@@ -1520,6 +1558,8 @@ http://184.107.165.66:6020/
 http://190.3.168.130:9020/
 #EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO",RADIO FM Mix (Online)
 http://audio.crearchile.info:9800/
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", FMJOVEN
+http://200.24.229.253:8040/
 
 #REGIONES
 #EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO",RADIO Siente (Online Arica)
@@ -1553,23 +1593,8 @@ http://208.80.54.40/CARACOL_RADIOAAC_SC
 http://127.0.0.1
 #######################################################
 
-#EXTINF:-1,group-title="TEST", digital channel tv
-http://evo.eltelon.com/live/dch-tv/playlist.m3u8
-
-#EXTINF:-1,group-title="TEST", vive chile antofagasta
-rtmp://evo.eltelon.com:1935/live/vive-chile-antofagasta
-
-#EXTINF:-1,group-title="TEST", tvchile
-http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF:-1,group-title="TEST", tvchile1
-http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
-
 #EXTINF:-1,group-title="TEST", tvchile4
 http://mdstrm.com/live-stream-playlist/58d425333168db5c07ff3bfa.m3u8
-
-#EXTINF:-1,group-title="TEST", tvchile5
-http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
 
 #EXTINF:-1,group-title="TEST", tvchile6
 http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -1580,58 +1605,45 @@ http://mdstrm.com/live-stream-playlist/555c9a7de50ac484167faa15.m3u8
 #EXTINF:-1,group-title="TEST", tvchile10
 http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1,group-title="TEST", tvchile14
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
-
 #EXTINF:-1,group-title="TEST", tvchile15
 http://mdstrm.com/live-stream-playlist/55defd629cbcc3a41481e79e.m3u8
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", FMJOVEN
-http://200.24.229.253:8040/
 
-#280617
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Sextavision | Rancagua
-http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", UTV | San Clemente
-http://cdn.mediostream.cl/utvs/livestream/playlist.m3u8?DVR
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", PuconTV | Pucon
-rtmp://190.107.176.55:1935/live/pucon-tv
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", ATV | Valdivia
-rtmp://evo.eltelon.com:1935/live/atv-valdivia
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Soberania | Punta Arenas
-rtmp://evo.eltelon.com:1935/live/soberania
+#EXTINF:-1,group-title="TEST", TecTV | Temuco
+http://190.107.176.55:1935/live/tec-tv/playlist.m3u8
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", TV4 | Lota
-rtmp://evo.eltelon.com:1935/live/tv4-television
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", CNC | Colchagua
-http://audio.streaminghd.cl/8014/8014/playlist.m3u8
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Trailer TV
-http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+#EXTINF:-1,group-title="TEST", RadioPolarTV | Punta Arenas
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Trailer TV Kids
-http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Radio Desierto FM (92.1 FM Antofagasta)
-http://167.114.208.100:9864/;stream1
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Radio Carnaval Antofagasta (96.5 FM)
-http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+#EXTINF:-1,group-title="TEST", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/C...02/master.m3u8
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Radio FM7 (Calama 97.3, Antofagasta 89.7)
-http://198.50.154.235:10258/stream
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Radio Universidad de Antofagasta (99.9 FM)
-http://200.54.114.230:8000/;
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Ahora Noticias Digital
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1,group-title="TEST", señal servel
+http://mdstrm.com/live-stream-playlist/5953e6a3aa48d92e5b74f8f1.m3u8?&dnt=true&ref=http%3A%2F%2Fon.mediastre.am%2Fprimarias2017
 
-#EXTINF:-1,radio="TRUE" group-title="TEST", Canal de los Recuerdos
-http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
+
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", I love radio
+stream12.iloveradio.de/iloveradio1-aac.mp3
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", I love radio Dance
+stream12.iloveradio.de/iloveradio2-aac.mp3
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", I love radio Battle
+stream12.iloveradio.de/iloveradio3-aac.mp3
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", I love radio Charts
+stream12.iloveradio.de/iloveradio9-aac.mp3
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", I love radio Mashup
+stream12.iloveradio.de/iloveradio5-aac.mp3
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", I love radio Bass
+stream12.iloveradio.de/iloveradio4-aac.mp3
+#EXTINF:-1,radio="TRUE" group-title="INTERNET RADIO", I love radio Pop
+stream12.iloveradio.de/iloveradio10-aac.mp3
