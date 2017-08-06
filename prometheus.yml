@@ -1,0 +1,66 @@
+global:
+  scrape_interval: "10s"
+
+scrape_configs:
+  - job_name: "prometheus"
+    static_configs:
+    - targets:
+        - "localhost:9090"
+  - job_name: "pushgateway"
+    honor_labels: true
+    static_configs:
+    - targets:
+        - "localhost:9091"
+  - job_name: "alertmanager"
+    static_configs:
+    - targets:
+        - "localhost:9093"
+  - job_name: "node"
+    static_configs:
+    - targets:
+        - "localhost:9100"
+  - job_name: "blackbox"
+    metrics_path: /probe
+    params:
+      module: [http_2xx]  # Look for a HTTP 200 response
+    static_configs:
+    - targets:
+#       - http://prometheus.io    # Target to probe with http
+#       - https://prometheus.io   # Target to probe with https
+        - http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+        - http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+        - http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+        - http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+        - http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
+        - http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+        - http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+        - http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+        - http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+        - http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+        - http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+        - http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+        - http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+        - http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
+        - http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+        - http://149.56.17.92:1935/dato33/dato33/playlist.m3u8
+        - http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+        - http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
+        - http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w36735013.m3u8
+        - http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+        - http://mdstrm.com/live-stream-playlist/53443c472c6e89675103cc4c.m3u8
+        - http://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+        - http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
+        - http://mdstrm.com/live-stream-playlist/5346f688db603a8b0dd9aa66.m3u8
+        - http://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
+        - http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+        - http://unlimited2-cl.digitalproserver.com/judicial2/judicial2.smil/playlist.m3u8
+        - http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
+        - http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+    relabel_configs:
+       - source_labels: [__address__]
+         target_label: __param_target
+       - source_labels: [__param_target]
+         target_label: instance
+       - target_label: __address__
+         replacement: 127.0.0.1:9115  # Blackbox exporter.
+
