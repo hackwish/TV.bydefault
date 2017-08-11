@@ -537,3 +537,524 @@ TV GALICIA AMÉRICA,http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
 TV GALICIA EUROPA,http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
 TV MEDITERRÁNEO,http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 CANARIA SAT,http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+
+ABC 12 Anchorage - Alaska [HD],http://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8
+ABC 3 KTBS Shreveport - Louisiana,http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
+ABC News,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#1
+CBS 7.1 Seattle - Washington,http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
+CBS 31.1 Peoria - Illinois,http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+NOTV 41 New Orleans - Louisiana [HD],http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+PLAYY WEST KOREA,http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+JEI ENGLISH TV KOREA,http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
+BERNAMA TV,http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
+METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+TV Brunei,mms://202.160.15.85/stream-03-512
+GLOBALTV,http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+MNC TV,http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
+Bali TV,rtmp://118.97.183.196/jhos//balitv
+JTV,rtmp://118.97.183.196/jhos/jtv
+
+ISLAM TV,http://wowza05.sharp-stream.com/islamtv/islamtv/BratuMarian.m3u8
+Peace TV,http://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1/playlist.m3u8
+Al Yaum TV (Palestine),http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
+Alfajer TV (Palestine),http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/playlist.m3u8
+Alforat Tv,rtmp://alforatlive.nanocdn.com/live/alforat256
+Alhuraa,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+Altaghier,http://stream1.joinvisions.net:1935/taglive/taghier/playlist.m3u8
+Al Aan TV,http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+DUBAI ONE,http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+AL ARABIA TV,http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+Al Hadath,http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+cna,rtmp://str81.creacast.com:80/cna/live.sdp
+Syria,http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+Sama Syria,rtmp://sama-tv.net/live/samatv
+Syria Aloula,http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+Syria Drama,http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+Syrian Educational TV,rtmp://82.137.248.16/Snews/SnewsLive1
+Alikhbaria Syria,rtmp://82.137.248.16/Snews/SnewsLive1
+wissal-tv,http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
+Al-Kout-tv,rtmp://66.23.237.233:1935/alkout/alkout
+Dubai One,http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+
+RADIO Duna (89.7 FM),http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8
+RADIO Patagonia Radio TV (94.1 FM),http://v1.streaminglatinoamerica.com:1935/patagoniatv/patagoniatv/playlist.m3u8?DVR
+RADIO FM Tiempo (95.9 FM),http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+Radio Carolina TV (99.3 FM),http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+Infinita (TV) (100.1 FM),http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+RADIO Tele13 Radio (103.3 FM),http://live.t13.cdnz.cl/t13radio/tablet.m3u8
+RADIO Tele13 Radio (103.3 FM) [ALT],http://live.t13.cdnz.cl/t13radio/t13radio-900.m3u8
+Tele13 Radio (TV) (103.3 FM)  [ALT-2],http://cdn.ztreaming.com/t13radio/mobile.m3u8
+RADIO Radio Universal (Temuco),rtmp://video.crearchile.info:8080/live/mp4:universal.mp4
+RADIO Radio Chiloé (1030 AM Castro),rtmp://streaminglivehd.com:1935/8032/8032
+INJUV.FM,http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8
+
+RADIO Cool HD - 103.7 TV (Argentina),http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+RADIO Radio America Guayaquil (Ecuador),http://audiohostingecuador.com:1935/radioamericaguayaquil/radioamericaguayaquil/playlist.m3u8
+RADIO Radio America Quito (Ecuador),http://audiohostingecuador.com:1935/radioamericaquito/radioamericaquito/playlist.m3u8
+RADIO The Beat 104.1 FM Barbados,http://starcom.videocdn.scaleengine.net/starcom-iphone/play/thebeat.smil/playlist.m3u8
+
+[UOCT-SANTIAGO] Isidora Goyenechea-Vitacura,http://200.75.19.171/uoct/55/playlist.m3u8
+[UOCT-SANTIAGO] Tobalaba-Apoquindo,http://200.75.19.171/uoct/30/playlist.m3u8
+[UOCT-SANTIAGO] Providencia-Suecia,http://200.75.19.171/uoct/35/playlist.m3u8
+[UOCT-SANTIAGO] Providencia-Salvador,http://200.75.19.171/uoct/19/playlist.m3u8
+[UOCT-SANTIAGO] Macul-Grecia,http://200.75.19.171/uoct/33/playlist.m3u8
+[UOCT-SANTIAGO] Las Condes-La Dehesa,http://200.75.19.171/uoct/31/playlist.m3u8
+[UOCT-SANTIAGO] Bellavista-Arzobispo,http://200.75.19.171/uoct/66/playlist.m3u8
+[UOCT-SANTIAGO] Apoquindo-Las Condes,http://200.75.19.171/uoct/29/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Camino del Inca,http://200.75.19.171/uoct/54/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Presidente Riesco,http://200.75.19.171/uoct/53/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Vitacura,http://200.75.19.171/uoct/49/playlist.m3u8
+[UOCT-SANTIAGO] Rotonda Perez Zujovic,http://200.75.19.171/uoct/47/playlist.m3u8
+[UOCT-SANTIAGO] Apoquindo-Manquehue,http://200.75.19.171/uoct/43/playlist.m3u8
+[UOCT-SANTIAGO] Andres Bello-Nueva Tajamar,http://200.75.19.171/uoct/42/playlist.m3u8
+[UOCT-SANTIAGO] Diagonal Oriente con Vespucio,http://200.75.19.171/uoct/10/playlist.m3u8
+[UOCT-SANTIAGO] Apoquindo – Camino el Alba,http://200.75.19.171/uoct/13/playlist.m3u8
+[UOCT-SANTIAGO] El Cerro con Los Conquistadores,http://200.75.19.171/uoct/2/playlist.m3u8
+[UOCT-SANTIAGO] General Velazquez-Arica ,http://200.75.19.171/uoct/21/playlist.m3u8
+[UOCT-SANTIAGO] Alameda-Concon,http://200.75.19.171/uoct/28/playlist.m3u8
+[UOCT-SANTIAGO] Pajaritos-5 de abril,http://200.75.19.171/uoct/51/playlist.m3u8
+[UOCT-SANTIAGO] Alameda-Matucana,http://200.75.19.171/uoct/38/playlist.m3u8
+[UOCT-SANTIAGO] General Bonilla con Teniente Cruz,http://200.75.19.171/uoct/55/playlist.m3u8
+[UOCT-SANTIAGO] San Pablo con Neptuno,http://200.75.19.171/uoct/3/playlist.m3u8
+[UOCT-SANTIAGO] Viel-Matta,http://200.75.19.171/uoct/34/playlist.m3u8
+[UOCT-SANTIAGO] Manuel Rodriguez-Toesca,http://200.75.19.171/uoct/32/playlist.m3u8
+[UOCT-SANTIAGO] Lira- Diagonal Paraguay,http://200.75.19.171/uoct/26/playlist.m3u8
+[UOCT-SANTIAGO] Alameda-Brasil,http://200.75.19.171/uoct/18/playlist.m3u8
+[UOCT-SANTIAGO] Agustinas – San Martín,http://200.75.19.171/uoct/27/playlist.m3u8
+[UOCT-SANTIAGO] Alameda – Santa Rosa,http://200.75.19.171/uoct/37/playlist.m3u8
+[UOCT-SANTIAGO] Plaza Italia,http://200.75.19.171/uoct/36/playlist.m3u8
+[UOCT-SANTIAGO] Teatinos con Compañia,http://200.75.19.171/uoct/11/playlist.m3u8
+[UOCT-SANTIAGO] Alameda con Manuel Rodriquez,http://200.75.19.171/uoct/12/playlist.m3u8
+[UOCT-SANTIAGO] Vicuña Mackenna con Santa Isabel,http://200.75.19.171/uoct/7/playlist.m3u8
+[UOCT-SANTIAGO] Alameda con Nataniel Cox,http://200.75.19.171/uoct/17/playlist.m3u8
+[UOCT-SANTIAGO] San Antonio con Agustinas,http://200.75.19.171/uoct/14/playlist.m3u8
+[UOCT-SANTIAGO] Alameda-Cumming,http://200.75.19.171/uoct/16/playlist.m3u8
+[UOCT-SANTIAGO] Ruta 5-Vespucio,http://200.75.19.171/uoct/52/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Pedro Fontova,http://200.75.19.171/uoct/50/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Recoleta,http://200.75.19.171/uoct/48/playlist.m3u8
+[UOCT-SANTIAGO] Departamental-Pedro Aguirre Cerda,http://200.75.19.171/uoct/46/playlist.m3u8
+[UOCT-SANTIAGO] Departamental-5 sur,http://200.75.19.171/uoct/45/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Vicuña Mackenna,http://200.75.19.171/uoct/41/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Gran Avenida,http://200.75.19.171/uoct/40/playlist.m3u8
+[UOCT-SANTIAGO] Vespucio-Santa Rosa,http://200.75.19.171/uoct/39/playlist.m3u8
+[UOCT-SANTIAGO] Vicuña Mackenna con Departamental,http://200.75.19.171/uoct/8/playlist.m3u8
+[UOCT-SANTIAGO] Isabel Riquelme con Bascuñán Guerrero,http://200.75.19.171/uoct/6/playlist.m3u8
+
+RADIO Imagina (88.1 FM),http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
+RADIO Concierto (88.5 FM),http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
+RADIO Futuro (88.9 FM),http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
+RADIO Disco 89 (88.9 FM),http://radio2.rgradio.net:9020/disco89.mp3
+RADIO Maria (89.3 FM),http://dreamsiteradiocp.com:8066/
+RADIO Duna (89.7 FM),http://tunein.digitalproserver.com/dunabb.aac
+RADIO Colo-colo (90.1 FM),http://186.103.213.249:9988
+RADIO Pudahuel (90.5 FM),http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
+RADIO Cumbre (90.9 FM),http://sc.digitalproserver.com:9604/;
+RADIO Digital FM (91.1 FM),http://mimix.mercurio.cl:8000/digitalfm
+RADIO El Conquistador (91.3 FM),http://stream5.eltelon.com/el-conquistador-santiago.aac
+RADIO ADN (91.7 FM),http://77.67.109.164/ADN_SC
+RADIO Agricultura (92.1 FM),http://agricultura-audio.dps.live/agricultura/mp3/icecast.audio
+RADIO Agricultura (92.1 FM)[ALT],http://tunein.digitalproserver.com/agc921bb.aac
+RADIO activa (92.5 FM),http://77.67.109.164/ACTIVA_SC
+RADIO Universo (93.7 FM),http://tunein.digitalproserver.com/universobb.aac
+RADIO Universo [ALT] (93.7 FM),rtmp://radio.cl.digitalproserver.com:443/universo/universolive/universo937.stream
+RADIO Rock and Pop (94.1 FM),http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
+RADIO Maxima (94.9 FM),http://198.27.65.159:9938/
+RADIO FM Tiempo (95.9 FM),http://tunein.digitalproserver.com/fmtiempobb.mp3
+RADIO Beethoven (96.5 FM),http://tunein.digitalproserver.com/beethovenbb.aac
+RADIO Uno (97.1 FM),http://77.67.109.164/RADIO_UNO_SC
+RADIO Zero (97.7 FM),http://tunein.digitalproserver.com/zerobb.aac
+RADIO FM Dos (98.5 FM),http://77.67.109.164/FMDOS_SC
+RADIO Carolina (99.3 FM),http://tunein.digitalproserver.com/carolinafmbb.aac
+RADIO Bio-Bio La Radio Santiago (99.7 FM),http://ice.dallas.digitalproserver.com/biostgo
+RADIO Bio-Bio la radio [ALT](99.7 FM),rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
+RADIO Infinita (100.1 FM),http://tunein.digitalproserver.com/infinitabb.aac
+RADIO Paula FM (100.5 FM),http://unlimited3-cl.digitalproserver.com/radiopaula/hls/index.m3u8
+RADIO Corazon (101.3 FM),http://7349.live.streamtheworld.com/CORAZON_SC
+RADIO Los 40 Principales (101.7 FM),http://77.67.109.164/LOS40_CHILE_SC
+RADIO Oasis (102.1 FM),http://mp3.oasisfm.cl/;
+RADIO U. de Chile (102.5 FM),http://stream4.rbm.cl:8080/;
+RADIO Montecarlo (102.7 FM),http://iw.wolchile.net:8048/;
+RADIO Romantica (104.1 FM),http://tunein.digitalproserver.com/romanticabb.mp3
+RADIO Disney (104.9)*,rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
+RADIO Sonar (105.3),http://mp3.sonarfm.cl/;
+RADIO Cooperativa (106.7 FM),http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio
+RADIO Paula (106.9 FM),http://tunein.digitalproserver.com/paulafm.mp3
+RADIO Dixi (106.9 FM),http://192.99.150.234:9940
+RADIO Maxima (107.1 FM),http://198.27.65.159:9938/;
+RADIO El Bosque (107.9 FM),http://104.236.248.181:8766
+
+RADIO Santiago (Orquestada) (690 AM),http://167.114.119.122:9982/;stream/1
+RADIO Santiago (Romantica) (690 AM),http://167.114.119.122:9978/;stream/1
+RADIO Nuevo Mundo (930 AM),http://184.107.179.162:9364
+RADIO Portales (1180 AM),http://s6.jcwebnew.com:8060/stream
+
+RADIO Maxima FM (88.1 FM Antofagasta),http://cast3.serverhost.cl:8764/;
+RADIO Canal 95 (88.1 FM Antofagasta),http://sonando.us.digitalproserver.com/canal95_aac
+RADIO FM OK (89.3 FM Antofagasta),http://streaming.fmokey.cl:8000/FmOkAT.mp3
+RADIO Nostalgica (88.1 FM Copiapo),http://comunicacionespuntocreativo.cl:8000/nostalgica
+RADIO Amiga (88.5 FM Vallenar),http://162.210.39.218:24662/;
+RADIO Nuevo Mundo (88.9 FM Ovalle),http://s3.medionline.cl:7960/;
+RADIO FM Mas (89.1 Arica),http://192.198.83.230:9976/;
+RADIO Definitiva (90.5 FM Tocopilla),http://192.198.83.230:8772/;
+RADIO Alegria del Transporte (90.9 FM Calama),http://s6.medionline.cl:9364/;
+RADIO Panorama (90.9 FM Vallenar),http://s4.medionline.cl:8083/;
+RADIO Maray (90.9 FM Copiapo),http://162.210.39.218:24250/;
+RADIO Desierto FM (92.1 FM Antofagasta),http://167.114.208.100:9864/;stream1
+RADIO Romina (92.5 FM Antofagasta),http://198.50.154.235:10246/;
+RADIO Romina (92.5 FM Antofagasta),http://167.114.208.100:9844/;
+RADIO Primavera FM (93.5 FM Arica),http://cast.radioservicios.cl:9350/web
+RADIO Amanecer (93.7 FM Caldera),http://107.155.120.114:9954/;
+RADIO Comunicativa (93.7 FM Ovalle),http://ip.audiostreaming.cl:9996/;
+RADIO Carillon (94.1 FM Calama),http://74.222.0.41:8000/;
+RADIO Genesis (94.1 FM Andacollo),http://stream5.eltelon.com/genesis-andacollo.aac
+RADIO Rinconada (94.3 FM Mejillones),http://server4.radiostreaming.cl:8062/;
+RADIO Almeyda (94.3 FM Diego de Almagro),http://192.99.18.164:9974/stream
+RADIO Universitaria (94.5 FM  La Serena ),http://radio.cic.userena.cl:8000/radio-uls
+RADIO Parinacota (94.5 FM Iquique),http://95.154.254.157:15309
+RADIO Antara (95.3 FM Copiapo),http://162.210.39.218:24284/;
+RADIO Universidad de Tarapaca (95.9 FM Arica),http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
+RADIO Carnaval Antofagasta (96.5 FM),http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+RADIO Loactual (96.7 FM Calama),http://rs.comtic.net:8000/;
+RADIO San Bartolome (96.7 FM La Serena),http://stream5.eltelon.com/san-bartolome.aac
+RADIO 97 Uno Radio (97.1 FM Arica),http://stream5.eltelon.com/radio-97uno.aac
+RADIO FM7 (Calama 97.3,Antofagasta 89.7),http://198.50.154.235:10258/stream
+RADIO Sol (97.7 FM Antofagasta),http://online.radiosol.cl:8000/;
+RADIO Sol (97.7 FM Antofagasta)[ALT],http://stream5.eltelon.com/sol-radio.aac
+RADIO Bahia (97.7 FM Caldera),http://195.154.182.222:26475/stream?type=.flv
+RADIO Marcela (99.1 FM Huasco),http://xc1.adxradio.com:8002/;
+RADIO Universidad de Antofagasta (99.9 FM),http://200.54.114.230:8000/;
+RADIO Andina (100.1 FM Arica),http://192.198.83.230:9976/;
+RADIO Mejillones FM (100.9 FM),http://s6.medionline.cl:8006/;
+RADIO Festiva (100.9 FM Copiapo),http://s6.jcwebnew.com:8070/;
+RADIO Madero (102.5 FM Antofagasta),http://200.111.175.34:5060/;
+RADIO Okey (103.1 FM Copiapo),http://streaming.fmokey.cl:8000/FmOkCP.mp3
+RADIO Centro FM (103.3 FM Antofagasta),http://stream5.eltelon.com/centro.aac
+RADIO Pinamar (105.3 FM La Serena),http://184.107.188.34:8034/;
+RADIO Plus FM (106.9 FM Antofagasta),http://sonando.us.digitalproserver.com/fmplus_aac
+RADIO Candelaria (106.9 FM Tierra Amarilla),http://stream5.eltelon.com/candelaria.aac
+
+RADIO Diferencia (FM 89.3 Salamanca),http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
+RADIO Carnaval (89.9 FM Viña del Mar),http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
+RADIO Cobremar (89.9 FM Chanaral),http://stream5.eltelon.com/cobremar.aac
+RADIO Amanda (94.9 FM Buin),http://amanda.cmtelcom.com/amanda128
+RADIO Illapel (96.5 FM Illapel),http://200.111.113.18:8500/;
+RADIO Paloma (97.5 FM - Talca),http://radio1.us.mediastre.am/paloma.aac
+RADIO Futura FM (100.7 Talca),http://stream5.eltelon.com/futura.aac
+RADIO La Voz De Yungay (102.7 FM Ñuble),http://99.198.110.162:7016/;
+RADIO UCV FM (103.5 FM Valparaiso),rtmp://radio.cl.digitalproserver.com/ucvradio/ucvradiolive/ playpath=ucvradio.stream swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/latest/jwplayer.flash.swf?v=55 live=1 pageUrl=http://media.digitalproserver.com/v2/radio/ucvradio
+RADIO Contacto (103.9 FM Talagante),http://184.107.188.34:8697
+
+RADIO Bio Bio Temuco (88.1 FM Temuco),http://ice.dallas.digitalproserver.com/biotemu
+RADIO 1 Latina (88.1 FM La Union),http://190.3.169.87:9918/;stream.mp3
+RADIO FMLuz (88.3 FM Los Lagos),http://107.155.120.114:9924/;
+RADIO Dona Ines (88.5 FM Concepcion),http://sc.digitalproserver.com:9534/;
+RADIO Radio Nueva Jerusalen (88.7 FM Rio Bueno),http://radionuevajerusalen.mooo.com:8000/
+RADIO FM Stylo (88.9 FM Quellón),http://wowza.chiloestreaming.com:9122/
+RADIO Mia 89.3 (FM Los Angeles),http://stream5.eltelon.com/mia.aac
+RADIO Nuble (89.7 FM Chillan),http://198.50.154.235:7684
+RADIO FM Mundo (89.9 FM La Union),http://s1.wmsoluciones.cl:9010/
+RADIO UACH (90.1 FM Valdivia),http://centova.uach.cl:8000/centova.uach.cl
+RADIO Radio MRG (90.1 FM Castro),http://streaming.chiloestreaming.com:9548/
+RADIO Mirador (90.9 FM Lautaro),http://demo.dyndns.biz:8016/;
+RADIO Centro FM (91.7 FM Gorbea),http://184.107.188.38:8040/;
+RADIO Cariñosa (92.1 FM Chillan),http://stream5.eltelon.com/carinosa-chillan.aac
+RADIO Sur (92.1 FM Los Angeles),http://ww3.radiosur.cl:5074/rsur
+RADIO Nueva Belen (92.3 FM Puerto Montt),http://stream5.eltelon.com/nueva-belen.aac
+RADIO Entretenida FM (92.5 FM Vilcun),http://atanua.broadcastchile.cl:7000/;
+RADIO Estrella del Mar (92.5 FM Ancud),http://stream5.eltelon.com:8000/estrella-del-mar-ancud.aac
+RADIO Exquisita (93.1 Valdivia),http://stream5.eltelon.com/exquisita.aac
+RADIO FM Siempre (93.1 FM Quellón),http://giss.tv:8000/fmsiemprechiloe.mp3
+RADIO Nuevo Amanecer (93.3 FM Fresia),http://62.210.203.78:8026/;
+RADIO Del Lago FM (93.3 FM Futrono),http://servers58.com:7122/
+RADIO FM Pulso (93.3 FM Lanco),http://192.99.16.17:3120/
+RADIO Centinela (93.9 FM Yumbel),http://s3.medionline.cl:9964
+RADIO Fenomenal (93.9 FM Coyhaique),http://stream5.eltelon.com/fenomenal.aac
+RADIO Magistral (93.9 FM Galvarino),http://www.magistralfm.cl:9110/galvarino
+RADIO Picarona (93.9 FM Villarrica),http://192.99.150.234:9890/stream
+RADIO RayenFM (94.1 Rio Bueno),http://192.99.18.164:9998/;
+RADIO SAGO Puerto Montt (94.1 FM Puerto Montt),http://184.107.165.66:9992/;stream.mp3
+RADIO FM Siempre (94.3 FM Valdivia),http://167.114.119.122:9946/;
+RADIO SAGO Osorno (94.5 FM Osorno),http://184.107.165.66:9974/;stream.mp3
+RADIO Radio Nahuel (94.5 FM Castro),http://streaming.chiloestreaming.com:9142/
+RADIO Soberania (94.5 FM Magallanes y Tierra del Fuego),http://stream5.eltelon.com/radio-soberania.aac
+RADIO La Discusion (94.7 FM Chillan),http://stream5.eltelon.com/radio-la-discusion.aac
+RADIO Universal (94.7 FM Temuco),http://184.107.188.36:80/universal-aac
+RADIO FM Origen (94.7 Rio Bueno),http://stream5.eltelon.com/fm-origen.aac
+RADIO Udec (95.1 FM Concepcion),http://radio.udec.cl:8000/radioudec
+RADIO Coyhaique (95.3 FM Coyhaique),http://stream5.eltelon.com/radio-coyhaique.aac
+RADIO Atractiva (FM 95.3 Concepcion),http://195.154.182.222:25753/atractiva
+RADIO Diferencia (FM 95.3 Paillaco),http://5.9.65.9:8116
+RADIO Diferencia (FM 95.3 Paillaco) Alt,http://5.9.65.9:8166
+RADIO Estrella de Mar (95.3 FM Achao),http://ip.audiostreaming.cl:9926/
+RADIO La Pachanguera FM (95.7 FM La Union),http://192.99.150.42:8772/
+RADIO El Conquistador Valdivia (95.7 Valdivia),http://stream5.eltelon.com/el-conquistador-valdivia.aac
+RADIO Universidad de los Lagos (95.7 FM Osorno),http://radio.ulagos.cl:8000/radio_ulagos
+RADIO Estilo (FM 95.9 Coyhaique),http://sc6.digitalproserver.com:7520/;
+RADIO Araucana (95.9 FM Temuco),http://s6.medionline.cl:9180/;
+RADIO C y S (96.3 FM Dalcahue),http://stream5.eltelon.com/c-y-s.aac
+RADIO San Gabriel (96.3 FM Fresia),http://tv.portalfoxmix.club:1935/mu9932/default.stream/playlist.m3u8
+RADIO Genesis (96.5 FM Curacautin),http://stream5.eltelon.com/genesis.aac
+RADIO Musicoop (96.5 FM Osorno),http://200.27.116.179:8002
+RADIO Para Ti (96.5 FM Puerto Montt),http://104.131.43.160:7208
+RADIO Bio Bio Radio Los Angeles (96.7 FM Los Angeles),http://ice.dallas.digitalproserver.com/biola
+RADIO Lago Ranco (96.9 FM Lago Ranco),http://radiolagoranco.noip.me:8888/
+RADIO San Sebastian (97.3 FM Valdivia),http://stream5.eltelon.com/san-sebastian.aac
+RADIO Sol Austral (97.7 FM Aysen),http://104.236.248.181:9986/;
+RADIO Ventisqueros (97.7 FM Coyhaique),http://stream5.eltelon.com:8000/ventisqueros.aac
+RADIO Bio Bio Concepcion (98.1 FM Concepcion),http://ice.dallas.digitalproserver.com/bioconcebb.aac
+RADIO Pudeto FM (98.1 FM Ancud),http://stream5.eltelon.com/pudeto.aac
+RADIO Camila (98.3 FM Los Angeles),http://stream5.eltelon.com:8000/archi-camila.aac
+RADIO Positiva (98.5 FM Temuco),http://mimix.mercurio.cl:8000/temuco2
+RADIO El Conquistador (98.9 FM Concepcion),http://stream5.eltelon.com/el-conquistador-concepcion.aac
+RADIO Pilmaiquen (98.9 FM Valdivia),http://streaming.chiloestreaming.com:9190/
+RADIO Digital FM (99.1 FM Punta Arenas),http://mimix.mercurio.cl:8000/digitalfm
+RADIO Paraiso (99.1 FM Lago Ranco),http://radioparaiso.sytes.net:8888/
+RADIO Libertad FM (99.1 FM Chonchi),http://streaming.chiloestreaming.com:9148/;
+RADIO Arcoiris (99.3 FM Coyhaique),http://s6.jcwebnew.com:8120/;
+RADIO Positiva (FM 99.5 Valdivia),http://mimix.mercurio.cl:8000/valdivia2
+RADIO Caramelo (99.5 FM Los Angeles),http://sc6.digitalproserver.com:8120/;
+RADIO Macarena (99.7 FM Chillan),http://stream5.eltelon.com/macarena.aac
+RADIO Nueva Genial (100.5 FM Coyhaique),http://s6.jcwebnew.com:7555/;
+RADIO Quellon FM (100.5 FM Quellon),http://s3.medionline.cl:7932/;
+RADIO Dinamica (100.7 FM Coronel),http://stream5.eltelon.com/dinamica.aac
+RADIO Amiga (100.7 FM Calbuco),http://stream5.eltelon.com/amiga-fm.aac
+RADIO Monte Carlo Sur (100.9 FM Angol),http://cast3.serverhost.cl:8784/;
+RADIO Acogida (100.9 FM Entre Lagos),http://stream5.eltelon.com/radio-acogida-2.aac
+RADIO 101.1FM (101.1 FM La Union),http://radio101fm.no-ip.info:8000/;
+RADIO Atractiva FM (101.3 Los Lagos),http://stream5.eltelon.com/atractiva-fm.aac
+RADIO Revelacion (101.5 FM Canete),http://stream5.eltelon.com/doble-r.aac
+RADIO Acustica FM (101.5 FM Panguipulli),http://stream5.eltelon.com/acustica-fm.aac
+RADIO RLP (La palabra)(101.5 FM Osorno),http://tv.portalfoxmix.club:1935/RLPFM1015/default.stream/playlist.m3u8
+RADIO Genoveva FM (101.7 FM Valdivia),http://stream5.eltelon.com/genoveva.aac
+RADIO Las Nieves (102.9 FM Puerto Aysen),http://s6.jcwebnew.com:7060/;
+RADIO Antillanca (103.5 FM Osorno),http://107.155.120.114:9912/;
+RADIO Lagos del Sur (103.7 FM Panguipulli),http://stream5.eltelon.com/archi-lagosdelsur.aac
+RADIO Purranque (104.1 FM Purranque),http://104.131.43.160:8710
+RADIO Supersol (104.5 FM Osorno),http://184.107.165.66:9970/
+RADIO Picarona (104.7 FM Panguipulli),http://192.99.150.234:9882/stream
+RADIO Estilo FM (104.7 FM Valdivia),http://sc5.digitalproserver.com:7520/
+RADIO 1049 (FM 104.9 Pucon),http://audio.streaminghd.cl:8034/;
+RADIO San Carlos (105.1 FM Chonchi),http://streaming.chiloestreaming.com:9146/
+RADIO Positiva (FM 105.5 FM Concepcion),http://mimix.mercurio.cl:8000/concepcion2
+RADIO Chaiten (105.7 FM Chaiten),http://5.9.65.9:8114/
+RADIO Extrema (106.1 FM Puerto Saavedra),http://stream5.eltelon.com/radio-extrema.aac
+RADIO Nativa (106.5 FM Lumaco),http://stream5.eltelon.com/nativa.aac
+RADIO Corporacion (106.7 FM Valdivia),http://31.220.18.102:8008/;
+RADIO Classica (106.7 FM Puerto Montt),http://01.solumedia.com.ar:8312/
+RADIO Esperanza (106.9 FM Temuco),http://s6.jcwebnew.com:7800/;
+RADIO Popular (107.3 FM Coihueco),http://192.99.150.234:9920/;
+RADIO ETCHEGOYEN (107.3 FM TALCAHUANO ),http://s3.medionline.cl:9960/
+RADIO Creaciones (107.5 FM Temuco),http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+RADIO Alas de Aguila (107.7 FM Puerto Montt),http://s3.medionline.cl:8056/;
+
+RADIO Concordia (820 AM La Union),http://s6.jcwebnew.com:7040/;
+RADIO Reloncavi (930 AM Puerto Montt),http://167.114.208.100:9988/
+RADIO Patagonia (970 AM Coyhaique),http://192.99.150.234:9876/;
+RADIO Austral AM (970 AM Valdivia),http://stream5.eltelon.com/austral-am.aac
+RADIO Chilena Concepcion (1030 AM),rtsp://servicioamerica.net/9692/default.stream
+RADIO Radio Chiloé (1030 AM Castro) ,http://streaming.chiloestreaming.com:9554/
+RADIO UBB (1360 AM Concepcion),http://radioubb.cl:8000/online
+RADIO Regional (1480 AM Valdivia),http://184.107.165.66:9954/;
+RADIO RADIO SAN JOSE DE ALCUDIA (1540 AM Rio Bueno),http://ip.audiostreaming.cl:9920
+RADIO Llacolen (1600 AM Concepcion),http://sc.digitalproserver.com:9532/;
+
+RADIO RNE - Bomberos Santiago RM,http://relay.broadcastify.com:80/486952222?xan=578426221C191798C2E2C60B0034E5E5
+RADIO RNE - C.I.M.A.T. Chile ,http://relay.broadcastify.com:80/317219253?xan=578426221C191798C2E2C60B0034E5E5
+RADIO RNE - Red Chile Conectado C.I.M.A.T. Chile,http://relay.broadcastify.com:80/595978158?xan=578426221C191798C2E2C60B0034E5E5
+RADIO RNE - Bomberos Santiago y O.N.E.M.I.,http://relay.broadcastify.com:80/640075795?xan=578426221C191798C2E2C60B0034E5E5
+RADIO RNE - Centro Alerta Temprana (Radio Unida FM Chile),http://relay.broadcastify.com:80/300957107?xan=578426221C191798C2E2C60B0034E5E5
+RADIO RNE - Centro de Comunicaciones BioBio,http://relay.broadcastify.com:80/441010388?xan=578426221C191798C2E2C60B0034E5E5
+
+RADIO NIU Radio,http://live-origin.us.niu.cl/niu_radio.aac
+RADIO NIU POP,http://live-origin.us.niu.cl/niu_pop.aac
+RADIO NIU Indie,http://live-origin.us.niu.cl/niu_indie.aac
+RADIO NIU Rock,http://live-origin.us.niu.cl/niu_rock.aac
+RADIO NIU CL,http://live-origin.us.niu.cl/niu_cl.aac
+RADIO NIU 80s,http://live-origin.us.niu.cl/niu_80s.aac
+RADIO NIU 90s,http://live-origin.us.niu.cl/niu_90s.aac
+RADIO Niu LIVE,http://live-origin.us.niu.cl/niu_live.aac
+RADIO Club 80 (Online),http://s3.medionline.cl:7702
+RADIO FMBox (Online),http://stream.fmbox.cl:9994
+RADIO Candela FM (Online),http://tunein.digitalproserver.com/candelabb.aac
+RADIO Rockaxis (Online),http://radio.cl.mediastre.am/rockaxis.aac
+RADIO Galaxia (Online),http://sscl.denialstream.com:8830/;stream/1.mp3
+RADIO Anglo Latina (Online),http://streaming.radioanglolatina.com:8012/;
+RADIO Picarona (Solo Musica),http://192.99.150.234:9884/
+RADIO Mundo 80,http://184.107.165.66:6020/
+RADIO Educa,http://190.3.168.130:9020/
+RADIO FM Mix (Online),http://audio.crearchile.info:9800/
+FMJOVEN,http://200.24.229.253:8040/
+
+RADIO Siente (Online Arica),http://radio1.us.mediastre.am/siente.aac
+RADIO Celeste (Online Copiapo),http://s6.jcwebnew.com:7006/;
+RADIO Aternativa FM (Online Huasco),http://play.enhd.co:7024/;
+RADIO La Mejor (Online Rancagua),http://107.155.120.114:9944/;
+RADIO Concepcion (Online),http://ip.audiostreaming.cl:9764/;
+RADIO Riquelme Coquimbo (Online),http://162.210.39.218:24666/;
+RADIO UCT Radio Temuco (Online),http://audio.uctradio.cl/radio
+RADIO Radio Vida (Online Paillaco),http://stm40.srvstm.com:20762/
+
+RADIO Disco (88.9 FM),http://77.68.54.175:8012
+RADIO Radio Caracol (590 AM Concepcion),http://208.80.54.40/CARACOL_RADIOAAC_SC
+I Love Radio | Alemania,http://stream12.iloveradio.de/iloveradio1-aac.mp3
+I Love Radio Dance | Alemania,http://stream12.iloveradio.de/iloveradio2-aac.mp3
+I Love Radio Battle | Alemania,http://stream12.iloveradio.de/iloveradio3-aac.mp3
+I Love Radio Charts | Alemania,http://stream12.iloveradio.de/iloveradio9-aac.mp3
+I Love Radio Mashup | Alemania,http://stream12.iloveradio.de/iloveradio5-aac.mp3
+I Love Radio Bass | Alemania,http://stream12.iloveradio.de/iloveradio4-aac.mp3
+I Love Radio Pop | Alemania,http://stream12.iloveradio.de/iloveradio10-aac.mp3
+
+Radio Onda Cero,http://192.99.148.184:6720
+Radio Panamericana,http://192.99.148.184:6710
+Radio Huancayo,http://212.83.146.67:7208
+Radio Antena Sur,http://108.178.57.196:8047/listen.pls
+Radio Peru Folk,http://gnstreammedia.net:8020/;
+Radio 1550,http://212.83.146.67:7212
+Radio San Francisco Sullana,http://167.114.118.119:7324
+Radio La Riberena,http://167.114.118.120:7274
+Radio La Karibena,http://167.114.118.120:7442/
+Radio Perucumbia,http://67.212.179.138:8144
+Radio Sabor,http://167.114.118.120:7686
+Radio Sabor Mix,http://167.114.118.120:7442
+Radio Comas,http://65.60.2.26:8044
+Radio La Kalle,http://167.114.118.120:7448
+Radio Moda,http://19253.live.streamtheworld.com/CRP_MOD_SC
+Radio Nueva Q,http://19253.live.streamtheworld.com/CRP_NQ
+Radio Canto Grande,http://65.60.2.26:8050
+Radio Nova Piura,http://playservistream.net:8054/;
+Radio Nova Trujillo,http://67.212.179.138:7064
+Radio Bacan,http://46.4.33.73:5244
+Radiomar Plus,http://18323.live.streamtheworld.com/CRP_MARAAC.aac
+Radio Del Callao,http://195.154.56.114:7060
+Radio La Clave,http://104.247.209.218:30890
+Radio Corazon,http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamCORRD/_definst_/live.m3u8
+Radio La Zona,http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamLZORD/_definst_/live.m3u8
+Radio Studio 92,http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamST9RD/_definst_/live.m3u8
+Radio Oxigeno,http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamOXIRD/_definst_/live.m3u8
+Radio Z Rock & Pop,http://167.114.118.120:7440
+Radio Oasis,http://16813.live.streamtheworld.com/CRP_OASAAC.aac
+Radio 1160,http://perseo.sistemas4g.com:3624
+Radio Rock & Pop,http://ample-zeno-01.radiojar.com/w4ygscfgkhwtv?rj-ttl=5&rj-token=AAABXW16Zpm2iYqycuXiKQZmc27wGucpFxIo4HcCjZpe 980otcG1yA
+Radio Felicidad,http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamFELRD/_definst_/live.m3u8
+Radio Romantica,http://19793.live.streamtheworld.com/CRP_RITAAC.aac
+Radio La Inolvidable,http://19483.live.streamtheworld.com/CRP_LIAAC.aac
+Radio Latidos,http://ip.peruhits.com:7230
+Radio Amor,http://167.114.118.120:7450
+Radio Exitosa,http://167.114.118.120:7444
+Radio Capital,http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamCAPRD/_definst_/live.m3u8
+Radio RPP,http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamRPPRD/_definst_/live.m3u8
+Radio Activa,http://212.129.33.202:9672
+
+LOLLAPALOOZA CHICAGO 2017 CHANNEL 1,https://liveredbulltv02-i.akamaihd.net/hls/live/518923/2017LollaPriCh1/master.m3u8
+Wacken Open Air,https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_5/magentamusik1.m3u8
+
+tvchile4,http://mdstrm.com/live-stream-playlist/58d425333168db5c07ff3bfa.m3u8
+tvchile6,http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+tvchile7,http://mdstrm.com/live-stream-playlist/555c9a7de50ac484167faa15.m3u8
+TVN SEÑAL 10,http://mdstrm.com/live-stream-playlist/55defd629cbcc3a41481e79e.m3u8
+Gravity Falls 24/7 [HD],http://stream.latino-webtv.com/series/gravityfalls.mp4
+ESPN LATINO,http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+Fashion TV [ARG],http://prepublish.f.qaotic.net/a06/ngrp:ftv_live01-100083_all/Playlist.m3u8
+TVNZ 1,https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8
+TVNZ 2,https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+TVNZ Duke,https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/playlist.m3u8
++HR=E,https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/tv3_live_https/master.m3u8
+Bravo,https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master.m3u8
+Iquique TV (Iquique),http://http//nettv.cl/tv/iquiquetv.m3u8
+Tamarugal Television (Pozo Almonte),http://nettv.cl/tv/tamarugaltv.m3u8
+Tateti,http://ar.watcha.live/ch16/hi.m3u8
+Boing,https://cdn.opencable.es/hls/live/boing/index.m3u8
+Clan TVE,https://cdn.opencable.es/hls/live/clan/index.m3u8
+gol,https://cdn.opencable.es/hls/live/goltv/index.m3u8
+fighttime (ufc),https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+neox,https://cdn.opencable.es/hls/live/neox/index.m3u8
+nova,https://cdn.opencable.es/hls/live/nova/index.m3u8
+mega,https://cdn.opencable.es/hls/live/mega/index.m3u8
+ten,https://cdn.opencable.es/hls/live/ten/index.m3u8
+divinity,https://cdn.opencable.es/hls/live/divinity/index.m3u8
+energy,https://cdn.opencable.es/hls/live/energy/index.m3u8
+fdf,https://cdn.opencable.es/hls/live/fdf/index.m3u8
+tnt,https://cdn.opencable.es/hls/live/tnt/index.m3u8
+fox,https://cdn.opencable.es/hls/live/fox/index.m3u8
+fox life,https://cdn.opencable.es/hls/live/foxlife/index.m3u8
+clan,https://cdn.opencable.es/hls/live/clan/index.m3u8
+boing,https://cdn.opencable.es/hls/live/boing/index.m3u8
+HBO,https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+Hbo Plus,https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+HBO Family.,https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+HBO Signature,https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+Fox Action HD.,https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+Fox Movies HD.,https://freedom.dreamsmx.com/freedom/foxmoviesizi/playlist.m3u8
+Discovery Home & Health,https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+Liga de Ascenso Mx TVC HD,https://freedom.dreamsmx.com/freedom/nick2/playlist.m3u8
+Max UP,https://freedom.dreamsmx.com/freedom/feriastaurinas/playlist.m3u8
+ESPN +,https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+TDN,https://freedom.dreamsmx.com/freedom/eventos4/playlist.m3u8
+Sony,https://freedom.dreamsmx.com/freedom/lmb/playlist.m3u8
+Disney XD,https://freedom.dreamsmx.com/freedom/MLB/playlist.m3u8
+UFC Fight Pass,https://freedom.dreamsmx.com/freedom/mlb6/playlist.m3u8
+PANAMERICANA PERÚ,https://cdnh15.iblups.com/hls/ptv.m3u8
+América,http://live.tvplayerlatino.com/usuarios/src4/AmericaTV/Elarqi/7qe.m3u8
+RCN de Colombia en HD,http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+AMC HD,http://cdn.opencable.es/hls/live/amchd/index.m3u8
+Hollywood HD,http://cdn.opencable.es/hls/live/hollywoodhd/index.m3u8
+XTRM HD,http://cdn.opencable.es/hls/live/xtremehd/index.m3u8
+Canal Odisea HD,http://cdn.opencable.es/hls/live/odiseahd/index.m3u8
+Discovery Channel HD,http://cdn.opencable.es/hls/live/discoveryhd/index.m3u8
+Historia HD,http://cdn.opencable.es/hls/live/historiahd/index.m3u8
+Calle 13,http://cdn.opencable.es/hls/live/calle13/index.m3u8
+Panda,http://cdn.opencable.es/hls/live/panda/index.m3u8
+Comedy Central,http://cdn.opencable.es/hls/live/comedycentral/index.m3u8
+America Tv Peru,https://live95.vkuserlive.com/613505/live/yDl4-SlAfzVAqF8F/playlist.m3u8
+Panamericana Tv HD Peru,http://stream-07.dc3.dailymotion.com/35/dm/3/x18w5up/live-4.m3u8
+FDF,http://edgo2.telesport.pw/live/fdf/index.m3u8
+Cosmo,https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u8
+
+
+CBS News ,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+earthTV,http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
+VoA,http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+London Live,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+Kool London Radio,http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+Sky News,http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+Sky News SD,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+Sky News HD,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+
+Baden TV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+Munchen TV,http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+
+Taquilla 0,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_mega_movieshd/chunklist.m3u8
+Taquilla 1,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cinescape/chunklist.m3u8
+Taquilla 2,https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
+Taquilla 3,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_star/chunklist.m3u8
+Taquilla 4,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_lcreme_staff/chunklist.m3u8
+Taquilla 5,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_mega_extremo/chunklist.m3u8
+Taquilla 6,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_morena_channels12/chunklist.m3u8
+Taquilla 7,https://hls-ord-1a.vaughnsoft.net/ams/live/live_zonafilmsterror/chunklist.m3u8
+Taquilla 8,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_broadmovieshd/chunklist.m3u8
+Taquilla 9,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_calidad/chunklist.m3u8
+Taquilla 10,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cienciaficcion/chunklist.m3u8
+Taquilla 11,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_eldolape/chunklist.m3u8
+Taquilla 12,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_osvaldoquezada/chunklist.m3u8
+Taquilla 13,https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatotv/chunklist.m3u8
+Taquilla 14,https://hls-ord-1a.vaughnsoft.net/ams/live/live_chinomex2/chunklist.m3u8
+Taquilla 15,https://hls-ord-1a.vaughnsoft.net/ams/live/live_zonafilmshd/chunklist.m3u8
+Series 1,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_samantha_carter/chunklist.m3u8
+Series 2,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_variedtv2/chunklist.m3u8
+Dr House,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dr_daniel_jackson/chunklist.m3u8
+Infantiles,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_chinomex1/chunklist.m3u8
+Series Animadas 1,https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatoseries/chunklist.m3u8
+Series Animadas 2,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_variedtv/chunklist.m3u8
+Series Comedias,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_club_comediatv/chunklist.m3u8
+Anime 1,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_seriesan342/chunklist.m3u8
+Anime 2,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_graciela90/chunklist.m3u8
+Anime 3,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_ajap07/chunklist.m3u8
+Anime 4,https://hls-ord-1a.vaughnsoft.net/ams/live/live_inspiranime/chunklist.m3u8
+Dragon Ball,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dragonballhd/chunklist.m3u8
+Los Simpson 1,https://hls-ord-1a.vaughnsoft.net/ams/live/live_simpson_maniahd14/chunklist.m3u8
+Los Simpson 2,https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatosimpson5/chunklist.m3u8
+Chespirito 1,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_vitatochespirito/chunklist.m3u8
+Chespirito 2,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_chespirito_mania/chunklist.m3u8
+El Chavo Del 8,https://hls-ord-1a.vaughnsoft.net/nyc/live/live_centralseven/chunklist.m3u8
