@@ -1,1 +1,4 @@
 tv/config/.php
+!config/
+stuff/*
+
