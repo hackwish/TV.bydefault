@@ -5,8 +5,8 @@ include 'db.php';
 $sql = "SELECT 
     c.idgrupo, g.descgrupo, c.nomcanal, c.logocanal, c.radio, c.url
 FROM
-    canales.canal c
-INNER JOIN canales.grupo g
+    tv.canal c
+INNER JOIN tv.grupo g
 ON c.idgrupo=g.idgrupo
 WHERE
     c.activo = '1'

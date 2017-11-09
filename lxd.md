@@ -25,3 +25,7 @@ lxc file push 010-tv.bydefault.dev.conf lamp/etc/apache2/sites-available/
 
 #A2ENSITE#
 a2ensite 010-tv.bydefault.dev && service apache2 restart
+
+#BASE DE DATOS#
+mysql -u root -p -e "create database tv;" 
+mysql -u root -p tv < /root/tv.sql
