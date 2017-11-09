@@ -1,0 +1,2667 @@
+
+#EXTM3U 
+#EXTINF:0, RED TV
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:0, UCV
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+#EXTINF:0, TVN CHILE
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+#EXTINF:0, MEGAVISION
+http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:0, CHILEVISION
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:0, CHILEVISION
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0, CHILEVISION
+http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w36735013.m3u8
+#EXTINF:0, CANAL 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:0, T13 MOVIL
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+#EXTINF:0, CNN Chile
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0, CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0, Ahora Noticias Digital
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:0, 24HORAS.CL PLAY
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:0, TV CHILE
+http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:0, Limo TVN
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+#EXTINF:0, TVN Kids
+http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+#EXTINF:0, TVN REUTERS
+http://mdstrm.com/live-stream-playlist/53443c472c6e89675103cc4c.m3u8
+#EXTINF:0, TVN UOCT
+http://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+#EXTINF:0, TVN SE�AL 3
+http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
+#EXTINF:0, TVN SE�AL 4
+http://mdstrm.com/live-stream-playlist/5346f688db603a8b0dd9aa66.m3u8
+#EXTINF:0, TVN SE�AL 5
+http://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:0, TVN SE�AL 8
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+#EXTINF:0, Camara de Diputados
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
+#EXTINF:0, TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:0, Poder Judicial TV
+http://unlimited2-cl.digitalproserver.com/judicial2/judicial2.smil/playlist.m3u8
+#EXTINF:0, Loteria TV
+http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
+#EXTINF:0, NIU TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:0, DATOVISION
+http://149.56.17.92:1935/dato33/dato33/playlist.m3u8
+#EXTINF:0, Trailer TV
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+#EXTINF:0, Trailer TV Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8
+#EXTINF:0, CANAL 22 SANTIAGO
+http://canal22santiago.cl/playlist.m3u8
+#EXTINF:0, UesTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0, Se�al UC
+http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
+#EXTINF:0, Canal ISB
+http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
+#EXTINF:0, MaximaTV
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
+#EXTINF:0, Arica TV
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
+#EXTINF:0, MORROVISION Arica
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8
+#EXTINF:0, MASTV Arica
+http://201.218.145.21:1935/Mastv/myStream/playlist.m3u8
+#EXTINF:0, RTC Television - Iquique
+http://cl.streaminghd.cl/cristian285/cristian285/playlist.m3u8
+#EXTINF:0, Canal Antofagasta
+http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+#EXTINF:0, Holvoet TV
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:0, Desierto TV
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:0, Atacama TV
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+#EXTINF:0, Thema TV
+http://wow2.cl.digitalproserver.com/thema/themavivo/thema.smil/playlist.m3u8
+#EXTINF:0, CSS 57 | Melipilla
+http://xcanal_cssx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, UCV Gran Valpara�so
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
+#EXTINF:0, UCV Gran Valpara�so [ALT]
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w324291172_b828000.m3u8
+#EXTINF:0, UCV Gran Valpara�so [ALT-2]
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w1705024129_b828000.m3u8
+#EXTINF:0, Canal Carnaval
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
+#EXTINF:0, ONG Medios | Valparaiso
+http://v2movil.tustreaming.cl/tustreaming/live3/playlist.m3u8
+#EXTINF:0, Vox Populi Chile | Valparaiso
+http://movilstream.digitalproserver.com/vox/voxvivo/vox.smil/playlist.m3u8
+#EXTINF:0, VTV Valparaiso y VI�a del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:0, CANAL 2 SAN ANTONIO
+http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
+#EXTINF:0, GiroVisual El Quisco
+http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
+#EXTINF:0, TVO San Vicente
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
+#EXTINF:0, Tele8 Illapel
+http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8
+#EXTINF:0, Sextavision | Rancagua
+http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
+#EXTINF:0, UTV | San Clemente
+http://cdn.mediostream.cl/utvs/livestream/playlist.m3u8?DVR
+#EXTINF:0, Sexta Vision (Rancagua)
+http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
+#EXTINF:0, CampusTV
+http://unlimited2-cl.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:0, TVCentro
+http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
+#EXTINF:0, CNC | Colchagua
+http://audio.streaminghd.cl/8014/8014/playlist.m3u8
+#EXTINF:0, VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0, TV Maule
+rtmp://videostreaming.cl:8080/live/ playpath=mp4:tvmaule.mp4 swfUrl=http://crearchile.tv/jwplayer.flash.swf live=1 pageUrl=http://panel.crearchile.tv/index.php?usuario=tvmaule&action=reproductor
+#EXTINF:0, ROMERAL TV ESCOLAR
+http://video.crearchile.info:8080/live/daemrome.mp4/playlist.m3u8
+#EXTINF:0, TV5 Linares
+http://v1.tustreaming.cl:1935/canal5/canal5/playlist.m3u8?DVR
+#EXTINF:0, canal 21 Chillan
+rtmp://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch
+#EXTINF:0, Televida Chillan
+http://unlimited1-cl.dps.live/tlvida/tlvida.smil/playlist.m3u8
+#EXTINF:0, TV8 Vive Chile Concepcion
+rtmp://wow2.cl.digitalproserver.com/tv8/tv8vivo/livestream1.flv
+#EXTINF:0, Bio Bio Television canal 9
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:0, TVU
+http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:0, TV4 (Lota)
+rtmp://evo.eltelon.com:1935/live/ playpath=tv4-television swfUrl=https://www.eltelon.com/js/jwplayer-7.2.4/jwplayer.flash.swf pageUrl=https://www.eltelon.com/embed/MXmJrwzjF3l
+#EXTINF:0, Contivision
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
+#EXTINF:0, Contivision [ALT]
+http://movil.cl.digitalproserver.com:1935/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
+#EXTINF:0, Contivision Musica
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+#EXTINF:0, Dinamica Tv [Coronel]
+http://evo.eltelon.com:1935/live/dinamica-television/playlist.m3u8
+#EXTINF:0, Universidad Autonoma de Chile TV
+http://v1.tustreaming.cl:1935/tvautonoma/tvautonoma/playlist.m3u8
+#EXTINF:0, UFROVISION
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF:0, TecTV | Temuco
+http://190.107.176.55:1935/live/tec-tv/playlist.m3u8
+#EXTINF:0, Pucon TV [HD]
+rtmp://190.107.176.55:1935/live/ playpath=pucon-tv swfUrl=http://www.eltelon.com/js/jwplayer-7.2.4/jwplayer.flash.swf live=1 pageUrl=http://www.eltelon.com/embed/jAGOAgVQEkU
+#EXTINF:0, PuconTV | Pucon
+rtmp://190.107.176.55:1935/live/pucon-tv
+#EXTINF:0, ATV | Valdivia
+rtmp://evo.eltelon.com:1935/live/atv-valdivia
+#EXTINF:0, Inet2-TV
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w699291402_b428000.m3u8
+#EXTINF:0, Canal 5 SAN JOSE DE ALCUDIA (Rio Bueno)
+rtmp://videostreaming.cl:8080/live/mp4:radiosanjose.mp4
+#EXTINF:0, Canal Latino (La Union)
+rtmp://video.crearchile.info:8080/live/mp4:latina.mp4
+#EXTINF:0, Chiloe TV 5 Chiloe
+http://streaminglivehd.com:1935/8038/8038/playlist.m3u8
+#EXTINF:0, Canal 2 Quellon
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/chunklist.m3u8
+#EXTINF:0, CANAL 11 AYSEN
+http://v1.tustreaming.cl:1935/aysentv/aysentv/playlist.m3u8?DVR
+#EXTINF:0, SANTA MARIA TV AYSEN
+http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8
+#EXTINF:0, ELPINGUINO TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+#EXTINF:0, ELPINGUINO TV [ALT]
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:0, TVRed (Punta Arenas)
+http://69.164.193.177:1935/live/myStream/playlist.m3u8
+#EXTINF:0, UMAG TV
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+#EXTINF:0, UMAG TV 2
+rtmp://edge1.cl.grupoz.cl/itser4/tser4.sdp
+#EXTINF:0, ITV HD
+http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
+#EXTINF:0, Soberania TV Magallanes y Antartica Chilena
+http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
+#EXTINF:0, Soberania | Punta Arenas
+rtmp://evo.eltelon.com:1935/live/soberania
+#EXTINF:0, Curic�
+http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8
+#EXTINF:0, ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0, PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0, LOCOMOTION 
+http://locomotiontv.com/envivo/loco_app/stream.m3u8
+#EXTINF:0, Los Simpsons 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:0, Futurama 24/7
+http://tecnotv.xyz/media/futurama/
+#EXTINF:0, ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0, Canal de los Recuerdos
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
+#EXTINF:0, Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:0, City Radio TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:0, HardLife TV
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:0, Kiss TV
+http://kissfm.en-directo.com/iphone/index_multirate.m3u8
+#EXTINF:0, Kiss TV [ALT]
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:0, Amazing TV
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0, Virgin Radio TV
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:0, Heavy Metal TV
+rtmp://70.166.98.130:1935/hmtv/myStream
+#EXTINF:0, UK Film on TV UK
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:0, Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:0, Melody
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0, Melody
+rtsp://186.155.200.118:1935/live/MelodyChannel
+#EXTINF:0, Capital TV-FM
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0, Capital TV-FM [ALT]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:0, M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:0, M2O [ALT]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, Djing TV
+http://www.djing.com/tv/a-04.m3u8
+#EXTINF:0, DJING ANIMATION HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:0, DJING IBIZA HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0, DJING UNDERGROUND HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:0, DJING CLASSIC HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0, DJING Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0, Heart TV ALT
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&amp;rebase=on
+#EXTINF:0, Radio One TV
+http://server5.stweb.tv/radioone/live/playlist_w389730903.m3u8
+#EXTINF:0, ONE TV
+http://rtmp.one.by:1300/
+#EXTINF:0, ONE TV 4K
+http://rtmp.one.by:1400
+#EXTINF:0, Pop HD
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:0, RETRO TV
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+#EXTINF:0, HIT TV
+http://ksportiptv.com:1557/live/idou/idou/2628.ts
+#EXTINF:0, HIT TV 2
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0, FM HOT
+rtmp://evo.eltelon.com:1935/live/fm-hot-tv
+#EXTINF:0, MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:0, Spirit TV
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
+#EXTINF:0, Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0, Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0, Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0, TELEMUSICA
+rtmp://186.155.200.118:1935/live/ playpath=telemusica swfUrl=http://www.widih.org/swf/jwplayer.flash.swf live=1 pageUrl=http://telemas.olympe.in/tv-en-vivo/telemusica-colombia.html
+#EXTINF:0, TELEMUSICA ALT
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:0, Si Tv
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:0, Estudio TV
+rtmp://190.107.176.167:1935/live/estudio-tv
+#EXTINF:0, Dream TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, Music Box UA
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:0, QUIERO MUSICA
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0, QUIERO MUSICA
+mms://200.42.92.6:1755/qmusica
+#EXTINF:0, 538 TV  (NL) (English)
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+#EXTINF:0, Albmusic  (AL) (Albanian)
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0, Aloula TV  (SY) (Arabic)
+http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
+#EXTINF:0, Bandwagon Live Music  (US) (English)
+http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
+#EXTINF:0, Channel UFX  (IN) (Tamil)
+rtmp://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp
+#EXTINF:0, City TV  (BG) (English)
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:0, Desi Channel  (IN) (Punjabi)
+rtmp://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp
+#EXTINF:0, E 24  (IN) (Hindi/English)
+http://d3ibnxavurfby0.cloudfront.net/bagnetworks/ngrp:e24_all/playlist.m3u8
+#EXTINF:0, ESKA TV HD  (PL) (English/Polish)
+http://stream.smcloud.net/live/eskatv/aylist.m3u8
+#EXTINF:0, Hamdard TV  (IN) (Punjabi)
+rtmp://live.wmncdn.net/hamdard/997831f276885a936ac3ce2dc96d82aa.sdp
+#EXTINF:0, Hawacom Tv  (LB) (Arabic)
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+#EXTINF:0, HitTV  (US) (English)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0, Joo Music Tv  (IN) (Hindi/English)
+http://wowzacontrol.com:1935/8038/8038/chunklist_w1440951984.m3u8
+#EXTINF:0, Kenh 9 Music  (VN) (Vietnamese)
+rtmp://203.162.121.230/live/9_music?securetoken=#ed?#w@1
+#EXTINF:0, La Mega Mundial  (US) (Spanish)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0, M 6  (FR) (English)
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0, MAD  (UK) (English)
+http://144.76.2.213:1935/live/livestream/playlist.m3u8
+#EXTINF:0, MTV AM  (RU) (English)
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:0, Magic TV  (BG) (English)
+http://31.13.217.76:1935/magictv/magictv_live.stream/playlist.m3u8
+#EXTINF:0, Media Punjab TV  (DE) (Punjabi)
+http://mediapunjab.tv:1935/live/live/chunlist.m3u8
+#EXTINF:0, Mezzo  (FR) (French)
+http://en356.edem.tv/iptv/MDZBM3MPLADKUX/707/index.m3u8
+#EXTINF:0, Monte Carlo TV  (US) (English)
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0, OutOfFocus.TV  (US) (English)
+http://pablogott.videocdn.scaleengine.net/pablogott-iphone/play/ooftv.smil/playlist.m3u8
+#EXTINF:0, Peppers TV  (UK) (Tamil)
+rtmp://live.wmncdn.net/pepperstv/51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp
+#EXTINF:0, Power Turk Tv  (TR) (Turkish)
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+#EXTINF:0, Radio Monte Carlo TV  (IT) (English/Italian)
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:0, Real Hip Hop Network  (US) (English)
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+#EXTINF:0, RomaTV  (BG) (Bulgarian)
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0, SMO Positive Channel  (MX) (Spanish)
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:0, Slam TV  (NL) (English)
+http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8
+#EXTINF:0, TRT Musik  (TR) (Turkish)
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0, TV Blast  (PA) (Spanish)
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:0, TV M3  (US) (English)
+http://rtmp.infomaniak.ch/livecast/tvm3/PAZ.m3u8
+#EXTINF:0, Agro TV
+http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/playlist.m3u8
+#EXTINF:0, Agro TV [HD]
+http://v1.tustreaming.cl:1935/agrotvweb/agrotvweb/playlist.m3u8?DVR
+#EXTINF:0, Nasa TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?
+#EXTINF:0, NASA TV ALT
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:0, NASA Space Station 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:0, NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:0, NASA Public
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+#EXTINF:0, NASA Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:0, NASA ISS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:0, Discovery Channel Latino
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0, TEC TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0, 360 TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0, Viajar [SD]
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:0, Mexico Travel Channel
+http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
+#EXTINF:0, Earth TV
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:0, UVTV
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Educativo Cuba
+http://170.55.15.122:8000/play/a00m
+#EXTINF:0, YES!
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
+#EXTINF:0, Deutsche Welle
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0, Deutsche Welle ALT
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0, Deutsche Welle Asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0, Deutsche Welle U.S.A
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+#EXTINF:0, Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0, Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0, France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0, Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0, VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0, NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:0, Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0, CGTN
+https://live.cgtn.com/cctv-e.m3u8
+#EXTINF:0, Channel NewsAsia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0, BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0, TV5 Monde
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:0, TV5 Monde ALT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:0, Euronews
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:0, RTVE24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, RTVE24H ALT
+http://190.57.234.164/V0/4/2.m3u8
+#EXTINF:0, Unicable
+http://latino-webtv.ml:8880/tpmariocs/CANAL218/PROFILE03.m3u8
+#EXTINF:0, Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:0, Russia Today
+http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8
+#EXTINF:0, Russia Today ALT
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+#EXTINF:0, Russia Today News
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+#EXTINF:0, Russia Today USA
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
+#EXTINF:0, Russia Today UK
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
+#EXTINF:0, Russia Today Docu
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
+#EXTINF:0, TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0, Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0, Azteca noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:0, CB24 NOTICIAS
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:0, iNews
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
+#EXTINF:0, Milenio
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:0, BNTV
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:0, CBS News 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0, earthTV
+http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
+#EXTINF:0, VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0, BYU TV Internacional
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:0, BYU TV Internacional ALT
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_840_av-b.m3u8
+#EXTINF:0, Efekto TV HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:0, Efekto TV HD ALT
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
+#EXTINF:0, Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8
+#EXTINF:0, Nueva Vida
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:0, AMAZING TV
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0, Positive Channel
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:0, Life Design HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:0, Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:0, Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:0, TWiT TV
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0, MIAMI TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0, Fox Sports Chile
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:0, Fox Sports Mexico
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:0, Fox Sports Argentina
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:0, CDO Premium HD
+http://unlimited2-cl.dps.live/cdopremium/cdopremium.smil/playlist.m3u8?wmsAuthSign=
+#EXTINF:0, CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:0, CDO Premium [ALT]
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/playlist.m3u8
+#EXTINF:0, CDO - ALT2
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0, Teletrak
+rtmp://edge1.cl.grupoz.cl/teletrak/ playpath=live swfUrl=http://live.grupoz.cl/swf/jwplayer.flash.swf live=1 pageUrl=http://live.grupoz.cl/61b0f5120768b40f627d98dce728d71b
+#EXTINF:0, Sporting TV
+http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
+#EXTINF:0, Sporting TV ALT
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:0, Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:0, Real Madrid TV ALT 2
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, RealMadrid TV ALT 3
+http://ksportiptv.com:1557/live/idou/idou/1589.ts
+#EXTINF:0, Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0, Todo Deportes Argentina
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0, DXTV
+http://186.33.227.199/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0, DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+#EXTINF:0, Motor Sport
+http://motorsport.hopto.org:8080/
+#EXTINF:0, Eurosports
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0, Red Bull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:0, Versus Channel [SD]
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, Poker Central [HD]
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+#EXTINF:0, NFL Now [HD]
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0, Olympic Channel 1 [FHD]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:0, Olympic Channel 1 [SD][ALT]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+#EXTINF:0, Claro Deportes 1 [FHD]
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:0, Dubai Sports HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:0, Dubai Sports
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+#EXTINF:0, Saudi Sports
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
+#EXTINF:0, DeporTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:0, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
+#EXTINF:0, Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
+#EXTINF:0, MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:0, NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:0, Canal Rural
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:0, TLX TELEMAX/TELECENTRO
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0, CANAL 26
+http://200.115.193.177/live/26hd-480/.m3u8
+#EXTINF:0, CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0, Telpin TV
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0, Canal 10 Mar de Plata
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0, TN
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:0, TN ALT
+http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0, C5N
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+#EXTINF:0, Canal 9
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0, Canal de la Ciudad
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
+#EXTINF:0, QM Noticias
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
+#EXTINF:0, TV Power
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0, El Trece [HD]
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0, America TV [HD]
+http://prepublish.f.qaotic.net/epa2/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0, Canal 2 Posadas Misiones
+http://190.192.87.71:8088/live/canal101010102.m3u8?ID=
+#EXTINF:0, Tv Publica 
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0, America 24 [HD]
+https://www.youtube.com/watch?v=ZEk_4qyyBq0
+#EXTINF:0, Canal 7 Mendoza [HD]
+https://www.youtube.com/watch?v=cmo6uqcWkXc
+#EXTINF:0, Canal 4 Jujuy [HD]
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0, Canal 9 Salta [SD]
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0, Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:0, America Television
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:0, Andina Tv 
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
+#EXTINF:0, UCV Satelital
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:0, Canal 4 Arequipa Peru
+http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, ATV Noticias
+http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/playlist.m3u8|User-agent=iPhone
+#EXTINF:0, AMERICA TV
+http://cdnh8.iblups.com/hls/xANLPWSk3d.m3u8
+#EXTINF:0, ANTARES TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0, CAPITAL TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:0, CTC TV
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:0, LATINA TV
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
+#EXTINF:0, RBC TELEVISION
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:0, RPP NOTICIAS
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
+#EXTINF:0, SOL TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:0, TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:0, IPE TV
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0, TV PERU HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0, 1TV TACNA
+http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
+#EXTINF:0, OVACION
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0, WILLAX
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+#EXTINF:0, TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:0, TOP LATINO TV-LIMA
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:0, BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0, MEGA TV- AREQUIPA
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:0, CENTRAL TV 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0, PACIFICO TV
+http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
+#EXTINF:0, Canal 11
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:0, TRT Venezuela
+rtmp://edge.wms28.lorini.net/trttv/trttv
+#EXTINF:0, CANAL 11
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
+#EXTINF:0, TELESUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:0, TLT
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+#EXTINF:0, TV VENEZUELA
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master1000k.m3u8
+#EXTINF:0, VE PLUS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:0, VIVO PLAY
+https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
+#EXTINF:0, VENEZOLANA TELEVISION
+http://controlstreams.com:1935/vtvweb3/vtvweb3/chunklist.m3u8
+#EXTINF:0, TVS Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+#EXTINF:0, CANELA TV
+http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+#EXTINF:0, OROMAR TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:0, TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:0, TELEVISION MANABITA
+rtmp://184.107.180.130:1935/manabitv/live
+#EXTINF:0, TVC
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8|User-agent=iPhone&amp;Referer=http://d2dn7ylrd9r3ds.cloudfront.net.cloudfront.net
+#EXTINF:0, UNSION TV
+http://api.new.livestream.com/accounts/8374118/events/2980131/live.m3u8
+#EXTINF:0, Ecuador TV 7
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+#EXTINF:0, RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8|User-agent=iPhone&amp;Referer=http://d36zvzlneynve1.cloudfront.net.cloudfront.net
+#EXTINF:0, UCSG 
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:0, RCN
+http://streannlive-lh.akamaihd.net/i/col03_1@388863/index_1_av-p.m3u8?hd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1475802258~acl=%2f*~data=hdntl~hmac=08a69116eab65150ffd574064f0f08e14408e153a36ace3fcb6da60f63e85179
+#EXTINF:0, Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:0, Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:0, Telepacifico
+http://video.ideasmedia.com.co/live-ideasmedia/smil:envivo.smil/playlist.m3u8
+#EXTINF:0, Telepacifico Opcion 2
+http://video.ideasmedia.com.co/live-ideasmedia/_definst_/mp4:ideasmedia3/chunklist_w1866703897.m3u8
+#EXTINF:0, Tele Vid
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_manifest.m3u8
+#EXTINF:0, Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:0, Senal Colombia
+http://cdns840stu1010.shooowit.net/rtvcscolombialive/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:0, Se�al Colombia Opcion 2
+http://cdns840stu1010.shooowit.net/rtvcscolombialive/smil:live.smil/IPTVColFree.m3u8
+#EXTINF:0, Canal Trece Colombia
+http://streaming-ca.enetres.net/907242981A11434D900C2676A56AE374021/mobile/playlist.m3u8?idLive=021&referer=TkQ=
+#EXTINF:0, Canal Une
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8?time=1472168249816
+#EXTINF:0, Canal Une Eventos
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/EVEN/tu1_3.m3u8
+#EXTINF:0, Canal Une Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:0, Canal El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?time=1472170180731
+#EXTINF:0, Cablenoticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0, Canal U de Antioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:0, Canal U de Antioquia ALT
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:0, Canal TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:0, Canal Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_3.m3u8
+#EXTINF:0, Canal Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_3.m3u8
+#EXTINF:0, Vmas TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:0, Life Design
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?time=1472170324764
+#EXTINF:0, Teleislas
+rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
+#EXTINF:0, TELEUNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:0, Canal Trece
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+#EXTINF:0, SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:0, Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:0, Extra TV Canal 42
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:0, CANAL 4
+http://live-01.viewer.dacast.com/i/dclive_1@311302/master.m3u8
+#EXTINF:0, SUPER 5
+http://k3.usastreams.com/superC/_definst_/mp4:superC_2/chunklist.m3u8
+#EXTINF:0, TELERED
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:0, TV SUR
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0, Color Visi�n
+http://ss8.domint.net:2048/cvis_str/video/chunklist_w1410453871.m3u8
+#EXTINF:0, Microvisi�n
+http://tcc-streaming2.cloudapp.net:1935/micro10/microvision10/playlist.m3u8
+#EXTINF:0, CANAL 25
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:0, TV Maya
+http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
+#EXTINF:0, CANAL PLUS GUATEMALA
+http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
+#EXTINF:0, TELECOSTA
+http://arcamediastream.net:1935/8374/8374/playlist.m3u8
+#EXTINF:0, TV Azteca (HONDURAS)
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:0, TELESISTEMA
+http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
+#EXTINF:0, HCH HD
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
+#EXTINF:0, TODO DEPORTES TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:0, TELECEIBA CANAL 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0, TELEVICENTRO
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
+#EXTINF:0, TV AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:0, Azteca trece
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0, AZTECA trece ALT
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0, TV RADIO Y TELEVISION MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:0, TV Pacifico
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8
+#EXTINF:0, TV Pacifico 2
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
+#EXTINF:0, TV Pacifico Culiac�n
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0, TV Pacifico Obreg�n
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:0, TV Pacifico YAQUI
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
+#EXTINF:0, TVMAS HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0, TVMAS HD ALT
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:0, Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+#EXTINF:0, Canal 22
+rtmp://192.96.217.230/live/smrtv.sdp
+#EXTINF:0, CANAL 53 UANL TV
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:0, Michoacan al dia
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:0, Canal 5TV
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0, Informativo 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:0, Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0, Galavision
+http://latino-webtv.ml:8880/tpmariocs/CANAL109/PROFILE03.m3u8
+#EXTINF:0, Multimedios mas
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0, RCG TV
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0, TV Acapulco
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:0, C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:0, C7 Cultura Guadalajara
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+#EXTINF:0, TRECEVISION YUCATAN
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:0, CANAL 15 FRESNILLO
+rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
+#EXTINF:0, TELEMAX
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF:0, CANAL DE LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0, CANAL DE LAS ESTRELLAS ALT
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+#EXTINF:0, Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:0, Canal 10 Chetumal (Mexico)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0, Canal 66 (Mexico)
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+#EXTINF:0, Capital 21 (Mexico)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0, Ocho TV (Mexico)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:0, TVT Tabasco (Mexico)
+http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
+#EXTINF:0, Neox [HD] 
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0, Gran Hermano 24Hrs [HD]
+http://mset-prod-1.live-delivery.ooyala.com/out/u/12640_4.m3u8
+#EXTINF:0, TVE 1 
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, TVE 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, RTVE 24H 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, Andalucia Television
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0, MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0, MEGA ALT
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
+#EXTINF:0, La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:0, La Sexta HD
+http://ksportiptv.com:1557/live/idou/idou/2154.ts
+#EXTINF:0, TVE
+http://ksportiptv.com:1557/live/idou/idou/2144.ts
+#EXTINF:0, TV3 HD
+http://ksportiptv.com:1557/live/idou/idou/2145.ts
+#EXTINF:0, Telecinco
+http://ksportiptv.com:1557/live/idou/idou/1774.ts
+#EXTINF:0, Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0, Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0, Condavisi�n
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:0, ANDORRA TV
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:0, TV3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
+#EXTINF:0, GALICIA TV
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:0, TV EUROPA
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:0, 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8
+#EXTINF:0, Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:0, Intereconomia
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:0, CATALUNHA
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+#EXTINF:0, Mediterraneo TV Espana
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:0, RTP ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0, ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:0, ONDA AZUL SEVILLA
+http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/master.m3u8
+#EXTINF:0, RTVE 24 Horas
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live/stream2.m3u8
+#EXTINF:0, RTVE 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live/stream2.m3u8
+#EXTINF:0, RTVE 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
+#EXTINF:0, Intereconomia Punto Pelota
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:0, LancelotTV 
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:0, IB3 
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:0, ANDORRA 
+rtmp://194.158.80.31/live/web
+#EXTINF:0, La1 (Tu le llamas TVE 1)
+http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8
+#EXTINF:0, 8TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8 
+#EXTINF:0, 324(En catal�n)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:0, ARAGON TV 
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:0, 7 TELEVISION
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+#EXTINF:0, CANAL ANDALUC�A TURISMO
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+#EXTINF:0, CANAL DE COCINA
+http://edge5204.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
+#EXTINF:0, CANAL DE EXTREMADURA
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:0, CAZA Y PESCA
+http://edge5.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:0, LANCELOT TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0, LA OTRA
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:0, ENERGY
+https://cdn.opencable.es/hls/live/energy/index.m3u8
+#EXTINF:0, ETB SAT 
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:0, LEBRIJA TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0, LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:0, LIFE TV  
+http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
+#EXTINF:0, MARCA TV
+http://universalhdlive.marca.com/i/dr21_1@100203/master.m3u8
+#EXTINF:0, NAVARRA TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:0, ONDA AZUL
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:0, RTP ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0, RTV MARBELLA
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTINF:0, TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0, TV GALICIA AM�RICA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:0, TV GALICIA EUROPA
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:0, TV MEDITERR�NEO
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:0, CANARIA SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:0, ABC 12 Anchorage - Alaska [HD]
+http://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8
+#EXTINF:0, ABC 3 KTBS Shreveport - Louisiana
+http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
+#EXTINF:0, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#1
+#EXTINF:0, CBS 7.1 Seattle - Washington
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
+#EXTINF:0, CBS 31.1 Peoria - Illinois
+http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0, NOTV 41 New Orleans - Louisiana [HD]
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:0, Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:0, Sky News
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:0, Sky News SD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:0, Sky News HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:0, Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:0, Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:0, NHK World
+http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
+#EXTINF:0, NHK G
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
+#EXTINF:0, NHK E
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
+#EXTINF:0, gd03
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
+#EXTINF:0, gd04
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
+#EXTINF:0, Fuji TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
+#EXTINF:0, TV Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
+#EXTINF:0, TV Tokyo
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
+#EXTINF:0, Tokyo MX
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
+#EXTINF:0, NHK-BS1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
+#EXTINF:0, BS-NTV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
+#EXTINF:0, BS-Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+#EXTINF:0, BS-TBS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
+#EXTINF:0, BS-Fuji
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+#EXTINF:0, bs06
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+#EXTINF:0, WOWOW Prime
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+#EXTINF:0, WOWOW Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+#EXTINF:0, WOWOW Cinema
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+#EXTINF:0, Star Channel 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
+#EXTINF:0, Star Channel 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+#EXTINF:0, Star Channel 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+#EXTINF:0, bs13
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+#EXTINF:0, NHK-BS Premium
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
+#EXTINF:0, Golf Network
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+#EXTINF:0, J-Sports 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
+#EXTINF:0, J-Sports 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
+#EXTINF:0, J-Sports 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
+#EXTINF:0, cs08
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:0, J-Sports 4
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
+#EXTINF:0, Movie Plus
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+#EXTINF:0, cs11
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:0, Kids Station
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
+#EXTINF:0, Discovery Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:0, History
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:0, J Music
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+#EXTINF:0, NN cs18
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:0, NN cs19
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:0, Disney Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
+#EXTINF:0, PLAYY WEST KOREA
+http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+#EXTINF:0, JEI ENGLISH TV KOREA
+http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
+#EXTINF:0, BERNAMA TV
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
+#EXTINF:0, METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0, TV Brunei
+mms://202.160.15.85/stream-03-512
+#EXTINF:0, GLOBALTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+#EXTINF:0, MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
+#EXTINF:0, Bali TV
+rtmp://118.97.183.196/jhos//balitv
+#EXTINF:0, JTV
+rtmp://118.97.183.196/jhos/jtv
+#EXTINF:0, ISLAM TV
+http://wowza05.sharp-stream.com/islamtv/islamtv/BratuMarian.m3u8
+#EXTINF:0, Peace TV
+http://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1/playlist.m3u8
+#EXTINF:0, Al Yaum TV (Palestine)
+http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
+#EXTINF:0, Alfajer TV (Palestine)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/playlist.m3u8
+#EXTINF:0, Alforat Tv
+rtmp://alforatlive.nanocdn.com/live/alforat256
+#EXTINF:0, Alhuraa
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0, Altaghier
+http://stream1.joinvisions.net:1935/taglive/taghier/playlist.m3u8
+#EXTINF:0, Al Aan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:0, DUBAI ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:0, AL ARABIA TV
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:0, Al Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:0, cna
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:0, Syria
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:0, Sama Syria
+rtmp://sama-tv.net/live/samatv
+#EXTINF:0, Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:0, Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:0, Syrian Educational TV
+rtmp://82.137.248.16/Snews/SnewsLive1
+#EXTINF:0, Alikhbaria Syria
+rtmp://82.137.248.16/Snews/SnewsLive1
+#EXTINF:0, wissal-tv
+http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
+#EXTINF:0, Al-Kout-tv
+rtmp://66.23.237.233:1935/alkout/alkout
+#EXTINF:0, Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Isidora Goyenechea-Vitacura
+http://200.75.19.171/uoct/55/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Tobalaba-Apoquindo
+http://200.75.19.171/uoct/30/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Providencia-Suecia
+http://200.75.19.171/uoct/35/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Providencia-Salvador
+http://200.75.19.171/uoct/19/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Macul-Grecia
+http://200.75.19.171/uoct/33/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Las Condes-La Dehesa
+http://200.75.19.171/uoct/31/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Bellavista-Arzobispo
+http://200.75.19.171/uoct/66/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Apoquindo-Las Condes
+http://200.75.19.171/uoct/29/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Camino del Inca
+http://200.75.19.171/uoct/54/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Presidente Riesco
+http://200.75.19.171/uoct/53/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Vitacura
+http://200.75.19.171/uoct/49/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Rotonda Perez Zujovic
+http://200.75.19.171/uoct/47/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Apoquindo-Manquehue
+http://200.75.19.171/uoct/43/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Andres Bello-Nueva Tajamar
+http://200.75.19.171/uoct/42/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Diagonal Oriente con Vespucio
+http://200.75.19.171/uoct/10/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Apoquindo � Camino el Alba
+http://200.75.19.171/uoct/13/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] El Cerro con Los Conquistadores
+http://200.75.19.171/uoct/2/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] General Velazquez-Arica 
+http://200.75.19.171/uoct/21/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Alameda-Concon
+http://200.75.19.171/uoct/28/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Pajaritos-5 de abril
+http://200.75.19.171/uoct/51/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Alameda-Matucana
+http://200.75.19.171/uoct/38/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] General Bonilla con Teniente Cruz
+http://200.75.19.171/uoct/55/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] San Pablo con Neptuno
+http://200.75.19.171/uoct/3/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Viel-Matta
+http://200.75.19.171/uoct/34/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Manuel Rodriguez-Toesca
+http://200.75.19.171/uoct/32/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Lira- Diagonal Paraguay
+http://200.75.19.171/uoct/26/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Alameda-Brasil
+http://200.75.19.171/uoct/18/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Agustinas � San Mart�n
+http://200.75.19.171/uoct/27/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Alameda � Santa Rosa
+http://200.75.19.171/uoct/37/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Plaza Italia
+http://200.75.19.171/uoct/36/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Teatinos con Compa�ia
+http://200.75.19.171/uoct/11/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Alameda con Manuel Rodriquez
+http://200.75.19.171/uoct/12/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vicu�a Mackenna con Santa Isabel
+http://200.75.19.171/uoct/7/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Alameda con Nataniel Cox
+http://200.75.19.171/uoct/17/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] San Antonio con Agustinas
+http://200.75.19.171/uoct/14/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Alameda-Cumming
+http://200.75.19.171/uoct/16/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Ruta 5-Vespucio
+http://200.75.19.171/uoct/52/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Pedro Fontova
+http://200.75.19.171/uoct/50/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Recoleta
+http://200.75.19.171/uoct/48/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Departamental-Pedro Aguirre Cerda
+http://200.75.19.171/uoct/46/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Departamental-5 sur
+http://200.75.19.171/uoct/45/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Vicu�a Mackenna
+http://200.75.19.171/uoct/41/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Gran Avenida
+http://200.75.19.171/uoct/40/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vespucio-Santa Rosa
+http://200.75.19.171/uoct/39/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Vicu�a Mackenna con Departamental
+http://200.75.19.171/uoct/8/playlist.m3u8
+#EXTINF:0, [UOCT-SANTIAGO] Isabel Riquelme con Bascu��n Guerrero
+http://200.75.19.171/uoct/6/playlist.m3u8
+#EXTINF:0, RADIO Duna (89.7 FM)
+http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8
+#EXTINF:0, RADIO Patagonia Radio TV (94.1 FM)
+http://v1.streaminglatinoamerica.com:1935/patagoniatv/patagoniatv/playlist.m3u8?DVR
+#EXTINF:0, RADIO FM Tiempo (95.9 FM)
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:0, Radio Carolina TV (99.3 FM)
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0, Infinita (TV) (100.1 FM)
+http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+#EXTINF:0, RADIO Tele13 Radio (103.3 FM)
+http://live.t13.cdnz.cl/t13radio/tablet.m3u8
+#EXTINF:0, RADIO Tele13 Radio (103.3 FM) [ALT]
+http://live.t13.cdnz.cl/t13radio/t13radio-900.m3u8
+#EXTINF:0, Tele13 Radio (TV) (103.3 FM)  [ALT-2]
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+#EXTINF:0, RADIO Radio Universal (Temuco)
+rtmp://video.crearchile.info:8080/live/mp4:universal.mp4
+#EXTINF:0, RADIO Radio Chilo� (1030 AM Castro)
+rtmp://streaminglivehd.com:1935/8032/8032
+#EXTINF:0, INJUV.FM
+http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8
+#EXTINF:0, RADIO Imagina (88.1 FM)
+http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
+#EXTINF:0, RADIO Concierto (88.5 FM)
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
+#EXTINF:0, RADIO Futuro (88.9 FM)
+http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
+#EXTINF:0, RADIO Disco 89 (88.9 FM)
+http://radio2.rgradio.net:9020/disco89.mp3
+#EXTINF:0, RADIO Maria (89.3 FM)
+http://dreamsiteradiocp.com:8066/
+#EXTINF:0, RADIO Duna (89.7 FM)
+http://tunein.digitalproserver.com/dunabb.aac
+#EXTINF:0, RADIO Colo-colo (90.1 FM)
+http://186.103.213.249:9988
+#EXTINF:0, RADIO Pudahuel (90.5 FM)
+http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
+#EXTINF:0, RADIO Cumbre (90.9 FM)
+http://sc.digitalproserver.com:9604/;
+#EXTINF:0, RADIO Digital FM (91.1 FM)
+http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:0, RADIO El Conquistador (91.3 FM)
+http://stream5.eltelon.com/el-conquistador-santiago.aac
+#EXTINF:0, RADIO ADN (91.7 FM)
+http://77.67.109.164/ADN_SC
+#EXTINF:0, RADIO Agricultura (92.1 FM)
+http://agricultura-audio.dps.live/agricultura/mp3/icecast.audio
+#EXTINF:0, RADIO Agricultura (92.1 FM)[ALT]
+http://tunein.digitalproserver.com/agc921bb.aac
+#EXTINF:0, RADIO activa (92.5 FM)
+http://77.67.109.164/ACTIVA_SC
+#EXTINF:0, RADIO Universo (93.7 FM)
+http://tunein.digitalproserver.com/universobb.aac
+#EXTINF:0, RADIO Universo [ALT] (93.7 FM)
+rtmp://radio.cl.digitalproserver.com:443/universo/universolive/universo937.stream
+#EXTINF:0, RADIO Rock and Pop (94.1 FM)
+http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
+#EXTINF:0, RADIO Maxima (94.9 FM)
+http://198.27.65.159:9938/
+#EXTINF:0, RADIO FM Tiempo (95.9 FM)
+http://tunein.digitalproserver.com/fmtiempobb.mp3
+#EXTINF:0, RADIO Beethoven (96.5 FM)
+http://tunein.digitalproserver.com/beethovenbb.aac
+#EXTINF:0, RADIO Uno (97.1 FM)
+http://77.67.109.164/RADIO_UNO_SC
+#EXTINF:0, RADIO Zero (97.7 FM)
+http://tunein.digitalproserver.com/zerobb.aac
+#EXTINF:0, RADIO FM Dos (98.5 FM)
+http://77.67.109.164/FMDOS_SC
+#EXTINF:0, RADIO Carolina (99.3 FM)
+http://tunein.digitalproserver.com/carolinafmbb.aac
+#EXTINF:0, RADIO Bio-Bio La Radio Santiago (99.7 FM)
+http://ice.dallas.digitalproserver.com/biostgo
+#EXTINF:0, RADIO Bio-Bio la radio [ALT](99.7 FM)
+rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
+#EXTINF:0, RADIO Infinita (100.1 FM)
+http://tunein.digitalproserver.com/infinitabb.aac
+#EXTINF:0, RADIO Paula FM (100.5 FM)
+http://unlimited3-cl.digitalproserver.com/radiopaula/hls/index.m3u8
+#EXTINF:0, RADIO Corazon (101.3 FM)
+http://7349.live.streamtheworld.com/CORAZON_SC
+#EXTINF:0, RADIO Los 40 Principales (101.7 FM)
+http://77.67.109.164/LOS40_CHILE_SC
+#EXTINF:0, RADIO Oasis (102.1 FM)
+http://mp3.oasisfm.cl/;
+#EXTINF:0, RADIO U. de Chile (102.5 FM)
+http://stream4.rbm.cl:8080/;
+#EXTINF:0, RADIO Montecarlo (102.7 FM)
+http://iw.wolchile.net:8048/;
+#EXTINF:0, RADIO Romantica (104.1 FM)
+http://tunein.digitalproserver.com/romanticabb.mp3
+#EXTINF:0, RADIO Disney (104.9)*
+rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
+#EXTINF:0, RADIO Sonar (105.3)
+http://mp3.sonarfm.cl/;
+#EXTINF:0, RADIO Cooperativa (106.7 FM)
+http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio
+#EXTINF:0, RADIO Paula (106.9 FM)
+http://tunein.digitalproserver.com/paulafm.mp3
+#EXTINF:0, RADIO Dixi (106.9 FM)
+http://192.99.150.234:9940
+#EXTINF:0, RADIO Maxima (107.1 FM)
+http://198.27.65.159:9938/;
+#EXTINF:0, RADIO El Bosque (107.9 FM)
+http://104.236.248.181:8766
+#EXTINF:0, RADIO Maxima FM (88.1 FM Antofagasta)
+http://cast3.serverhost.cl:8764/;
+#EXTINF:0, RADIO Canal 95 (88.1 FM Antofagasta)
+http://sonando.us.digitalproserver.com/canal95_aac
+#EXTINF:0, RADIO FM OK (89.3 FM Antofagasta)
+http://streaming.fmokey.cl:8000/FmOkAT.mp3
+#EXTINF:0, RADIO Nostalgica (88.1 FM Copiapo)
+http://comunicacionespuntocreativo.cl:8000/nostalgica
+#EXTINF:0, RADIO Amiga (88.5 FM Vallenar)
+http://162.210.39.218:24662/;
+#EXTINF:0, RADIO Nuevo Mundo (88.9 FM Ovalle)
+http://s3.medionline.cl:7960/;
+#EXTINF:0, RADIO FM Mas (89.1 Arica)
+http://192.198.83.230:9976/;
+#EXTINF:0, RADIO Definitiva (90.5 FM Tocopilla)
+http://192.198.83.230:8772/;
+#EXTINF:0, RADIO Alegria del Transporte (90.9 FM Calama)
+http://s6.medionline.cl:9364/;
+#EXTINF:0, RADIO Panorama (90.9 FM Vallenar)
+http://s4.medionline.cl:8083/;
+#EXTINF:0, RADIO Maray (90.9 FM Copiapo)
+http://162.210.39.218:24250/;
+#EXTINF:0, RADIO Desierto FM (92.1 FM Antofagasta)
+http://167.114.208.100:9864/;stream1
+#EXTINF:0, RADIO Romina (92.5 FM Antofagasta)
+http://198.50.154.235:10246/;
+#EXTINF:0, RADIO Romina (92.5 FM Antofagasta)
+http://167.114.208.100:9844/;
+#EXTINF:0, RADIO Primavera FM (93.5 FM Arica)
+http://cast.radioservicios.cl:9350/web
+#EXTINF:0, RADIO Amanecer (93.7 FM Caldera)
+http://107.155.120.114:9954/;
+#EXTINF:0, RADIO Comunicativa (93.7 FM Ovalle)
+http://ip.audiostreaming.cl:9996/;
+#EXTINF:0, RADIO Carillon (94.1 FM Calama)
+http://74.222.0.41:8000/;
+#EXTINF:0, RADIO Genesis (94.1 FM Andacollo)
+http://stream5.eltelon.com/genesis-andacollo.aac
+#EXTINF:0, RADIO Rinconada (94.3 FM Mejillones)
+http://server4.radiostreaming.cl:8062/;
+#EXTINF:0, RADIO Almeyda (94.3 FM Diego de Almagro)
+http://192.99.18.164:9974/stream
+#EXTINF:0, RADIO Universitaria (94.5 FM  La Serena )
+http://radio.cic.userena.cl:8000/radio-uls
+#EXTINF:0, RADIO Parinacota (94.5 FM Iquique)
+http://95.154.254.157:15309
+#EXTINF:0, RADIO Antara (95.3 FM Copiapo)
+http://162.210.39.218:24284/;
+#EXTINF:0, RADIO Universidad de Tarapaca (95.9 FM Arica)
+http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
+#EXTINF:0, RADIO Carnaval Antofagasta (96.5 FM)
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+#EXTINF:0, RADIO Loactual (96.7 FM Calama)
+http://rs.comtic.net:8000/;
+#EXTINF:0, RADIO San Bartolome (96.7 FM La Serena)
+http://stream5.eltelon.com/san-bartolome.aac
+#EXTINF:0, RADIO 97 Uno Radio (97.1 FM Arica)
+http://stream5.eltelon.com/radio-97uno.aac
+#EXTINF:0, RADIO FM7 (Calama 97.3 - Antofagasta 89.7)
+http://198.50.154.235:10258/stream
+#EXTINF:0, RADIO Sol (97.7 FM Antofagasta)
+http://online.radiosol.cl:8000/;
+#EXTINF:0, RADIO Sol (97.7 FM Antofagasta)[ALT]
+http://stream5.eltelon.com/sol-radio.aac
+#EXTINF:0, RADIO Bahia (97.7 FM Caldera)
+http://195.154.182.222:26475/stream?type=.flv
+#EXTINF:0, RADIO Marcela (99.1 FM Huasco)
+http://xc1.adxradio.com:8002/;
+#EXTINF:0, RADIO Universidad de Antofagasta (99.9 FM)
+http://200.54.114.230:8000/;
+#EXTINF:0, RADIO Andina (100.1 FM Arica)
+http://192.198.83.230:9976/;
+#EXTINF:0, RADIO Mejillones FM (100.9 FM)
+http://s6.medionline.cl:8006/;
+#EXTINF:0, RADIO Festiva (100.9 FM Copiapo)
+http://s6.jcwebnew.com:8070/;
+#EXTINF:0, RADIO Madero (102.5 FM Antofagasta)
+http://200.111.175.34:5060/;
+#EXTINF:0, RADIO Okey (103.1 FM Copiapo)
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+#EXTINF:0, RADIO Centro FM (103.3 FM Antofagasta)
+http://stream5.eltelon.com/centro.aac
+#EXTINF:0, RADIO Pinamar (105.3 FM La Serena)
+http://184.107.188.34:8034/;
+#EXTINF:0, RADIO Plus FM (106.9 FM Antofagasta)
+http://sonando.us.digitalproserver.com/fmplus_aac
+#EXTINF:0, RADIO Candelaria (106.9 FM Tierra Amarilla)
+http://stream5.eltelon.com/candelaria.aac
+#EXTINF:0, RADIO Vida (103.7 FM Curic�)
+https://586bca6430c72.streamlock.net/radiovidatv/radiovidatv/chunklist_w503508576.m3u8
+#EXTINF:0, RADIO Diferencia (FM 89.3 Salamanca)
+http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
+#EXTINF:0, RADIO Carnaval (89.9 FM Vi�a del Mar)
+http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
+#EXTINF:0, RADIO Cobremar (89.9 FM Chanaral)
+http://stream5.eltelon.com/cobremar.aac
+#EXTINF:0, RADIO Amanda (94.9 FM Buin)
+http://amanda.cmtelcom.com/amanda128
+#EXTINF:0, RADIO Illapel (96.5 FM Illapel)
+http://200.111.113.18:8500/;
+#EXTINF:0, RADIO Paloma (97.5 FM - Talca)
+http://radio1.us.mediastre.am/paloma.aac
+#EXTINF:0, RADIO Futura FM (100.7 Talca)
+http://stream5.eltelon.com/futura.aac
+#EXTINF:0, RADIO La Voz De Yungay (102.7 FM �uble)
+http://99.198.110.162:7016/;
+#EXTINF:0, RADIO UCV FM (103.5 FM Valparaiso)
+rtmp://radio.cl.digitalproserver.com/ucvradio/ucvradiolive/ playpath=ucvradio.stream swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/latest/jwplayer.flash.swf?v=55 live=1 pageUrl=http://media.digitalproserver.com/v2/radio/ucvradio
+#EXTINF:0, RADIO Contacto (103.9 FM Talagante)
+http://184.107.188.34:8697
+#EXTINF:0, RADIO Bio Bio Temuco (88.1 FM Temuco)
+http://ice.dallas.digitalproserver.com/biotemu
+#EXTINF:0, RADIO 1 Latina (88.1 FM La Union)
+http://190.3.169.87:9918/;stream.mp3
+#EXTINF:0, RADIO FMLuz (88.3 FM Los Lagos)
+http://107.155.120.114:9924/;
+#EXTINF:0, RADIO Dona Ines (88.5 FM Concepcion)
+http://sc.digitalproserver.com:9534/;
+#EXTINF:0, RADIO Radio Nueva Jerusalen (88.7 FM Rio Bueno)
+http://radionuevajerusalen.mooo.com:8000/
+#EXTINF:0, RADIO FM Stylo (88.9 FM Quell�n)
+http://wowza.chiloestreaming.com:9122/
+#EXTINF:0, RADIO Mia 89.3 (FM Los Angeles)
+http://stream5.eltelon.com/mia.aac
+#EXTINF:0, RADIO Nuble (89.7 FM Chillan)
+http://198.50.154.235:7684
+#EXTINF:0, RADIO FM Mundo (89.9 FM La Union)
+http://s1.wmsoluciones.cl:9010/
+#EXTINF:0, RADIO UACH (90.1 FM Valdivia)
+http://centova.uach.cl:8000/centova.uach.cl
+#EXTINF:0, RADIO Radio MRG (90.1 FM Castro)
+http://streaming.chiloestreaming.com:9548/
+#EXTINF:0, RADIO Mirador (90.9 FM Lautaro)
+http://demo.dyndns.biz:8016/;
+#EXTINF:0, RADIO Centro FM (91.7 FM Gorbea)
+http://184.107.188.38:8040/;
+#EXTINF:0, RADIO Cari�osa (92.1 FM Chillan)
+http://stream5.eltelon.com/carinosa-chillan.aac
+#EXTINF:0, RADIO Sur (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+#EXTINF:0, RADIO Nueva Belen (92.3 FM Puerto Montt)
+http://stream5.eltelon.com/nueva-belen.aac
+#EXTINF:0, RADIO Entretenida FM (92.5 FM Vilcun)
+http://atanua.broadcastchile.cl:7000/;
+#EXTINF:0, RADIO Estrella del Mar (92.5 FM Ancud)
+http://stream5.eltelon.com:8000/estrella-del-mar-ancud.aac
+#EXTINF:0, RADIO Exquisita (93.1 Valdivia)
+http://stream5.eltelon.com/exquisita.aac
+#EXTINF:0, RADIO FM Siempre (93.1 FM Quell�n)
+http://giss.tv:8000/fmsiemprechiloe.mp3
+#EXTINF:0, RADIO Nuevo Amanecer (93.3 FM Fresia)
+http://62.210.203.78:8026/;
+#EXTINF:0, RADIO Del Lago FM (93.3 FM Futrono)
+http://servers58.com:7122/
+#EXTINF:0, RADIO FM Pulso (93.3 FM Lanco)
+http://192.99.16.17:3120/
+#EXTINF:0, RADIO Centinela (93.9 FM Yumbel)
+http://s3.medionline.cl:9964
+#EXTINF:0, RADIO Fenomenal (93.9 FM Coyhaique)
+http://stream5.eltelon.com/fenomenal.aac
+#EXTINF:0, RADIO Magistral (93.9 FM Galvarino)
+http://www.magistralfm.cl:9110/galvarino
+#EXTINF:0, RADIO Picarona (93.9 FM Villarrica)
+http://192.99.150.234:9890/stream
+#EXTINF:0, RADIO RayenFM (94.1 Rio Bueno)
+http://192.99.18.164:9998/;
+#EXTINF:0, RADIO SAGO Puerto Montt (94.1 FM Puerto Montt)
+http://184.107.165.66:9992/;stream.mp3
+#EXTINF:0, RADIO FM Siempre (94.3 FM Valdivia)
+http://167.114.119.122:9946/;
+#EXTINF:0, RADIO SAGO Osorno (94.5 FM Osorno)
+http://184.107.165.66:9974/;stream.mp3
+#EXTINF:0, RADIO Radio Nahuel (94.5 FM Castro)
+http://streaming.chiloestreaming.com:9142/
+#EXTINF:0, RADIO Soberania (94.5 FM Magallanes y Tierra del Fuego)
+http://stream5.eltelon.com/radio-soberania.aac
+#EXTINF:0, RADIO La Discusion (94.7 FM Chillan)
+http://stream5.eltelon.com/radio-la-discusion.aac
+#EXTINF:0, RADIO Universal (94.7 FM Temuco)
+http://184.107.188.36:80/universal-aac
+#EXTINF:0, RADIO FM Origen (94.7 Rio Bueno)
+http://stream5.eltelon.com/fm-origen.aac
+#EXTINF:0, RADIO Udec (95.1 FM Concepcion)
+http://radio.udec.cl:8000/radioudec
+#EXTINF:0, RADIO Coyhaique (95.3 FM Coyhaique)
+http://stream5.eltelon.com/radio-coyhaique.aac
+#EXTINF:0, RADIO Atractiva (FM 95.3 Concepcion)
+http://195.154.182.222:25753/atractiva
+#EXTINF:0, RADIO Diferencia (FM 95.3 Paillaco)
+http://5.9.65.9:8116
+#EXTINF:0, RADIO Diferencia (FM 95.3 Paillaco) Alt
+http://5.9.65.9:8166
+#EXTINF:0, RADIO Estrella de Mar (95.3 FM Achao)
+http://ip.audiostreaming.cl:9926/
+#EXTINF:0, RADIO La Pachanguera FM (95.7 FM La Union)
+http://192.99.150.42:8772/
+#EXTINF:0, RADIO El Conquistador Valdivia (95.7 Valdivia)
+http://stream5.eltelon.com/el-conquistador-valdivia.aac
+#EXTINF:0, RADIO Universidad de los Lagos (95.7 FM Osorno)
+http://radio.ulagos.cl:8000/radio_ulagos
+#EXTINF:0, RADIO Estilo (FM 95.9 Coyhaique)
+http://sc6.digitalproserver.com:7520/;
+#EXTINF:0, RADIO Araucana (95.9 FM Temuco)
+http://s6.medionline.cl:9180/;
+#EXTINF:0, RADIO C y S (96.3 FM Dalcahue)
+http://stream5.eltelon.com/c-y-s.aac
+#EXTINF:0, RADIO San Gabriel (96.3 FM Fresia)
+http://tv.portalfoxmix.club:1935/mu9932/default.stream/playlist.m3u8
+#EXTINF:0, RADIO Genesis (96.5 FM Curacautin)
+http://stream5.eltelon.com/genesis.aac
+#EXTINF:0, RADIO Musicoop (96.5 FM Osorno)
+http://200.27.116.179:8002
+#EXTINF:0, RADIO Para Ti (96.5 FM Puerto Montt)
+http://104.131.43.160:7208
+#EXTINF:0, RADIO Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+http://ice.dallas.digitalproserver.com/biola
+#EXTINF:0, RADIO Lago Ranco (96.9 FM Lago Ranco)
+http://radiolagoranco.noip.me:8888/
+#EXTINF:0, RADIO San Sebastian (97.3 FM Valdivia)
+http://stream5.eltelon.com/san-sebastian.aac
+#EXTINF:0, RADIO Sol Austral (97.7 FM Aysen)
+http://104.236.248.181:9986/;
+#EXTINF:0, RADIO Ventisqueros (97.7 FM Coyhaique)
+http://stream5.eltelon.com:8000/ventisqueros.aac
+#EXTINF:0, RADIO Bio Bio Concepcion (98.1 FM Concepcion)
+http://ice.dallas.digitalproserver.com/bioconcebb.aac
+#EXTINF:0, RADIO Pudeto FM (98.1 FM Ancud)
+http://stream5.eltelon.com/pudeto.aac
+#EXTINF:0, RADIO Camila (98.3 FM Los Angeles)
+http://stream5.eltelon.com:8000/archi-camila.aac
+#EXTINF:0, RADIO Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+#EXTINF:0, RADIO El Conquistador (98.9 FM Concepcion)
+http://stream5.eltelon.com/el-conquistador-concepcion.aac
+#EXTINF:0, RADIO Pilmaiquen (98.9 FM Valdivia)
+http://streaming.chiloestreaming.com:9190/
+#EXTINF:0, RADIO Digital FM (99.1 FM Punta Arenas)
+http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:0, RADIO Paraiso (99.1 FM Lago Ranco)
+http://radioparaiso.sytes.net:8888/
+#EXTINF:0, RADIO Libertad FM (99.1 FM Chonchi)
+http://streaming.chiloestreaming.com:9148/;
+#EXTINF:0, RADIO Arcoiris (99.3 FM Coyhaique)
+http://s6.jcwebnew.com:8120/;
+#EXTINF:0, RADIO Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+#EXTINF:0, RADIO Caramelo (99.5 FM Los Angeles)
+http://sc6.digitalproserver.com:8120/;
+#EXTINF:0, RADIO Macarena (99.7 FM Chillan)
+http://stream5.eltelon.com/macarena.aac
+#EXTINF:0, RADIO Nueva Genial (100.5 FM Coyhaique)
+http://s6.jcwebnew.com:7555/;
+#EXTINF:0, RADIO Quellon FM (100.5 FM Quellon)
+http://s3.medionline.cl:7932/;
+#EXTINF:0, RADIO Dinamica (100.7 FM Coronel)
+http://stream5.eltelon.com/dinamica.aac
+#EXTINF:0, RADIO Amiga (100.7 FM Calbuco)
+http://stream5.eltelon.com/amiga-fm.aac
+#EXTINF:0, RADIO Monte Carlo Sur (100.9 FM Angol)
+http://cast3.serverhost.cl:8784/;
+#EXTINF:0, RADIO Acogida (100.9 FM Entre Lagos)
+http://stream5.eltelon.com/radio-acogida-2.aac
+#EXTINF:0, RADIO 101.1FM (101.1 FM La Union)
+http://radio101fm.no-ip.info:8000/;
+#EXTINF:0, RADIO Atractiva FM (101.3 Los Lagos)
+http://stream5.eltelon.com/atractiva-fm.aac
+#EXTINF:0, RADIO Revelacion (101.5 FM Canete)
+http://stream5.eltelon.com/doble-r.aac
+#EXTINF:0, RADIO Acustica FM (101.5 FM Panguipulli)
+http://stream5.eltelon.com/acustica-fm.aac
+#EXTINF:0, RADIO RLP (La palabra)(101.5 FM Osorno)
+http://tv.portalfoxmix.club:1935/RLPFM1015/default.stream/playlist.m3u8
+#EXTINF:0, RADIO Genoveva FM (101.7 FM Valdivia)
+http://stream5.eltelon.com/genoveva.aac
+#EXTINF:0, RADIO Las Nieves (102.9 FM Puerto Aysen)
+http://s6.jcwebnew.com:7060/;
+#EXTINF:0, RADIO Antillanca (103.5 FM Osorno)
+http://107.155.120.114:9912/;
+#EXTINF:0, RADIO Lagos del Sur (103.7 FM Panguipulli)
+http://stream5.eltelon.com/archi-lagosdelsur.aac
+#EXTINF:0, RADIO Purranque (104.1 FM Purranque)
+http://104.131.43.160:8710
+#EXTINF:0, RADIO Supersol (104.5 FM Osorno)
+http://184.107.165.66:9970/
+#EXTINF:0, RADIO Picarona (104.7 FM Panguipulli)
+http://192.99.150.234:9882/stream
+#EXTINF:0, RADIO Estilo FM (104.7 FM Valdivia)
+http://sc5.digitalproserver.com:7520/
+#EXTINF:0, RADIO 1049 (FM 104.9 Pucon)
+http://audio.streaminghd.cl:8034/;
+#EXTINF:0, RADIO San Carlos (105.1 FM Chonchi)
+http://streaming.chiloestreaming.com:9146/
+#EXTINF:0, RADIO Positiva (FM 105.5 FM Concepcion)
+http://mimix.mercurio.cl:8000/concepcion2
+#EXTINF:0, RADIO Chaiten (105.7 FM Chaiten)
+http://5.9.65.9:8114/
+#EXTINF:0, RADIO Extrema (106.1 FM Puerto Saavedra)
+http://stream5.eltelon.com/radio-extrema.aac
+#EXTINF:0, RADIO Nativa (106.5 FM Lumaco)
+http://stream5.eltelon.com/nativa.aac
+#EXTINF:0, RADIO Corporacion (106.7 FM Valdivia)
+http://31.220.18.102:8008/;
+#EXTINF:0, RADIO Classica (106.7 FM Puerto Montt)
+http://01.solumedia.com.ar:8312/
+#EXTINF:0, RADIO Esperanza (106.9 FM Temuco)
+http://s6.jcwebnew.com:7800/;
+#EXTINF:0, RADIO Popular (107.3 FM Coihueco)
+http://192.99.150.234:9920/;
+#EXTINF:0, RADIO ETCHEGOYEN (107.3 FM TALCAHUANO )
+http://s3.medionline.cl:9960/
+#EXTINF:0, RADIO Creaciones (107.5 FM Temuco)
+http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+#EXTINF:0, RADIO Alas de Aguila (107.7 FM Puerto Montt)
+http://s3.medionline.cl:8056/;
+#EXTINF:0, RADIO Santiago (Orquestada) (690 AM)
+http://167.114.119.122:9982/;stream/1
+#EXTINF:0, RADIO Santiago (Romantica) (690 AM)
+http://167.114.119.122:9978/;stream/1
+#EXTINF:0, RADIO Nuevo Mundo (930 AM)
+http://184.107.179.162:9364
+#EXTINF:0, RADIO Portales (1180 AM)
+http://s6.jcwebnew.com:8060/stream
+#EXTINF:0, RADIO Concordia (820 AM La Union)
+http://s6.jcwebnew.com:7040/;
+#EXTINF:0, RADIO Reloncavi (930 AM Puerto Montt)
+http://167.114.208.100:9988/
+#EXTINF:0, RADIO Patagonia (970 AM Coyhaique)
+http://192.99.150.234:9876/;
+#EXTINF:0, RADIO Austral AM (970 AM Valdivia)
+http://stream5.eltelon.com/austral-am.aac
+#EXTINF:0, RADIO Chilena Concepcion (1030 AM)
+rtsp://servicioamerica.net/9692/default.stream
+#EXTINF:0, RADIO Radio Chilo� (1030 AM Castro) 
+http://streaming.chiloestreaming.com:9554/
+#EXTINF:0, RADIO UBB (1360 AM Concepcion)
+http://radioubb.cl:8000/online
+#EXTINF:0, RADIO Regional (1480 AM Valdivia)
+http://184.107.165.66:9954/;
+#EXTINF:0, RADIO RADIO SAN JOSE DE ALCUDIA (1540 AM Rio Bueno)
+http://ip.audiostreaming.cl:9920
+#EXTINF:0, RADIO Llacolen (1600 AM Concepcion)
+http://sc.digitalproserver.com:9532/;
+#EXTINF:0, RADIO RNE - Bomberos Santiago RM
+http://relay.broadcastify.com:80/486952222?xan=578426221C191798C2E2C60B0034E5E5
+#EXTINF:0, RADIO RNE - C.I.M.A.T. Chile 
+http://relay.broadcastify.com:80/317219253?xan=578426221C191798C2E2C60B0034E5E5
+#EXTINF:0, RADIO RNE - Red Chile Conectado C.I.M.A.T. Chile
+http://relay.broadcastify.com:80/595978158?xan=578426221C191798C2E2C60B0034E5E5
+#EXTINF:0, RADIO RNE - Bomberos Santiago y O.N.E.M.I.
+http://relay.broadcastify.com:80/640075795?xan=578426221C191798C2E2C60B0034E5E5
+#EXTINF:0, RADIO RNE - Centro Alerta Temprana (Radio Unida FM Chile)
+http://relay.broadcastify.com:80/300957107?xan=578426221C191798C2E2C60B0034E5E5
+#EXTINF:0, RADIO RNE - Centro de Comunicaciones BioBio
+http://relay.broadcastify.com:80/441010388?xan=578426221C191798C2E2C60B0034E5E5
+#EXTINF:0, RADIO NIU Radio
+http://live-origin.us.niu.cl/niu_radio.aac
+#EXTINF:0, RADIO NIU POP
+http://live-origin.us.niu.cl/niu_pop.aac
+#EXTINF:0, RADIO NIU Indie
+http://live-origin.us.niu.cl/niu_indie.aac
+#EXTINF:0, RADIO NIU Rock
+http://live-origin.us.niu.cl/niu_rock.aac
+#EXTINF:0, RADIO NIU CL
+http://live-origin.us.niu.cl/niu_cl.aac
+#EXTINF:0, RADIO NIU 80s
+http://live-origin.us.niu.cl/niu_80s.aac
+#EXTINF:0, RADIO NIU 90s
+http://live-origin.us.niu.cl/niu_90s.aac
+#EXTINF:0, RADIO Niu LIVE
+http://live-origin.us.niu.cl/niu_live.aac
+#EXTINF:0, RADIO Club 80 (Online)
+http://s3.medionline.cl:7702
+#EXTINF:0, RADIO FMBox (Online)
+http://stream.fmbox.cl:9994
+#EXTINF:0, RADIO Candela FM (Online)
+http://tunein.digitalproserver.com/candelabb.aac
+#EXTINF:0, RADIO Rockaxis (Online)
+http://radio.cl.mediastre.am/rockaxis.aac
+#EXTINF:0, RADIO Galaxia (Online)
+http://sscl.denialstream.com:8830/;stream/1.mp3
+#EXTINF:0, RADIO Anglo Latina (Online)
+http://streaming.radioanglolatina.com:8012/;
+#EXTINF:0, RADIO Picarona (Solo Musica)
+http://192.99.150.234:9884/
+#EXTINF:0, RADIO Mundo 80
+http://184.107.165.66:6020/
+#EXTINF:0, RADIO Educa
+http://190.3.168.130:9020/
+#EXTINF:0, RADIO FM Mix (Online)
+http://audio.crearchile.info:9800/
+#EXTINF:0, FMJOVEN
+http://200.24.229.253:8040/
+#EXTINF:0, RADIO Siente (Online Arica)
+http://radio1.us.mediastre.am/siente.aac
+#EXTINF:0, RADIO Celeste (Online Copiapo)
+http://s6.jcwebnew.com:7006/;
+#EXTINF:0, RADIO Aternativa FM (Online Huasco)
+http://play.enhd.co:7024/;
+#EXTINF:0, RADIO La Mejor (Online Rancagua)
+http://107.155.120.114:9944/;
+#EXTINF:0, RADIO Concepcion (Online)
+http://ip.audiostreaming.cl:9764/;
+#EXTINF:0, RADIO Riquelme Coquimbo (Online)
+http://162.210.39.218:24666/;
+#EXTINF:0, RADIO UCT Radio Temuco (Online)
+http://audio.uctradio.cl/radio
+#EXTINF:0, RADIO Radio Vida (Online Paillaco)
+http://stm40.srvstm.com:20762/
+#EXTINF:0, RADIO Cool HD - 103.7 TV (Argentina)
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:0, RADIO Radio America Guayaquil (Ecuador)
+http://audiohostingecuador.com:1935/radioamericaguayaquil/radioamericaguayaquil/playlist.m3u8
+#EXTINF:0, RADIO Radio America Quito (Ecuador)
+http://audiohostingecuador.com:1935/radioamericaquito/radioamericaquito/playlist.m3u8
+#EXTINF:0, RADIO The Beat 104.1 FM Barbados
+http://starcom.videocdn.scaleengine.net/starcom-iphone/play/thebeat.smil/playlist.m3u8
+#EXTINF:0, RADIO Disco (88.9 FM)
+http://77.68.54.175:8012
+#EXTINF:0, RADIO Radio Caracol (590 AM Concepcion)
+http://208.80.54.40/CARACOL_RADIOAAC_SC
+#EXTINF:0, I Love Radio | Alemania
+http://stream12.iloveradio.de/iloveradio1-aac.mp3
+#EXTINF:0, I Love Radio Dance | Alemania
+http://stream12.iloveradio.de/iloveradio2-aac.mp3
+#EXTINF:0, I Love Radio Battle | Alemania
+http://stream12.iloveradio.de/iloveradio3-aac.mp3
+#EXTINF:0, I Love Radio Charts | Alemania
+http://stream12.iloveradio.de/iloveradio9-aac.mp3
+#EXTINF:0, I Love Radio Mashup | Alemania
+http://stream12.iloveradio.de/iloveradio5-aac.mp3
+#EXTINF:0, I Love Radio Bass | Alemania
+http://stream12.iloveradio.de/iloveradio4-aac.mp3
+#EXTINF:0, I Love Radio Pop | Alemania
+http://stream12.iloveradio.de/iloveradio10-aac.mp3
+#EXTINF:0, Radio Onda Cero
+http://192.99.148.184:6720
+#EXTINF:0, Radio Panamericana
+http://192.99.148.184:6710
+#EXTINF:0, Radio Huancayo
+http://212.83.146.67:7208
+#EXTINF:0, Radio Antena Sur
+http://108.178.57.196:8047/listen.pls
+#EXTINF:0, Radio Peru Folk
+http://gnstreammedia.net:8020/;
+#EXTINF:0, Radio 1550
+http://212.83.146.67:7212
+#EXTINF:0, Radio San Francisco Sullana
+http://167.114.118.119:7324
+#EXTINF:0, Radio La Riberena
+http://167.114.118.120:7274
+#EXTINF:0, Radio La Karibena
+http://167.114.118.120:7442/
+#EXTINF:0, Radio Perucumbia
+http://67.212.179.138:8144
+#EXTINF:0, Radio Sabor
+http://167.114.118.120:7686
+#EXTINF:0, Radio Sabor Mix
+http://167.114.118.120:7442
+#EXTINF:0, Radio Comas
+http://65.60.2.26:8044
+#EXTINF:0, Radio La Kalle
+http://167.114.118.120:7448
+#EXTINF:0, Radio Moda
+http://19253.live.streamtheworld.com/CRP_MOD_SC
+#EXTINF:0, Radio Nueva Q
+http://19253.live.streamtheworld.com/CRP_NQ
+#EXTINF:0, Radio Canto Grande
+http://65.60.2.26:8050
+#EXTINF:0, Radio Nova Piura
+http://playservistream.net:8054/;
+#EXTINF:0, Radio Nova Trujillo
+http://67.212.179.138:7064
+#EXTINF:0, Radio Bacan
+http://46.4.33.73:5244
+#EXTINF:0, Radiomar Plus
+http://18323.live.streamtheworld.com/CRP_MARAAC.aac
+#EXTINF:0, Radio Del Callao
+http://195.154.56.114:7060
+#EXTINF:0, Radio La Clave
+http://104.247.209.218:30890
+#EXTINF:0, Radio Corazon
+http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamCORRD/_definst_/live.m3u8
+#EXTINF:0, Radio La Zona
+http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamLZORD/_definst_/live.m3u8
+#EXTINF:0, Radio Studio 92
+http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamST9RD/_definst_/live.m3u8
+#EXTINF:0, Radio Oxigeno
+http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamOXIRD/_definst_/live.m3u8
+#EXTINF:0, Radio Z Rock & Pop
+http://167.114.118.120:7440
+#EXTINF:0, Radio Oasis
+http://16813.live.streamtheworld.com/CRP_OASAAC.aac
+#EXTINF:0, Radio 1160
+http://perseo.sistemas4g.com:3624
+#EXTINF:0, Radio Rock & Pop
+http://ample-zeno-01.radiojar.com/w4ygscfgkhwtv?rj-ttl=5&rj-token=AAABXW16Zpm2iYqycuXiKQZmc27wGucpFxIo4HcCjZpe 980otcG1yA
+#EXTINF:0, Radio Felicidad
+http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamFELRD/_definst_/live.m3u8
+#EXTINF:0, Radio Romantica
+http://19793.live.streamtheworld.com/CRP_RITAAC.aac
+#EXTINF:0, Radio La Inolvidable
+http://19483.live.streamtheworld.com/CRP_LIAAC.aac
+#EXTINF:0, Radio Latidos
+http://ip.peruhits.com:7230
+#EXTINF:0, Radio Amor
+http://167.114.118.120:7450
+#EXTINF:0, Radio Exitosa
+http://167.114.118.120:7444
+#EXTINF:0, Radio Capital
+http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamCAPRD/_definst_/live.m3u8
+#EXTINF:0, Radio RPP
+http://gruporemux-live.hls.adaptive.level3.net/hls-live/gruporemux-streamRPPRD/_definst_/live.m3u8
+#EXTINF:0, Radio Activa
+http://212.129.33.202:9672
+#EXTINF:0, 2pm
+http://188.138.17.52:8000/two_pm-hi|user-agent=winplaypcradio405
+#EXTINF:0, 2Pac
+http://188.138.17.52:8000/pac2-hi|user-agent=winplaypcradio405
+#EXTINF:0, 30 Seconds to Mars
+http://188.138.17.52:8000/thirty_Seconds_To_Mars-hi|user-agent=winplaypcradio405
+#EXTINF:0, 50 Cent
+http://188.138.17.52:8000/fifty_Cent-hi|user-agent=winplaypcradio405
+#EXTINF:0, A-ha
+http://188.138.17.52:8000/aha-hi|user-agent=winplaypcradio405
+#EXTINF:0, ABBA
+http://188.138.17.52:8000/Abba-hi|user-agent=winplaypcradio405
+#EXTINF:0, ACDC
+http://188.138.17.52:8000/ACDC-hi|user-agent=winplaypcradio405
+#EXTINF:0, ATB
+http://188.138.17.52:8000/ATB-hi|user-agent=winplaypcradio405
+#EXTINF:0, Ace Of Base
+http://188.138.17.52:8000/Ace_Of_Base-hi|user-agent=winplaypcradio405
+#EXTINF:0, Adele
+http://188.138.17.52:8000/Adele-hi|user-agent=winplaypcradio405
+#EXTINF:0, Adriano Celentano
+http://188.138.17.52:8000/Chelentano-hi|user-agent=winplaypcradio405
+#EXTINF:0, Alexander Bard Projects
+http://188.138.17.52:8000/Alexander_Bard_Projects-hi|user-agent=winplaypcradio405
+#EXTINF:0, Anna Vissi
+http://188.138.17.52:8000/Anna_Vissi-hi|user-agent=winplaypcradio405
+#EXTINF:0, Anuryzm
+http://188.138.17.52:8000/Anuryzm_uae-hi|user-agent=winplaypcradio405
+#EXTINF:0, Aqua
+http://188.138.17.52:8000/Aqua-hi|user-agent=winplaypcradio405
+#EXTINF:0, Armin van Buuren
+http://188.138.17.52:8000/Armin_van_buuren-hi|user-agent=winplaypcradio405
+#EXTINF:0, B.B. King
+http://188.138.17.52:8000/BB_King-hi|user-agent=winplaypcradio405
+#EXTINF:0, Backstreet Boys
+http://188.138.17.52:8000/Backstreet_Boys-hi|user-agent=winplaypcradio405
+#EXTINF:0, Bad Boys Blue
+http://188.138.17.52:8000/Bad_Boys_Blue-hi|user-agent=winplaypcradio405
+#EXTINF:0, Beach Boys
+http://188.138.17.52:8000/The_Beach_Boys-hi|user-agent=winplaypcradio405
+#EXTINF:0, Beyonce
+http://188.138.17.52:8000/Beyonce-hi|user-agent=winplaypcradio405
+#EXTINF:0, Boney M.
+http://188.138.17.52:8000/BoneyM-hi|user-agent=winplaypcradio405
+#EXTINF:0, Brandon Stone
+http://188.138.17.52:8000/Brandon_Stone-hi|user-agent=winplaypcradio405
+#EXTINF:0, Breaking Orbit
+http://188.138.17.52:8000/Breaking_orbit_aus-hi|user-agent=winplaypcradio405
+#EXTINF:0, Britney Spears
+http://188.138.17.52:8000/Britney_Spears-hi|user-agent=winplaypcradio405
+#EXTINF:0, Bruno Mars
+http://188.138.17.52:8000/Bruno_Mars-hi|user-agent=winplaypcradio405
+#EXTINF:0, C. C. Catch
+http://188.138.17.52:8000/C_C_Catch-hi|user-agent=winplaypcradio405
+#EXTINF:0, Cardigans
+http://188.138.17.52:8000/The_Cardigans-hi|user-agent=winplaypcradio405
+#EXTINF:0, Celine Dion
+http://188.138.17.52:8000/Celine_Dion-hi|user-agent=winplaypcradio405
+#EXTINF:0, Christian Lais
+http://188.138.17.52:8000/Christian_Lais-hi|user-agent=winplaypcradio405
+#EXTINF:0, Corroded
+http://188.138.17.52:8000/Corroded_swe-hi|user-agent=winplaypcradio405
+#EXTINF:0, Creedence
+http://188.138.17.52:8000/Creedence-hi|user-agent=winplaypcradio405
+#EXTINF:0, DDBY
+http://188.138.17.52:8000/DDBY-hi|user-agent=winplaypcradio405
+#EXTINF:0, DJ BoBo
+http://188.138.17.52:8000/DJ_BoBo-hi|user-agent=winplaypcradio405
+#EXTINF:0, DMX
+http://188.138.17.52:8000/DMX-hi|user-agent=winplaypcradio405
+#EXTINF:0, Darren Hayes
+http://188.138.17.52:8000/Darren_Hayes-hi|user-agent=winplaypcradio405
+#EXTINF:0, David Guetta
+http://188.138.17.52:8000/David_Guetta-hi|user-agent=winplaypcradio405
+#EXTINF:0, Dean Martin
+http://188.138.17.52:8000/Dean_Martin-hi|user-agent=winplaypcradio405
+#EXTINF:0, Deathstars
+http://188.138.17.52:8000/Deathstars_swe-hi|user-agent=winplaypcradio405
+#EXTINF:0, Deep Forest
+http://188.138.17.52:8000/Deep_forest-hi|user-agent=winplaypcradio405
+#EXTINF:0, Deep Purple
+http://188.138.17.52:8000/Deep_purple-hi|user-agent=winplaypcradio405
+#EXTINF:0, Demi Lovato
+http://188.138.17.52:8000/Demi_Lovato-hi|user-agent=winplaypcradio405
+#EXTINF:0, Demon Hunter
+http://188.138.17.52:8000/Demon_hunter_usa-hi|user-agent=winplaypcradio405
+#EXTINF:0, Depeche Mode
+http://188.138.17.52:8000/Depeche_Mode-hi|user-agent=winplaypcradio405
+#EXTINF:0, Dido
+http://188.138.17.52:8000/Dido-hi|user-agent=winplaypcradio405
+#EXTINF:0, Dr. Alban
+http://188.138.17.52:8000/Dr_Alban-hi|user-agent=winplaypcradio405
+#EXTINF:0, Dragon Ash
+http://188.138.17.52:8000/Dragon_Ash-hi|user-agent=winplaypcradio405
+#EXTINF:0, Eagle Eye Cherry
+http://188.138.17.52:8000/Eagle_Eye_Cherry-hi|user-agent=winplaypcradio405
+#EXTINF:0, Elton John
+http://188.138.17.52:8000/Elton_John-hi|user-agent=winplaypcradio405
+#EXTINF:0, Elvis Presley
+http://88.138.17.52:8000/Elvis_Presley-hi|user-agent=winplaypcradio405
+#EXTINF:0, Eminem
+http://188.138.17.52:8000/Eminem-hi|user-agent=winplaypcradio405
+#EXTINF:0, Emma Shapplin
+http://188.138.17.52:8000/Emma_Shapplin-hi|user-agent=winplaypcradio405
+#EXTINF:0, Enigma
+http://188.138.17.52:8000/Enigma-hi|user-agent=winplaypcradio405
+#EXTINF:0, Ennio Morricone
+http://188.138.17.52:8000/Ennio_Morricone-hi|user-agent=winplaypcradio405
+#EXTINF:0, Enrique Iglesias
+http://188.138.17.52:8000/Enrique_Iglesias-hi|user-agent=winplaypcradio405
+#EXTINF:0, Era
+http://188.138.17.52:8000/Era-hi|user-agent=winplaypcradio405
+#EXTINF:0, Evanescence
+http://188.138.17.52:8000/Evanescence-hi|user-agent=winplaypcradio405
+#EXTINF:0, Fatboy Slim
+http://188.138.17.52:8000/Fatboy_Slim-hi|user-agent=winplaypcradio405
+#EXTINF:0, Fiction Junction
+http://188.138.17.52:8000/Fiction_Junction-hi|user-agent=winplaypcradio405
+#EXTINF:0, Foreigner
+http://188.138.17.52:8000/Foreigner-hi|user-agent=winplaypcradio405
+#EXTINF:0, Frank Duval
+http://188.138.17.52:8000/Frank_Duval-hi|user-agent=winplaypcradio405
+#EXTINF:0, Free Spirit
+http://188.138.17.52:8000/Free_spirit_fin-hi|user-agent=winplaypcradio405
+#EXTINF:0, Gamma Ray
+http://188.138.17.52:8000/Gamma_Ray-hi|user-agent=winplaypcradio405
+#EXTINF:0, George Michael
+http://188.138.17.52:8000/George_Michael-hi|user-agent=winplaypcradio405
+#EXTINF:0, Giorgos Mazonakis
+http://188.138.17.52:8000/Giorgos_Mazonakis-hi|user-agent=winplaypcradio405
+#EXTINF:0, Gipsy Kings
+http://188.138.17.52:8000/Gipsy_Kings-hi|user-agent=winplaypcradio405
+#EXTINF:0, Godsmack
+http://188.138.17.52:8000/Godsmack-hi|user-agent=winplaypcradio405
+#EXTINF:0, Gorillaz
+http://188.138.17.52:8000/Gorillaz-hi|user-agent=winplaypcradio405
+#EXTINF:0, Guf
+http://188.138.17.52:8000/Guf-hi|user-agent=winplaypcradio405
+#EXTINF:0, Hi-Fi
+http://188.138.17.52:8000/Hi_fi-hi|user-agent=winplaypcradio405
+#EXTINF:0, IA
+http://188.138.17.52:8000/IA-hi|user-agent=winplaypcradio405
+#EXTINF:0, James Blunt
+http://188.138.17.52:8000/James_Blunt-hi|user-agent=winplaypcradio405
+#EXTINF:0, Jean Michel Jarre
+http://188.138.17.52:8000/Jean_Michel_Jarre-hi|user-agent=winplaypcradio405
+#EXTINF:0, Jessica Jay
+http://188.138.17.52:8000/Jessica_Jay-hi|user-agent=winplaypcradio405
+#EXTINF:0, Joe Dassin
+http://188.138.17.52:8000/Joe_Dassin-hi|user-agent=winplaypcradio405
+#EXTINF:0, John Lee Hooker
+http://188.138.17.52:8000/John_Lee_Hooker-hi|user-agent=winplaypcradio405
+#EXTINF:0, Johnny Cash
+http://188.138.17.52:8000/Johnny_CASH-hi|user-agent=winplaypcradio405
+#EXTINF:0, Josh Groban
+http://188.138.17.52:8000/Josh_Groban-hi|user-agent=winplaypcradio405
+#EXTINF:0, Justin Timberlake
+http://188.138.17.52:8000/Justin_Timberlake-hi|user-agent=winplaypcradio405
+#EXTINF:0, Kate Ryan
+http://188.138.17.52:8000/Kate_Ryan-hi|user-agent=winplaypcradio405
+#EXTINF:0, Katy Perry
+http://188.138.17.52:8000/Katy_Perry-hi|user-agent=winplaypcradio405
+#EXTINF:0, Kelly Clarkson
+http://188.138.17.52:8000/Kelly_Clarkson-hi|user-agent=winplaypcradio405
+#EXTINF:0, Kesha
+http://188.138.17.52:8000/Kesha-hi|user-agent=winplaypcradio405
+#EXTINF:0, King Crimson
+http://188.138.17.52:8000/King_Crimson-hi|user-agent=winplaypcradio405
+#EXTINF:0, Kiss
+http://188.138.17.52:8000/Kiss-hi|user-agent=winplaypcradio405
+#EXTINF:0, Krec
+http://188.138.17.52:8000/Krec-hi|user-agent=winplaypcradio405
+#EXTINF:0, Kylie Minogue
+http://188.138.17.52:8000/Kylie_Minogue-hi|user-agent=winplaypcradio405
+#EXTINF:0, Lady Gaga
+http://188.138.17.52:8000/Lady_GaGa-hi|user-agent=winplaypcradio405
+#EXTINF:0, Lana Del Rey
+http://188.138.17.52:8000/Lana_Del_rey-hi|user-agent=winplaypcradio405
+#EXTINF:0, Lara Fabian
+http://188.138.17.52:8000/Lara_Fabian-hi|user-agent=winplaypcradio405
+#EXTINF:0, Led Zeppelin
+http://188.138.17.52:8000/Led_Zeppelin-hi|user-agent=winplaypcradio405
+#EXTINF:0, Lei Ting
+http://188.138.17.52:8000/Lei_Ting-hi|user-agent=winplaypcradio405
+#EXTINF:0, Li Yi Jun
+http://188.138.17.52:8000/Li_Yi_Jun-hi|user-agent=winplaypcradio405
+#EXTINF:0, Lily Allen
+http://188.138.17.52:8000/Lily_Allen-hi|user-agent=winplaypcradio405
+#EXTINF:0, Linkin Park
+http://188.138.17.52:8000/Linkin_Park-hi|user-agent=winplaypcradio405
+#EXTINF:0, Louis Armstrong
+http://188.138.17.52:8000/Louis_Armstrong-hi|user-agent=winplaypcradio405
+#EXTINF:0, Louna
+http://188.138.17.52:8000/Louna-hi|user-agent=winplaypcradio405
+#EXTINF:0, Madonna
+http://188.138.17.52:8000/Madonna-hi|user-agent=winplaypcradio405
+#EXTINF:0, Manowar
+http://188.138.17.52:8000/Manowar-hi|user-agent=winplaypcradio405
+#EXTINF:0, Maria Rita
+http://188.138.17.52:8000/Maria_Rita-hi|user-agent=winplaypcradio405
+#EXTINF:0, Marilyn Manson
+http://188.138.17.52:8000/Marilyn_Manson-hi|user-agent=winplaypcradio405
+#EXTINF:0, Mazzy Star
+http://188.138.17.52:8000/Mazzy_Star-hi|user-agent=winplaypcradio405
+#EXTINF:0, Metallica
+http://188.138.17.52:8000/Metallica-hi|user-agent=winplaypcradio405
+#EXTINF:0, Michael Jackson
+http://188.138.17.52:8000/Michael_Jackson-hi|user-agent=winplaypcradio405
+#EXTINF:0, Mika
+http://188.138.17.52:8000/Mika-hi|user-agent=winplaypcradio405
+#EXTINF:0, Moby
+http://188.138.17.52:8000/Moby-hi|user-agent=winplaypcradio405
+#EXTINF:0, Modern Talking
+http://188.138.17.52:8000/Modern_Talking-hi|user-agent=winplaypcradio405
+#EXTINF:0, Mr. Credo
+http://188.138.17.52:8000/mr_CREDO-hi|user-agent=winplaypcradio405
+#EXTINF:0, Mylene Farmer
+http://188.138.17.52:8000/Mylene_Farmer-hi|user-agent=winplaypcradio405
+#EXTINF:0, Namie Amuro
+http://188.138.17.52:8000/Namie_Amuro-hi|user-agent=winplaypcradio405
+#EXTINF:0, Nazareth
+http://188.138.17.52:8000/Nazareth-hi|user-agent=winplaypcradio405
+#EXTINF:0, Nek
+http://188.138.17.52:8000/Nek-hi|user-agent=winplaypcradio405
+#EXTINF:0, Nelly Furtado
+http://188.138.17.52:8000/Nelly_Furtado-hi|user-agent=winplaypcradio405
+#EXTINF:0, Nightwish
+http://188.138.17.52:8000/Nightwish-hi|user-agent=winplaypcradio405
+#EXTINF:0, Nirvana
+http://188.138.17.52:8000/Nirvana-hi|user-agent=winplaypcradio405
+#EXTINF:0, Omar Akram
+http://188.138.17.52:8000/Omar-hi|user-agent=winplaypcradio405
+#EXTINF:0, One Direction
+http://188.138.17.52:8000/One_Direction-hi|user-agent=winplaypcradio405
+#EXTINF:0, Origa
+http://188.138.17.52:8000/Origa-hi|user-agent=winplaypcradio405
+#EXTINF:0, Paco de Lucia
+http://188.138.17.52:8000/Paco_de_Lucia-hi|user-agent=winplaypcradio405
+#EXTINF:0, Pain
+http://188.138.17.52:8000/Pain-hi|user-agent=winplaypcradio405
+#EXTINF:0, Pantera
+http://188.138.17.52:8000/Pantera-hi|user-agent=winplaypcradio405
+#EXTINF:0, Patricia Kaas
+http://188.138.17.52:8000/Patricia_Kaas-hi|user-agent=winplaypcradio405
+#EXTINF:0, Pendulum
+http://188.138.17.52:8000/Pendulum-hi|user-agent=winplaypcradio405
+#EXTINF:0, Peng Li Yuan
+http://188.138.17.52:8000/Peng_Li_Yuan-hi|user-agent=winplaypcradio405
+#EXTINF:0, Phil Collins
+http://188.138.17.52:8000/phil_collins-hi|user-agent=winplaypcradio405
+#EXTINF:0, Pink Floyd
+http://188.138.17.52:8000/Pink_Floyd-hi|user-agent=winplaypcradio405
+#EXTINF:0, Queen
+http://188.138.17.52:8000/Queen-hi|user-agent=winplaypcradio405
+#EXTINF:0, R.E.M.
+http://188.138.17.52:8000/R.E.M-hi|user-agent=winplaypcradio405
+#EXTINF:0, Rainbow
+http://188.138.17.52:8000/Rainbow-hi|user-agent=winplaypcradio405
+#EXTINF:0, Rammstein 18+
+http://188.138.17.52:8000/Rammstein-hi|user-agent=winplaypcradio405
+#EXTINF:0, Richard Clayderman
+http://188.138.17.52:8000/Richard_Clayderman-hi|user-agent=winplaypcradio405
+#EXTINF:0, Rihanna
+http://188.138.17.52:8000/Rihanna-hi|user-agent=winplaypcradio405
+#EXTINF:0, Robbie Williams
+http://188.138.17.52:8000/Robbie_Williams-hi|user-agent=winplaypcradio405
+#EXTINF:0, Robert Miles
+http://188.138.17.52:8000/Robert_Miles-hi|user-agent=winplaypcradio405
+#EXTINF:0, Robyn
+http://188.138.17.52:8000/Robyn-hi|user-agent=winplaypcradio405
+#EXTINF:0, Roxette
+http://188.138.17.52:8000/Roxette-hi|user-agent=winplaypcradio405
+#EXTINF:0, Sade
+http://188.138.17.52:8000/Sade-hi|user-agent=winplaypcradio405
+#EXTINF:0, Sandra
+http://188.138.17.52:8000/Sandra-hi|user-agent=winplaypcradio405
+#EXTINF:0, Sasaki Sayaka
+http://188.38.17.52:8000/Sasaki_Sayaka-hi|user-agent=winplaypcradio405
+#EXTINF:0, Schiller
+http://188.138.17.52:8000/Schiller-hi|user-agent=winplaypcradio405
+#EXTINF:0, Scooter
+http://188.138.17.52:8000/Scooter-hi|user-agent=winplaypcradio405
+#EXTINF:0, Scorpions
+http://188.138.17.52:8000/Scorpions-hi|user-agent=winplaypcradio405
+#EXTINF:0, Sepultura
+http://188.138.17.52:8000/Sepultura-hi|user-agent=winplaypcradio405
+#EXTINF:0, Shakira
+http://188.138.17.52:8000/Shakira-hi|user-agent=winplaypcradio405
+#EXTINF:0, Skrillex
+http://188.138.17.52:8000/Skrillex-hi|user-agent=winplaypcradio405
+#EXTINF:0, Slipknot
+http://188.138.17.52:8000/SlipKnot-hi|user-agent=winplaypcradio405
+#EXTINF:0, Soldier
+http://188.138.17.52:8000/Soldier-hi|user-agent=winplaypcradio405
+#EXTINF:0, Soulfly
+http://188.138.17.52:8000/Soulfly-hi|user-agent=winplaypcradio405
+#EXTINF:0, Spice Girls
+http://188.138.17.52:8000/Spice_Girls-hi|user-agent=winplaypcradio405
+#EXTINF:0, Sugababes
+http://188.138.17.52:8000/Sugababes-hi|user-agent=winplaypcradio405
+#EXTINF:0, System of a Down
+http://188.138.17.52:8000/System_of_a_down-hi|user-agent=winplaypcradio405
+#EXTINF:0, Tarja Turunen
+http://188.138.17.52:8000/Tarja_turunen-hi|user-agent=winplaypcradio405
+#EXTINF:0, The Beatles
+http://188.38.17.52:8000/The_Beatles-hi|user-agent=winplaypcradio405
+#EXTINF:0, The Corrs
+http://188.138.17.52:8000/The_Corrs-hi|user-agent=winplaypcradio405
+#EXTINF:0, The Gun Club
+http://188.138.17.52:8000/The_Gun_Club-hi|user-agent=winplaypcradio405
+#EXTINF:0, The Notorious
+http://188.138.17.52:8000/The_Notorious-hi|user-agent=winplaypcradio405
+#EXTINF:0, The Prodigy
+http://188.138.17.52:8000/The_Prodigy-hi|user-agent=winplaypcradio405
+#EXTINF:0, Tiesto
+http://188.138.17.52:8000/Tiesto-hi|user-agent=winplaypcradio405
+#EXTINF:0, Tom Waits
+http://188.138.17.52:8000/Tom_Waits-hi|user-agent=winplaypcradio405
+#EXTINF:0, Tori Amos
+http://188.138.17.52:8000/Tori_Amos-hi|user-agent=winplaypcradio405
+#EXTINF:0, Toto Cutugno
+http://188.138.17.52:8000/Toto_Cutugno-hi|user-agent=winplaypcradio405
+#EXTINF:0, Ultimate spinach
+http://188.138.17.52:8000/Ultimate-hi|user-agent=winplaypcradio405
+#EXTINF:0, Uma2rmaH
+http://188.138.17.52:8000/Uma2rmaH-hi|user-agent=winplaypcradio405
+#EXTINF:0, Vanessa-Mae
+http://188.138.17.52:8000/Vanessa_Mae-hi|user-agent=winplaypcradio405
+#EXTINF:0, Velvet Acid Christ
+http://188.138.17.52:8000/Velvet_Acid_Christ-hi|user-agent=winplaypcradio405
+#EXTINF:0, Within Temptation
+http://188.138.17.52:8000/Within_Temptation-hi|user-agent=winplaypcradio405
+#EXTINF:0, Yanni
+http://188.138.17.52:8000/Yanni-hi|user-agent=winplaypcradio405
+#EXTINF:0, Yello
+http://188.138.17.52:8000/Yello-hi|user-agent=winplaypcradio405
+#EXTINF:0, Yiruma
+http://188.138.17.52:8000/Yurima-hi|user-agent=winplaypcradio405
+#EXTINF:0, Zdob si Zdub
+http://188.138.17.52:8000/Zdob_si_Zdub-hi|user-agent=winplaypcradio405
+#EXTINF:0, Zutokine
+http://188.138.17.52:8000/Zutokine-hi|user-agent=winplaypcradio405
+#EXTINF:0, LOLLAPALOOZA CHICAGO 2017 CHANNEL 1
+https://liveredbulltv02-i.akamaihd.net/hls/live/518923/2017LollaPriCh1/master.m3u8
+#EXTINF:0, Wacken Open Air
+https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_5/magentamusik1.m3u8
+#EXTINF:0, Taquilla 0
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_mega_movieshd/chunklist.m3u8
+#EXTINF:0, Taquilla 1
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cinescape/chunklist.m3u8
+#EXTINF:0, Taquilla 2
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
+#EXTINF:0, Taquilla 3
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_star/chunklist.m3u8
+#EXTINF:0, Taquilla 4
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_lcreme_staff/chunklist.m3u8
+#EXTINF:0, Taquilla 5
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_mega_extremo/chunklist.m3u8
+#EXTINF:0, Taquilla 6
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_morena_channels12/chunklist.m3u8
+#EXTINF:0, Taquilla 7
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_zonafilmsterror/chunklist.m3u8
+#EXTINF:0, Taquilla 8
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_broadmovieshd/chunklist.m3u8
+#EXTINF:0, Taquilla 9
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_calidad/chunklist.m3u8
+#EXTINF:0, Taquilla 10
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cienciaficcion/chunklist.m3u8
+#EXTINF:0, Taquilla 11
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_eldolape/chunklist.m3u8
+#EXTINF:0, Taquilla 12
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_osvaldoquezada/chunklist.m3u8
+#EXTINF:0, Taquilla 13
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatotv/chunklist.m3u8
+#EXTINF:0, Taquilla 14
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_chinomex2/chunklist.m3u8
+#EXTINF:0, Taquilla 15
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_zonafilmshd/chunklist.m3u8
+#EXTINF:0, Series 1
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_samantha_carter/chunklist.m3u8
+#EXTINF:0, Series 2
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_variedtv2/chunklist.m3u8
+#EXTINF:0, Dr House
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dr_daniel_jackson/chunklist.m3u8
+#EXTINF:0, Infantiles
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_chinomex1/chunklist.m3u8
+#EXTINF:0, Series Animadas 1
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatoseries/chunklist.m3u8
+#EXTINF:0, Series Animadas 2
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_variedtv/chunklist.m3u8
+#EXTINF:0, Series Comedias
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_club_comediatv/chunklist.m3u8
+#EXTINF:0, Anime 1
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_seriesan342/chunklist.m3u8
+#EXTINF:0, Anime 2
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_graciela90/chunklist.m3u8
+#EXTINF:0, Anime 3
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_ajap07/chunklist.m3u8
+#EXTINF:0, Anime 4
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_inspiranime/chunklist.m3u8
+#EXTINF:0, Dragon Ball
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_dragonballhd/chunklist.m3u8
+#EXTINF:0, Los Simpson 1
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_simpson_maniahd14/chunklist.m3u8
+#EXTINF:0, Los Simpson 2
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatosimpson5/chunklist.m3u8
+#EXTINF:0, Chespirito 1
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_vitatochespirito/chunklist.m3u8
+#EXTINF:0, Chespirito 2
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_chespirito_mania/chunklist.m3u8
+#EXTINF:0, El Chavo Del 8
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_centralseven/chunklist.m3u8
+#EXTINF:0, tvchile4
+http://mdstrm.com/live-stream-playlist/58d425333168db5c07ff3bfa.m3u8
+#EXTINF:0, tvchile6
+http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:0, tvchile7
+http://mdstrm.com/live-stream-playlist/555c9a7de50ac484167faa15.m3u8
+#EXTINF:0, TVN SE�AL 10
+http://mdstrm.com/live-stream-playlist/55defd629cbcc3a41481e79e.m3u8
+#EXTINF:0, Gravity Falls 24/7 [HD]
+http://stream.latino-webtv.com/series/gravityfalls.mp4
+#EXTINF:0, ESPN LATINO
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+#EXTINF:0, Fashion TV [ARG]
+http://prepublish.f.qaotic.net/a06/ngrp:ftv_live01-100083_all/Playlist.m3u8
+#EXTINF:0, TVNZ 1
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8
+#EXTINF:0, TVNZ 2
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+#EXTINF:0, TVNZ Duke
+https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/playlist.m3u8
+#EXTINF:0, +HR=E
+https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/tv3_live_https/master.m3u8
+#EXTINF:0, Bravo
+https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master.m3u8
+#EXTINF:0, Iquique TV (Iquique)
+http://http//nettv.cl/tv/iquiquetv.m3u8
+#EXTINF:0, Tamarugal Television (Pozo Almonte)
+http://nettv.cl/tv/tamarugaltv.m3u8
+#EXTINF:0, Tateti
+http://ar.watcha.live/ch16/hi.m3u8
+#EXTINF:0, Boing
+https://cdn.opencable.es/hls/live/boing/index.m3u8
+#EXTINF:0, Clan TVE
+https://cdn.opencable.es/hls/live/clan/index.m3u8
+#EXTINF:0, gol
+https://cdn.opencable.es/hls/live/goltv/index.m3u8
+#EXTINF:0, fighttime (ufc)
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+#EXTINF:0, neox
+https://cdn.opencable.es/hls/live/neox/index.m3u8
+#EXTINF:0, nova
+https://cdn.opencable.es/hls/live/nova/index.m3u8
+#EXTINF:0, mega
+https://cdn.opencable.es/hls/live/mega/index.m3u8
+#EXTINF:0, ten
+https://cdn.opencable.es/hls/live/ten/index.m3u8
+#EXTINF:0, divinity
+https://cdn.opencable.es/hls/live/divinity/index.m3u8
+#EXTINF:0, energy
+https://cdn.opencable.es/hls/live/energy/index.m3u8
+#EXTINF:0, fdf
+https://cdn.opencable.es/hls/live/fdf/index.m3u8
+#EXTINF:0, tnt
+https://cdn.opencable.es/hls/live/tnt/index.m3u8
+#EXTINF:0, fox
+https://cdn.opencable.es/hls/live/fox/index.m3u8
+#EXTINF:0, fox life
+https://cdn.opencable.es/hls/live/foxlife/index.m3u8
+#EXTINF:0, clan
+https://cdn.opencable.es/hls/live/clan/index.m3u8
+#EXTINF:0, boing
+https://cdn.opencable.es/hls/live/boing/index.m3u8
+#EXTINF:0, HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:0, Hbo Plus
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:0, HBO Family.
+https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+#EXTINF:0, HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:0, Fox Action HD.
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+#EXTINF:0, Fox Movies HD.
+https://freedom.dreamsmx.com/freedom/foxmoviesizi/playlist.m3u8
+#EXTINF:0, Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:0, Liga de Ascenso Mx TVC HD
+https://freedom.dreamsmx.com/freedom/nick2/playlist.m3u8
+#EXTINF:0, Max UP
+https://freedom.dreamsmx.com/freedom/feriastaurinas/playlist.m3u8
+#EXTINF:0, ESPN +
+https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+#EXTINF:0, TDN
+https://freedom.dreamsmx.com/freedom/eventos4/playlist.m3u8
+#EXTINF:0, Sony
+https://freedom.dreamsmx.com/freedom/lmb/playlist.m3u8
+#EXTINF:0, Disney XD
+https://freedom.dreamsmx.com/freedom/MLB/playlist.m3u8
+#EXTINF:0, UFC Fight Pass
+https://freedom.dreamsmx.com/freedom/mlb6/playlist.m3u8
+#EXTINF:0, PANAMERICANA PER�
+https://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:0, Am�rica
+http://live.tvplayerlatino.com/usuarios/src4/AmericaTV/Elarqi/7qe.m3u8
+#EXTINF:0, RCN de Colombia en HD
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:0, AMC HD
+http://cdn.opencable.es/hls/live/amchd/index.m3u8
+#EXTINF:0, Hollywood HD
+http://cdn.opencable.es/hls/live/hollywoodhd/index.m3u8
+#EXTINF:0, XTRM HD
+http://cdn.opencable.es/hls/live/xtremehd/index.m3u8
+#EXTINF:0, Canal Odisea HD
+http://cdn.opencable.es/hls/live/odiseahd/index.m3u8
+#EXTINF:0, Discovery Channel HD
+http://cdn.opencable.es/hls/live/discoveryhd/index.m3u8
+#EXTINF:0, Historia HD
+http://cdn.opencable.es/hls/live/historiahd/index.m3u8
+#EXTINF:0, Calle 13
+http://cdn.opencable.es/hls/live/calle13/index.m3u8
+#EXTINF:0, Panda
+http://cdn.opencable.es/hls/live/panda/index.m3u8
+#EXTINF:0, Comedy Central
+http://cdn.opencable.es/hls/live/comedycentral/index.m3u8
+#EXTINF:0, America Tv Peru
+https://live95.vkuserlive.com/613505/live/yDl4-SlAfzVAqF8F/playlist.m3u8
+#EXTINF:0, Panamericana Tv HD Peru
+http://stream-07.dc3.dailymotion.com/35/dm/3/x18w5up/live-4.m3u8
+#EXTINF:0, FDF
+http://edgo2.telesport.pw/live/fdf/index.m3u8
+#EXTINF:0, Cosmo
+https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u8
+#EXTINF:0, Hip Hop TV
+http://84.243.221.164:8000/play/a02t
+#EXTINF:0, FDF
+http://flus1.sanpedrowifi.com/live/fdf.SD.IRD/mono.m3u8
+#EXTINF:0, 1HD Music Television
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
+#EXTINF:0, Eurosport 1
+http://95.158.3.34:8888/udp/239.8.0.13:1234
+#EXTINF:0, Eurosport 2
+http://95.158.3.34:8888/udp/239.8.0.17:1234
+#EXTINF:0, Viasat sport
+http://95.158.3.34:8888/udp/239.8.0.12:1234
+#EXTINF:0, Viasat Golf
+http://95.158.3.34:8888/udp/239.8.0.11:1234
+#EXTINF:0, CDF P
+http://edga12.vergol.pw/live/cdf/index.m3u8
+#EXTINF:0, Temuco TV
+http://v1.tustreaming.cl:1935/tmctv/tmctv/chunklist_w1304346718.m3u8
+#EXTINF:0, Universidad Autonoma de Chile TV ALT
+https://586bca6430c72.streamlock.net/tvautonoma/tvautonoma/playlist.m3u8
+#EXTINF:0, Gufo Hits
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/fc13c4a3/playlist.m3u8
+#EXTINF:0, Gufo Chile
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d/playlist.m3u8
+#EXTINF:0, Nuart
+http://78.111.176.132:8080
+#EXTINF:0, Hustler TV
+http://78.111.176.132:8081
+#EXTINF:0, Russian Night
+http://78.111.176.132:8082
+#EXTINF:0, FAP TV Pissing
+http://5.39.74.227/play.php?login=lusygan&play=fap-tv-pissing
+#EXTINF:0, FAP TV Teens
+http://5.39.74.227/play.php?login=lusygan&play=fap-tv-teens
+#EXTINF:0, ACS Network TV
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:0, ArabTV
+http://149.56.17.92:1935/8404/8404/playlist.m3u8
+#EXTINF:0, Chile Visual | Antofagasta
+https://586bca6430c72.streamlock.net/chilevisual/smil:chilevisual.smil/playlist.m3u8
+#EXTINF:0, Rock Nacional TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:0, 324 | Espa�a
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0, CGTN CHINA 
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:0, FOX SPORTS ARGENTINA
+http://50.97.142.181:8080/foxsportt.m3u8
+#EXTINF:0, FOX SPORTS 3
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0, CANAL 6 DE COSTARICA HD
+http://dcfnah8d3r4n1.cloudfront.net/cr_repretel_canal6_ip/smil:v2.smil/playlist.m3u8
+#EXTINF:0, CARACOL TV HD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0, GUATEVISION (GUATEMALA)
+http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8?www.tecnotv.info
+#EXTINF:0, MEGA (ESPA�A) SD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:0, TVI
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:0, TVN Panam�
+https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
+#EXTINF:0, SER TV Panam�
+http://162.213.123.181:1935/sertv/live/playlist.m3u8
+#EXTINF:0, ECO Panam�
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-720p/chunks.m3u8
+#EXTINF:0, AM CANAL Antofagasta
+https://586bca6430c72.streamlock.net/amtv/amtv/playlist.m3u8
+#EXTINF:0, Promar TV Venezuela
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+#EXTINF:0, Planeta HD Bulgaria
+ http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0, Wapa TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0, HIP HOP TV
+https://stream.smcdn.pl/hiphoptv-p/s...chunklist.m3u8
+#EXTINF:0, Eska Rock
+https://stream.smcdn.pl/eska_rock-t/eska_rock_720p/chunklist.m3u8
+#EXTINF:0, Music Vox TV Old school
+https://stream.smcdn.pl/vox-t/vox_720p/chunklist.m3u8
+#EXTINF:0, Music Vox TV
+https://stream.smcdn.pl/vox2-p/stream1/chunklist.m3u8
+#EXTINF:0, Party Eska TV
+https://stream.smcdn.pl/eska_party-t/eska_party_720p/chunklist.m3u8
+#EXTINF:0, Wawa TV
+https://stream.smcdn.pl/wawa-t/wawa_720p/chunklist.m3u8
+#EXTINF:0, Best Music Eska TV
+https://stream.smcdn.pl/best-t/best_720p/chunklist.m3u8
+#EXTINF:0, Polo Party TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:0, Oye
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
+#EXTINF:0, Alternative | Music Choice
+ttp://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:0, Brits + Hits | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:0, Dance | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:0, Hip-Hop And R&B | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:0, Hit | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:0, Indie | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:0, Metal | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:0, Pop & Country | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:0, Pop Hits | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:0, R&B Soul | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:0, Rap | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:0, Rap 2K | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:0, Rock | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:0, Today | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:0, 90 | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:0, Throwback Jamz | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:0, Y2K | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:0, Music Choice | Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0, Mexicana | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:0, Musica Urbana | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:0, Pop Latino | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:0, Tropicales | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:0, Teen Beats | Music Choice
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:0, Kidz Only | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:0, Toddler Tunes | Music Choice
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+#EXTINF:0, Radio TV 105
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0, Otto 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:0, TC (Ecuador)
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0, GreenTV (M�xico)
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
+#EXTINF:0, TVRed (Chile)
+http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
+#EXTINF:0, Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, A3Series HD
+https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8
+#EXTINF:0, Antena 3 HD
+https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8
+#EXTINF:0, AyM Sports HD
+https://vivoplay-i.akamaihd.net/hls/live/255323/canal3/master.m3u8
+#EXTINF:0, Azteca Cinema HD
+https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master.m3u8
+#EXTINF:0, Azteca Click HD
+https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master.m3u8
+#EXTINF:0, Azteca Coraz�n HD
+https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master.m3u8
+#EXTINF:0, Caracol HD
+https://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master.m3u8
+#EXTINF:0, CB24 HD
+https://vivoplay-i.akamaihd.net/hls/live/255332/canal3/master.m3u8
+#EXTINF:0, Hola TV HD
+https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master.m3u8
+#EXTINF:0, Latin American Sports HD
+https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master.m3u8
+#EXTINF:0, Latin Angels HD
+https://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master.m3u8
+#EXTINF:0, NN Offline
+https://vivoplay-i.akamaihd.net/hls/live/253481/canal1/master.m3u8
+#EXTINF:0, NN Offline
+https://vivoplay-i.akamaihd.net/hls/live/253484/canal1/master.m3u8
+#EXTINF:0, NTN24HD
+https://vivoplay-i.akamaihd.net/hls/live/255326/canal6/master.m3u8
+#EXTINF:0, PXSports HD
+https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
+#EXTINF:0, RCN Novelas HD
+https://vivoplay-i.akamaihd.net/hls/live/255325/canal5/master.m3u8
+#EXTINF:0, RCN Nuestra Tele HD
+https://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master.m3u8
+#EXTINF:0, Show Business HD
+https://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master.m3u8
+#EXTINF:0, Telefe HD
+https://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master.m3u8
+#EXTINF:0, TV Chile HD
+https://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master.m3u8
+#EXTINF:0, Tv Quisqueya HD
+https://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master.m3u8
+#EXTINF:0, TV Vzla HD
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master.m3u8
+#EXTINF:0, TyC Sports HD
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master.m3u8
+#EXTINF:0, VIVOplay HD
+https://vivoplay-i.akamaihd.net/hls/live/255337/canal9/master.m3u8
+#EXTINF:0, VIVOplay HD
+https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master.m3u8
+#EXTINF:0, TDN
+https://eventos1.dreamsmx.com/EVENTOS/UNIVICION_TDN15_153_hd/playlist.m3u8
+#EXTINF:0, TeleSUR (venezuela)
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+#EXTINF:0, GoTV
+http://nstream17.gotv.at:1936/live/gotvlive_576p/chunklist.m3u8
+#EXTINF:0, Xite
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:0, XaulaTV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:0, TVPop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:0, Americateve
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+#EXTINF:0, GalaTV M�rida
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:0, GalaTV Cancun
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/plalist.m3u8
+#EXTINF:0, Digital TV Peru
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Mundo Auto TV
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:0, CABLE ONDA  SPORTS (PANAM�)
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-720p/chunks.m3u8
+#EXTINF:0, CGTN China en Espa�ol
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0, CGTN China en Espa�ol
+https://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:0, CGTN China en Espa�ol
+https://r1---sn-8ug-jj2l.googlevideo.com/videoplayback?aitags=133%2C134%2C135%2C160&expire=1504933280&cmbypass=yes&gcr=cl&noclen=1&key=yt6&ip=186.156.171.55&live=1&ipbits=0&hang=1&pl=24&keepalive=yes&ei=QCGzWd3bF8LxwQT1zZXoDA&requiressl=yes&itag=135&mime=video%2Fmp4&id=zghho0FINAk.2&signature=06D9010B517D37080AFC7BDF49F6614FF1A72E24.2918ACEB92D4BA543671CDE88FA58C8C457BB701&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&gir=yes&mm=32&mn=sn-8ug-jj2l&source=yt_live_broadcast&ms=lv&mt=1504911503&mv=u
+#EXTINF:0, Tves canal 10
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+#EXTINF:0, ATB
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8
+#EXTINF:0, SNT
+http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
+#EXTINF:0, America TV
+http://cdnh8.iblups.com/hls/xANLPWSk3d.m3u8
+#EXTINF:0, Frecuencia Latina
+https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+#EXTINF:0, Ready Television
+http://ss6.domint.net:2016/rtv_str/readytv/chunklist.m3u8
+#EXTINF:0, 13TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:0, 101TV
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:0, Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0, Americana TV
+http://cdnh8.iblups.com/hls/xANLPWSk3d.m3u8
+#EXTINF:0, Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0, Litus
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0, Mundo Auto TV
+http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
+#EXTINF:0, Super Cinco | Costa Rica
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+#EXTINF:0, Vision TV | Peru
+http://stream.tmcreativos.com:1935/visiontv/visiontv.smil/master.m3u8
+#EXTINF:0, 13Max TV | Argentina
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+#EXTINF:0, Radio Buena M�sica FM | Chile
+http://s6.jcwebnew.com:9040/stream
+#EXTINF:0, Coca-ColaFM (Brazil)
+http://s.imusicaradios.com.br:1935/imusica_radio/brasil.stream/playlist.m3u8
+#EXTINF:0, AERadio DuocUC
+http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
+
