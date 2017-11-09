@@ -1,6 +1,0 @@
-- labels:
-    job: iptv
-    module: http_2xx
-    host: iptv
-  targets:
-    - http://sproxyqa.bonoelectronico.cl/WSIMedBono/services/BENCERTIFPort?wsdl
