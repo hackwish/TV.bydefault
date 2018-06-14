@@ -1,5 +1,5 @@
 <?php 
-include 'controller_lista.php';
+include '../config/controllers/controller_lista.php';
 
 // Cabecera Playlist
 echo "#EXTM3U \r\n";

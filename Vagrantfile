@@ -46,7 +46,7 @@ Vagrant.configure("2") do |config|
 
         node.vm.provision :shell, :inline => "apt-get install vim git curl lamp-server^ -y"
 
-        node.vm.provision :shell, :inline => "cp /vagrant/010-tv.bydefault.dev.conf /etc/apache2/sites-available/"
+        node.vm.provision :shell, :inline => "cp /vagrant/app/010-tv.bydefault.dev.conf /etc/apache2/sites-available/"
 
         node.vm.provision :shell, :inline => "echo '127.0.1.1 bydefault.dev tv.bydefault.dev' >> /etc/hosts"
         node.vm.provision :shell, :inline => "echo '#{options[:ip]} bydefault.dev tv.bydefault.dev' >> /etc/hosts"
@@ -54,7 +54,7 @@ Vagrant.configure("2") do |config|
         node.vm.provision :shell, :inline => "a2ensite 010-tv.bydefault.dev && service apache2 restart"
         node.vm.provision :shell, :inline => "mysql --defaults-extra-file=/vagrant/config.cnf -e 'drop database if exists tv;'"
         node.vm.provision :shell, :inline => "mysql --defaults-extra-file=/vagrant/config.cnf -e 'create database tv;'"
-        node.vm.provision :shell, :inline => "mysql --defaults-extra-file=/vagrant/config.cnf tv < /vagrant/tv.sql"
+        node.vm.provision :shell, :inline => "mysql --defaults-extra-file=/vagrant/config.cnf tv < /vagrant/app/tv.sql"
 
 
         # node.vm.provision "puppet_server" do |puppet|

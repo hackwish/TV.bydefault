@@ -1,6 +1,6 @@
 <?php 
 
-include 'db.php';
+include '../config/core/db.php';
 
 $sql = "SELECT 
     c.idgrupo, g.descgrupo, c.nomcanal, c.logocanal, c.radio, c.url

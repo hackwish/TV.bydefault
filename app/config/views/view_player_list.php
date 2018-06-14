@@ -1,5 +1,5 @@
 <?php 
-include 'controller_player_list.php';
+include '../config/controllers/controller_player_list.php';
 
 $canal = $_POST['canal'];
 
@@ -12,12 +12,12 @@ echo "
 					<a style='width: 100%; height: 480px;' id='player'></a>
 						<!-- Flowplayer installation and configuration -->
 						<script type='text/javascript'>
-							flowplayer('player', '../player/flowplayer/flowplayer.swf', {
+							flowplayer('player', 'flowplayer/flowplayer.swf', {
 							// configure the required plugins
 							wmode: 'direct',
 							plugins: {
 							httpstreaming: {
-							url: '../player/bin/release/flashlsFlowPlayer.swf',
+							url: 'bin/release/flashlsFlowPlayer.swf',
 							hls_debug : false,
 							hls_debug2 : false,
 							hls_lowbufferlength : 3,
@@ -59,7 +59,6 @@ echo "
 			<form class='' name='form' method='post' action='' >
 				<div class='form-group' >
 					<select multiple  size='13' class='form-control form-canales' id='canales' name='canal'>";
-
 				    while($row = $result->fetch_assoc()) {
 				        echo "<option value='" . $row['url']. "'>" . $row['nomcanal']. "</option>";
 				    };
@@ -73,9 +72,9 @@ echo "
 		</div>
   		</div>
  		<div class='row'>
-			<div class='col-md-12 descripcion'>
-				ESTAS VIENDO:" . $row['nomcanal']. "			</div>
-  		</div>
+			<div class='col-md-12 descripcion'>";
+echo "				ESTAS VIENDO: " . $nomcanal. "			</div>";
+echo  		"</div>
   	</div>
 
 	";
